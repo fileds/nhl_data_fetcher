@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479991,Jake Leschyshyn,/api/v1/people/8479991,Jake,Leschyshyn,15,1999-03-10,23,Raleigh,NC,USA,USA,"5' 11""",192,True,False,False,True,L,Y,"{'id': 54, 'name': 'Vegas Golden Knights', 'link': '/api/v1/teams/54'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

@@ -1,0 +1,25 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,shortHandedGoals,shots,shotPct,gameWinningGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Lloydminster Heat Bantam AAA,AMBHL,61178,18,10,76,32,76,0.0,28,,,,,,,,,,,,,,,,
+0,20112012,Lloydminster Heat Bantam AAA,AMBHL,61178,23,11,44,33,44,0.0,34,,,,,,,,,,,,,,,,
+0,20122013,Lloydminster Heat Bantam AAA,AMBHL,61178,42,35,44,33,44,0.0,77,,,,,,,,,,,,,,,,
+0,20132014,Lloydminster,AMHL,1,22,11,34,31,34,,33,,,,,,,,,,,,,,,,
+0,20132014,Brandon,WHL,2,0,0,0,2,0,0.0,0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,Brandon,WHL,1,9,4,6,20,6,-1.0,13,1.0,0.0,5.0,80.0,0.0,,,,,,,,,,,
+0,20152016,Brandon,WHL,1,37,6,54,71,54,25.0,43,0.0,0.0,,,,,,,,,,,,,,
+0,20152016,Brandon Wheat Kings,M-Cup,9071,0,0,2,3,2,-4.0,0,,,,,,,,,,,,,,,,
+0,20152016,Brandon Wheat Kings,WHL,9591,37,6,54,71,54,25.0,43,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,Hlinka Gretzky Cup,144760,0,1,2,4,2,2.0,1,,,,,,,,,,,,,,,,
+0,20152016,Team White,U18-Dev,178691,2,0,0,3,0,,2,,,,,,,,,,,,,,,,
+0,20162017,Brandon Wheat Kings,WHL,9591,35,5,41,48,41,-8.0,40,,,,,,,,,,,,,,,,
+0,20162017,Canada U20,WJC-20,17216,6,0,2,7,2,6.0,6,,,,,,,,,,,,,,,,
+0,20172018,Moose Jaw Warriors,WHL,7741,23,1,8,26,8,11.0,24,,,,,,,,,,,,,,,,
+0,20172018,Brandon Wheat Kings,WHL,9591,37,10,35,28,35,31.0,47,,,,,,,,,,,,,,,,
+0,20172018,Canada U20,WJC-20,17216,2,0,4,6,4,-1.0,2,,,,,,,,,,,,,,,,
+0,20182019,Ontario Reign,AHL,26957,22,7,34,52,34,-20.0,29,,,,,,,,,,,,,,,,
+0,20192020,Los Angeles Kings,National Hockey League,1,0,0,2,4,2,-3.0,0,0.0,0.0,2.0,0.0,0.0,58:14,1.0,0.0,00:53,57:21,0.0,0.0,0.0,00:00,4.0,72.0
+0,20192020,Ontario Reign,AHL,26957,17,8,26,49,26,-14.0,25,,,,,,,,,,,,,,,,
+0,20202021,Los Angeles Kings,National Hockey League,1,6,0,4,18,4,-6.0,6,0.0,0.0,24.0,0.0,0.0,309:42,9.0,0.0,16:11,274:50,0.0,0.0,0.0,18:41,13.0,382.0
+0,20202021,Ontario Reign,AHL,26957,11,1,8,23,8,-7.0,12,,,,,,,,,,,,,,,,
+0,20212022,Los Angeles Kings,National Hockey League,1,5,0,2,11,2,-2.0,5,0.0,0.0,6.0,0.0,0.0,196:09,0.0,3.0,37:34,155:44,0.0,0.0,0.0,02:51,9.0,227.0
+0,20212022,Montréal Canadiens,National Hockey League,2,3,2,18,25,18,-8.0,5,0.0,0.0,20.0,10.0,0.0,406:24,14.0,0.0,23:14,372:59,0.0,0.0,0.0,10:11,14.0,480.0
+0,20212022,Ontario Reign,AHL,26957,4,0,0,5,0,2.0,4,,,,,,,,,,,,,,,,

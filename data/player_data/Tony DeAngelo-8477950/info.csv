@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477950,Tony DeAngelo,/api/v1/people/8477950,Tony,DeAngelo,77,1995-10-24,26,Sewell,NJ,USA,USA,"5' 11""",180,True,False,False,False,R,Y,"{'id': 4, 'name': 'Philadelphia Flyers', 'link': '/api/v1/teams/4'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477998,Warren Foegele,/api/v1/people/8477998,Warren,Foegele,37,1996-04-01,26,Markham,ON,CAN,CAN,"6' 2""",198,True,False,False,False,L,Y,"{'id': 22, 'name': 'Edmonton Oilers', 'link': '/api/v1/teams/22'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

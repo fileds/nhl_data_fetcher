@@ -1,0 +1,22 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,shortHandedGoals,shots,shotPct,gameWinningGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,SSAC Bantam AA 2,ERBHL,109222,8,13,0,12,0,0.0,21,,,,,,,,,,,,,,,,
+0,20112012,SSAC Lions Bantam AAA,AMBHL,47158,50,34,44,33,44,0.0,84,,,,,,,,,,,,,,,,
+0,20122013,SSAC Lions Bantam AAA,AMBHL,47158,89,57,52,33,52,0.0,146,,,,,,,,,,,,,,,,
+0,20132014,PoE Acad. Prep,CSSHL,1,20,15,40,15,40,,35,,,,,,,,,,,,,,,,
+0,20132014,PoE Acad. U18,NAPHL,2,26,14,48,21,48,,40,,,,,,,,,,,,,,,,
+0,20132014,PoE Acad. U18,Other,3,6,3,6,6,6,,9,,,,,,,,,,,,,,,,
+0,20132014,Vancouver,WHL,4,0,0,0,7,0,-1.0,0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,Vancouver,WHL,1,31,14,55,62,55,-1.0,45,3.0,1.0,15.0,93.3,2.0,,,,,,,,,,,
+0,20152016,Vancouver Giants,WHL,9661,19,9,46,30,46,0.0,28,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,Hlinka Gretzky Cup,144760,4,1,0,4,0,4.0,5,,,,,,,,,,,,,,,,
+0,20152016,Team White,U18-Dev,178691,1,0,0,3,0,,1,,,,,,,,,,,,,,,,
+0,20162017,Vancouver Giants,WHL,9661,31,11,31,33,31,-3.0,42,,,,,,,,,,,,,,,,
+0,20172018,Bakersfield Condors,AHL,7257,3,0,0,5,0,-1.0,3,,,,,,,,,,,,,,,,
+0,20172018,Vancouver Giants,WHL,9661,42,27,39,58,39,-1.0,69,,,,,,,,,,,,,,,,
+0,20182019,Bakersfield Condors,AHL,7257,51,15,44,68,44,21.0,66,,,,,,,,,,,,,,,,
+0,20192020,Edmonton Oilers,National Hockey League,1,1,0,0,7,0,-1.0,1,0.0,0.0,5.0,0.0,0.0,72:39,3.0,0.0,02:51,69:48,100.0,0.0,0.0,00:00,1.0,98.0
+0,20192020,Bakersfield Condors,AHL,7257,27,9,34,47,34,-10.0,36,,,,,,,,,,,,,,,,
+0,20202021,GC/Küsnacht,SL,3867,17,2,20,15,20,4.0,19,,,,,,,,,,,,,,,,
+0,20202021,Bakersfield Condors,AHL,7257,26,10,30,36,30,14.0,36,,,,,,,,,,,,,,,,
+0,20212022,Edmonton Oilers,National Hockey League,1,1,1,18,29,18,-5.0,2,0.0,0.0,18.0,5.6,0.0,247:48,45.0,0.0,04:25,243:23,0.0,0.0,0.0,00:00,3.0,327.0
+0,20212022,Bakersfield Condors,AHL,7257,8,4,8,18,8,4.0,12,,,,,,,,,,,,,,,,

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482133,Thomas Bordeleau,/api/v1/people/8482133,Thomas,Bordeleau,23,2002-01-03,20,Houston,TX,USA,USA,"5' 10""",175,True,False,False,True,L,Y,"{'id': 28, 'name': 'San Jose Sharks', 'link': '/api/v1/teams/28'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

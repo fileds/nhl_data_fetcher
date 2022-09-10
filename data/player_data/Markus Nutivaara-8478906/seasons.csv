@@ -1,0 +1,22 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Kärpät U16,Jr. C SM-sarja Q,10154268,4,0,0,7,0,0.0,4,,,,,,,,,,,,,,,,
+0,20102011,Ahmat Haukipudas U18,Jr. B I-divisioona Q,10092262,6,2,33,9,33,0.0,8,,,,,,,,,,,,,,,,
+0,20112012,Karpat U18,Fin-U18,1,20,10,14,41,14,,30,,,,,,,,,,,,,,,,
+0,20122013,Pelicans Jr.,Fin-Jr.,1,11,4,14,42,14,,15,,,,,,,,,,,,,,,,
+0,20132014,Karpat Jr.,Fin-Jr.,1,9,2,10,19,10,,11,,,,,,,,,,,,,,,,
+0,20132014,Jokipojat,Finland-2,2,3,0,4,11,4,,3,,,,,,,,,,,,,,,,
+0,20142015,Karpat Jr.,Fin-Jr.,1,6,2,0,7,0,,8,,,,,,,,,,,,,,,,
+0,20142015,Hokki,Finland-2,2,2,0,2,2,2,,2,,,,,,,,,,,,,,,,
+0,20142015,Karpat,Finland,3,2,0,4,35,4,,2,,,,,,,,,,,,,,,,
+0,20152016,Karpat,Finland,1,16,6,14,50,14,,22,,,,,,,,,,,,,,,,
+0,20152016,Kärpät,Champions HL,542,5,4,0,13,0,11.0,9,,,,,,,,,,,,,,,,
+0,20152016,Kärpät,Liiga,919,16,6,14,50,14,10.0,22,,,,,,,,,,,,,,,,
+0,20152016,Finland,EHT,68516,0,1,0,3,0,-2.0,1,,,,,,,,,,,,,,,,
+0,20162017,Columbus Blue Jackets,National Hockey League,1,5,2,6,66,6,7.0,7,872:02,66.0,36.0,0.0,0.0,11:18,859:02,0.0,3.03,0.0,0.0,0.0,0.0,01:42,38.0,1187.0
+0,20172018,Columbus Blue Jackets,National Hockey League,1,16,7,14,61,14,13.0,23,977:44,79.0,42.0,1.0,2.0,34:03,940:50,0.0,8.86,1.0,0.0,0.0,0.0,02:51,40.0,1281.0
+0,20172018,Finland,WC,17055,6,3,6,8,6,9.0,9,,,,,,,,,,,,,,,,
+0,20172018,Cleveland Monsters,AHL,22447,0,0,0,3,0,-2.0,0,,,,,,,,,,,,,,,,
+0,20182019,Columbus Blue Jackets,National Hockey League,1,16,5,6,80,6,3.0,21,1414:23,99.0,80.0,0.0,0.0,13:20,1387:55,0.0,5.05,1.0,0.0,0.0,0.0,13:08,61.0,1846.0
+0,20192020,Columbus Blue Jackets,National Hockey League,1,6,3,4,37,4,2.0,9,589:05,47.0,35.0,0.0,1.0,11:26,576:26,0.0,6.4,0.0,0.0,0.0,0.0,01:13,33.0,747.0
+0,20202021,Florida Panthers,National Hockey League,1,10,0,12,30,12,1.0,10,479:16,45.0,35.0,0.0,0.0,15:12,454:25,0.0,0.0,0.0,0.0,0.0,0.0,09:39,13.0,655.0
+0,20212022,Florida Panthers,National Hockey League,1,1,0,0,1,0,0.0,1,07:01,0.0,1.0,0.0,0.0,00:00,07:01,0.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,12.0

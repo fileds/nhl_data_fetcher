@@ -1,0 +1,15 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20152016,Metallurg Magnitogorsk U17,Russia U17,92348,1,0,0,3,0,1,,,,,,,,,,,,,,,,,
+0,20152016,Traktor Chelyabinsk U16,Russia U16,199587,0,0,2,5,2,0,,,,,,,,,,,,,,,,,
+0,20152016,Metallurg Magnitogorsk U16,Russia U16,199607,8,0,8,15,8,8,,,,,,,,,,,,,,,,,
+0,20162017,Metallurg Magnitogorsk U17,Russia U17,92348,23,3,28,36,28,26,,,,,,,,,,,,,,,,,
+0,20172018,Calgary Hitmen,WHL,6781,9,2,24,31,24,11,1.0,,,,,,,,,,,,,,,,
+0,20172018,Regina Pats,WHL,9641,7,0,14,38,14,7,-1.0,,,,,,,,,,,,,,,,
+0,20172018,Russia U18,WJC-18,17523,1,1,4,5,4,2,5.0,,,,,,,,,,,,,,,,
+0,20182019,Calgary Hitmen,WHL,6781,46,10,27,61,27,56,6.0,,,,,,,,,,,,,,,,
+0,20192020,Calgary Hitmen,WHL,6781,21,7,14,28,14,28,19.0,,,,,,,,,,,,,,,,
+0,20192020,Russia U20,WJC-20,17546,3,2,6,7,6,5,2.0,,,,,,,,,,,,,,,,
+0,20202021,Philadelphia Flyers,National Hockey League,1,0,0,0,2,0,0,1.0,34:08,5.0,1.0,0.0,0.0,00:19,33:49,0.0,0.0,0.0,0.0,0.0,0.0,00:00,1.0,46.0
+0,20202021,Lehigh Valley Phantoms,AHL,173347,6,0,8,25,8,6,1.0,,,,,,,,,,,,,,,,
+0,20212022,Philadelphia Flyers,National Hockey League,1,0,0,4,10,4,0,-6.0,163:28,4.0,5.0,0.0,0.0,00:07,153:24,0.0,0.0,0.0,0.0,0.0,0.0,09:57,19.0,201.0
+0,20212022,Lehigh Valley Phantoms,AHL,173347,25,4,16,58,16,29,2.0,,,,,,,,,,,,,,,,

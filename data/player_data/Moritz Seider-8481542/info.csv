@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481542,Moritz Seider,/api/v1/people/8481542,Moritz,Seider,53,2001-04-06,21,Zell,DEU,DEU,"6' 4""",197,True,False,False,True,R,Y,"{'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

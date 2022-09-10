@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480005,Kristian Vesalainen,/api/v1/people/8480005,Kristian,Vesalainen,93,1999-06-01,23,Helsinki,FIN,FIN,"6' 3""",207,True,False,False,True,L,Y,"{'id': 52, 'name': 'Winnipeg Jets', 'link': '/api/v1/teams/52'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

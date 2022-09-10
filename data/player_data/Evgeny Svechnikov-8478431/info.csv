@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478431,Evgeny Svechnikov,/api/v1/people/8478431,Evgeny,Svechnikov,71,1996-10-31,25,Yuzhno-Sakhalinsk,RUS,RUS,"6' 3""",208,True,False,False,False,L,Y,"{'id': 28, 'name': 'San Jose Sharks', 'link': '/api/v1/teams/28'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

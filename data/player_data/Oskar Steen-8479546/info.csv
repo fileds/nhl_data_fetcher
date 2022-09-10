@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479546,Oskar Steen,/api/v1/people/8479546,Oskar,Steen,62,1998-03-09,24,Karlstad,SWE,SWE,"5' 9""",199,True,False,False,True,R,Y,"{'id': 6, 'name': 'Boston Bruins', 'link': '/api/v1/teams/6'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

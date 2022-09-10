@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477446,Michael McCarron,/api/v1/people/8477446,Michael,McCarron,47,1995-03-07,27,Grosse Pointe,MI,USA,USA,"6' 6""",232,True,False,False,False,R,Y,"{'id': 18, 'name': 'Nashville Predators', 'link': '/api/v1/teams/18'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

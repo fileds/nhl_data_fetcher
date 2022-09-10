@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482090,Jack Finley,/api/v1/people/8482090,Jack,Finley,2002-09-02,20,St. Louis,MO,USA,USA,"6' 6""",220,True,False,False,True,R,Y,"{'id': 14, 'name': 'Tampa Bay Lightning', 'link': '/api/v1/teams/14'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

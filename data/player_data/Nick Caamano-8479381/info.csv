@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479381,Nick Caamano,/api/v1/people/8479381,Nick,Caamano,17,1998-09-07,24,Ancaster,ON,CAN,CAN,"6' 3""",205,True,False,False,False,L,Y,"{'id': 25, 'name': 'Dallas Stars', 'link': '/api/v1/teams/25'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

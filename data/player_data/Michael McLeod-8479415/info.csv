@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479415,Michael McLeod,/api/v1/people/8479415,Michael,McLeod,20,1998-02-03,24,Mississauga,ON,CAN,CAN,"6' 2""",190,True,False,False,False,R,Y,"{'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

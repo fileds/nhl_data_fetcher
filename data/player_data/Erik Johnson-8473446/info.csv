@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8473446,Erik Johnson,/api/v1/people/8473446,Erik,Johnson,6,1988-03-21,34,Bloomington,MN,USA,USA,"6' 4""",225,True,False,False,False,R,Y,"{'id': 21, 'name': 'Colorado Avalanche', 'link': '/api/v1/teams/21'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

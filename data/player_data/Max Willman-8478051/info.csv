@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478051,Max Willman,/api/v1/people/8478051,Max,Willman,71,1995-02-13,27,Barnstable,MA,USA,USA,"6' 0""",184,True,False,False,False,L,Y,"{'id': 4, 'name': 'Philadelphia Flyers', 'link': '/api/v1/teams/4'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

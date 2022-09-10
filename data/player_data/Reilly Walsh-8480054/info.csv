@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480054,Reilly Walsh,/api/v1/people/8480054,Reilly,Walsh,8,1999-04-21,23,Framingham,MA,USA,USA,"6' 0""",185,True,False,False,True,R,Y,"{'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

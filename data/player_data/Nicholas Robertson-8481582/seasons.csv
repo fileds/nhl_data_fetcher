@@ -1,0 +1,15 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,Little Caesars Bantam Minor AAA,HPMBHL,142436,13,6,2,16,2,19,,,,,,,,,,,,,,,,,
+0,20152016,TPH Selects U15,WSI U15,225390,2,2,0,6,0,4,,,,,,,,,,,,,,,,,
+0,20162017,North York Rangers,OJHL,21320,3,0,2,4,2,3,,,,,,,,,,,,,,,,,
+0,20162017,Toronto Red Wings U16 AAA,GTHL U16,97860,18,18,20,32,20,36,,,,,,,,,,,,,,,,,
+0,20172018,Peterborough Petes,OHL,9468,18,15,14,62,14,33,-27.0,,,,,,,,,,,,,,,,
+0,20182019,Peterborough Petes,OHL,9468,28,27,24,54,24,55,-3.0,,,,,,,,,,,,,,,,
+0,20182019,USA U18,Hlinka Gretzky Cup,140070,1,4,2,5,2,5,,,,,,,,,,,,,,,,,
+0,20182019,Team Columbia,USA-S17,177385,2,3,2,5,2,5,,,,,,,,,,,,,,,,,
+0,20192020,Peterborough Petes,OHL,9468,31,55,40,46,40,86,29.0,,,,,,,,,,,,,,,,
+0,20192020,USA U20,WJC-20,17276,3,2,2,5,2,5,2.0,,,,,,,,,,,,,,,,
+0,20202021,Toronto Maple Leafs,National Hockey League,1,1,0,0,6,0,1,1.0,56:34,9.0,3.0,0.0,0.0,04:26,51:25,0.0,0.0,0.0,0.0,0.0,0.0,00:43,2.0,79.0
+0,20202021,Toronto Marlies,AHL,13377,11,5,12,21,12,16,3.0,,,,,,,,,,,,,,,,
+0,20212022,Toronto Maple Leafs,National Hockey League,1,0,1,4,10,4,1,-4.0,102:43,14.0,10.0,0.0,0.0,04:49,97:54,0.0,7.1,0.0,0.0,0.0,0.0,00:00,2.0,155.0
+0,20212022,Toronto Marlies,AHL,13377,12,16,8,28,8,28,2.0,,,,,,,,,,,,,,,,

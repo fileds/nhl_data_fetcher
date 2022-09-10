@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478173,Hayden Hodgson,/api/v1/people/8478173,Hayden,Hodgson,42,1996-03-02,26,Windsor,ON,CAN,CAN,"6' 2""",208,True,False,False,True,R,Y,"{'id': 4, 'name': 'Philadelphia Flyers', 'link': '/api/v1/teams/4'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

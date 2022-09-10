@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8473994,Jamie Benn,/api/v1/people/8473994,Jamie,Benn,14,1989-07-18,33,Victoria,BC,CAN,CAN,"6' 2""",210,True,False,True,False,L,Y,"{'id': 25, 'name': 'Dallas Stars', 'link': '/api/v1/teams/25'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

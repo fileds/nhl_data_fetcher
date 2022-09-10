@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8471679,Carey Price,/api/v1/people/8471679,Carey,Price,31,1987-08-16,35,Anahim Lake,BC,CAN,CAN,"6' 3""",217,True,False,False,False,L,Y,"{'id': 8, 'name': 'Montréal Canadiens', 'link': '/api/v1/teams/8'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

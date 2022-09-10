@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8474590,John Carlson,/api/v1/people/8474590,John,Carlson,74,1990-01-10,32,Natick,MA,USA,USA,"6' 3""",215,True,True,False,False,R,Y,"{'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

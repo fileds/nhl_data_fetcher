@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478021,William Lagesson,/api/v1/people/8478021,William,Lagesson,84,1996-02-22,26,Gothenburg,SWE,SWE,"6' 2""",207,True,False,False,False,L,Y,"{'id': 12, 'name': 'Carolina Hurricanes', 'link': '/api/v1/teams/12'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481533,Trevor Zegras,/api/v1/people/8481533,Trevor,Zegras,11,2001-03-20,21,Bedford,NY,USA,USA,"6' 0""",185,True,False,False,True,L,Y,"{'id': 24, 'name': 'Anaheim Ducks', 'link': '/api/v1/teams/24'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

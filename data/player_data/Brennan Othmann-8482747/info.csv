@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482747,Brennan Othmann,/api/v1/people/8482747,Brennan,Othmann,78,2003-01-05,19,Scarborough,ON,CAN,CAN,"6' 0""",175,True,False,False,True,L,Y,"{'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

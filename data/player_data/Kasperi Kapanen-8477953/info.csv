@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477953,Kasperi Kapanen,/api/v1/people/8477953,Kasperi,Kapanen,42,1996-07-23,26,Kuopio,FIN,FIN,"6' 1""",194,True,False,False,False,R,Y,"{'id': 5, 'name': 'Pittsburgh Penguins', 'link': '/api/v1/teams/5'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

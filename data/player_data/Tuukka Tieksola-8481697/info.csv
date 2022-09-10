@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481697,Tuukka Tieksola,/api/v1/people/8481697,Tuukka,Tieksola,2001-06-22,21,Oulu,FIN,FIN,"5' 10""",146,True,False,False,True,R,Y,"{'id': 12, 'name': 'Carolina Hurricanes', 'link': '/api/v1/teams/12'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

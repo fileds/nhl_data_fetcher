@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482475,Yegor Chinakhov,/api/v1/people/8482475,Yegor,Chinakhov,59,2001-02-01,21,Omsk,RUS,RUS,"6' 1""",189,True,False,False,True,L,Y,"{'id': 29, 'name': 'Columbus Blue Jackets', 'link': '/api/v1/teams/29'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

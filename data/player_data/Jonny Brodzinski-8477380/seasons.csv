@@ -1,0 +1,23 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Blaine,High-MN,1,26,22,18,30,18,48,,,,,,,,,,,,,,,,,
+0,20102011,Northwest,UMHSEL,1,14,11,10,21,10,25,,,,,,,,,,,,,,,,,
+0,20102011,Blaine,High-MN,2,29,31,18,30,18,60,,,,,,,,,,,,,,,,,
+0,20102011,Fargo,USHL,3,3,2,2,10,2,5,25.0,1.0,8.0,0.0,0.0,2.0,,,,,,,,,,,
+0,20112012,Fargo,USHL,1,12,10,18,58,18,22,164.0,0.0,6.1,1.0,0.0,5.0,,,,,,,,,,,
+0,20122013,St. Cloud State,WCHA,1,11,22,10,42,10,33,,1.0,,2.0,0.0,,,,,,,,,,,,
+0,20132014,St. Cloud State,NCHC,1,20,21,16,38,16,41,,9.0,,2.0,0.0,,,,,,,,,,,,
+0,20142015,St. Cloud State,NCHC,1,17,21,49,40,49,38,,11.0,,3.0,0.0,,,,,,,,,,,,
+0,20152016,Ontario,AHL,1,13,15,16,65,16,28,173.0,2.0,8.7,3.0,0.0,11.0,,,,,,,,,,,
+0,20152016,Ontario Reign,AHL,26957,13,15,16,65,16,28,,,,,,11.0,,,,,,,,,,,
+0,20162017,Los Angeles Kings,National Hockey League,1,2,0,2,6,2,2,17.0,0.0,0.0,0.0,0.0,2.0,73:43,10.0,0.0,01:52,71:48,0.0,0.0,0.0,00:03,4.0,98.0
+0,20162017,Ontario Reign,AHL,26957,22,27,12,59,12,49,,,,,,3.0,,,,,,,,,,,
+0,20172018,Los Angeles Kings,National Hockey League,1,2,4,6,35,6,6,53.0,0.0,7.55,1.0,0.0,4.0,332:41,35.0,0.0,08:53,322:53,40.0,0.0,0.0,00:55,9.0,480.0
+0,20172018,Ontario Reign,AHL,26957,17,13,18,29,18,30,,,,,,9.0,,,,,,,,,,,
+0,20182019,Los Angeles Kings,National Hockey League,1,1,2,2,13,2,3,17.0,0.0,11.76,0.0,0.0,0.0,129:00,23.0,0.0,03:50,125:07,50.0,0.0,0.0,00:03,7.0,176.0
+0,20182019,Ontario Reign,AHL,26957,0,1,2,3,2,1,,,,,,-3.0,,,,,,,,,,,
+0,20192020,San Jose Sharks,National Hockey League,1,1,0,0,3,0,1,5.0,0.0,0.0,0.0,0.0,0.0,22:12,3.0,0.0,01:16,20:56,0.0,0.0,0.0,00:00,0.0,35.0
+0,20192020,San Jose Barracuda,AHL,187427,16,14,26,44,26,30,,,,,,-1.0,,,,,,,,,,,
+0,20202021,New York Rangers,National Hockey League,1,0,1,4,5,4,1,7.0,0.0,14.3,0.0,0.0,0.0,56:40,4.0,0.0,01:34,55:06,0.0,0.0,0.0,00:00,2.0,91.0
+0,20202021,Hartford Wolf Pack,AHL,847,11,6,8,14,8,17,,,,,,4.0,,,,,,,,,,,
+0,20212022,New York Rangers,National Hockey League,1,1,1,10,22,10,2,34.0,0.0,2.9,0.0,0.0,1.0,238:50,8.0,0.0,00:51,218:52,50.52,0.0,0.0,19:07,8.0,347.0
+0,20212022,Hartford Wolf Pack,AHL,847,21,18,34,36,34,39,,,,,,8.0,,,,,,,,,,,

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482741,Braeden Kressler,/api/v1/people/8482741,Braeden,Kressler,2003-01-05,19,Kitchener,ON,CAN,CAN,"5' 9""",165,True,False,False,True,R,Y,"{'id': 10, 'name': 'Toronto Maple Leafs', 'link': '/api/v1/teams/10'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

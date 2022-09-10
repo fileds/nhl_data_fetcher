@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Lac St-Louis Tigres Espoir,QMEAA,136586,9,3,24,29,24,0.0,12,,,,,,,,,,,,,,,,
+0,20122013,Lac St-Louis Lions,QMAAA,37693,27,5,12,42,12,0.0,32,,,,,,,,,,,,,,,,
+0,20132014,Lac St-Louis,QAAA,1,26,7,74,42,74,,33,,,,,,,,,,,,,,,,
+0,20142015,Waterloo,USHL,1,3,1,6,11,6,-6.0,4,12.0,0.0,8.3,0.0,0.0,,,,,,,,,,,
+0,20142015,Bloomington ,USHL,2,17,3,70,43,70,10.0,20,74.0,1.0,4.1,0.0,0.0,,,,,,,,,,,
+0,20152016,Bloomington,USHL,1,37,13,48,60,48,-8.0,50,179.0,3.0,7.3,3.0,1.0,,,,,,,,,,,
+0,20152016,Central Illinois Flying Aces,USHL,172056,36,13,48,60,48,-8.0,49,,,,,,,,,,,,,,,,
+0,20162017,Northeastern Univ.,NCAA,15210,15,8,38,38,38,-5.0,23,,,,,,,,,,,,,,,,
+0,20172018,Northeastern Univ.,NCAA,15210,29,6,39,36,39,18.0,35,,,,,,,,,,,,,,,,
+0,20172018,Team Canada,Spengler Cup,250335,1,0,0,4,0,-1.0,1,,,,,,,,,,,,,,,,
+0,20182019,Northeastern Univ.,NCAA,15210,28,8,41,37,41,8.0,36,,,,,,,,,,,,,,,,
+0,20192020,Milwaukee Admirals,AHL,1017,24,4,46,62,46,26.0,28,,,,,,,,,,,,,,,,
+0,20202021,Nashville Predators,National Hockey League,1,1,0,8,16,8,3.0,1,19.0,0.0,0.0,0.0,0.0,240:39,11.0,0.0,09:25,228:47,0.0,0.0,0.0,02:27,7.0,313.0
+0,20202021,Chicago Wolves,AHL,957,9,0,6,9,6,10.0,9,,,,,,,,,,,,,,,,
+0,20212022,Nashville Predators,National Hockey League,1,2,0,2,6,2,-5.0,2,5.0,0.0,0.0,0.0,0.0,73:31,5.0,0.0,01:11,72:06,0.0,0.0,0.0,00:14,1.0,113.0
+0,20212022,Milwaukee Admirals,AHL,1017,25,6,47,54,47,13.0,31,,,,,,,,,,,,,,,,

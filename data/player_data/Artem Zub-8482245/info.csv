@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482245,Artem Zub,/api/v1/people/8482245,Artem,Zub,2,1995-10-03,26,Khabarovsk,RUS,RUS,"6' 2""",202,True,False,False,False,R,Y,"{'id': 9, 'name': 'Ottawa Senators', 'link': '/api/v1/teams/9'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

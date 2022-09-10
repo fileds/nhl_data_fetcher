@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481712,Matej Blumel,/api/v1/people/8481712,Matej,Blumel,2000-05-31,22,Tabor,CZE,CZE,"6' 0""",198,True,False,False,True,L,Y,"{'id': 25, 'name': 'Dallas Stars', 'link': '/api/v1/teams/25'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

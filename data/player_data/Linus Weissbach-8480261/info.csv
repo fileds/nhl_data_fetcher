@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480261,Linus Weissbach,/api/v1/people/8480261,Linus,Weissbach,65,1998-04-19,24,Gothenburg,SWE,SWE,"5' 9""",177,True,False,False,True,L,Y,"{'id': 7, 'name': 'Buffalo Sabres', 'link': '/api/v1/teams/7'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

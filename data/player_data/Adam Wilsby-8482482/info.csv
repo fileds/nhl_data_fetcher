@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482482,Adam Wilsby,/api/v1/people/8482482,Adam,Wilsby,2000-08-07,22,Stockholm,SWE,SWE,"6' 1""",188,True,False,False,True,L,Y,"{'id': 18, 'name': 'Nashville Predators', 'link': '/api/v1/teams/18'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

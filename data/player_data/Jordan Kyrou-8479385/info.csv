@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479385,Jordan Kyrou,/api/v1/people/8479385,Jordan,Kyrou,25,1998-05-05,24,Toronto,ON,CAN,CAN,"6' 1""",196,True,False,False,False,R,Y,"{'id': 19, 'name': 'St. Louis Blues', 'link': '/api/v1/teams/19'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

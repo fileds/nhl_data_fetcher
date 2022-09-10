@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481075,Peter Diliberatore,/api/v1/people/8481075,Peter,Diliberatore,2000-03-31,22,Bedford,NS,CAN,CAN,"5' 11""",160,True,False,False,True,L,Y,"{'id': 54, 'name': 'Vegas Golden Knights', 'link': '/api/v1/teams/54'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

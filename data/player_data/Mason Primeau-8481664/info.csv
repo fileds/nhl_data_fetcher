@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481664,Mason Primeau,/api/v1/people/8481664,Mason,Primeau,2001-07-28,21,Owen Sound,ON,CAN,CAN,"6' 5""",205,True,False,False,True,L,Y,"{'id': 54, 'name': 'Vegas Golden Knights', 'link': '/api/v1/teams/54'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

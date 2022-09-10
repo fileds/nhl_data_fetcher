@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481068,Yegor Sharangovich,/api/v1/people/8481068,Yegor,Sharangovich,17,1998-06-06,24,Minsk,BLR,BLR,"6' 2""",196,True,False,False,False,L,Y,"{'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

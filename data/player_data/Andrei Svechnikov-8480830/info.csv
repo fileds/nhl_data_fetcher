@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480830,Andrei Svechnikov,/api/v1/people/8480830,Andrei,Svechnikov,37,2000-03-26,22,Barnaul,RUS,RUS,"6' 2""",195,True,False,False,False,L,Y,"{'id': 12, 'name': 'Carolina Hurricanes', 'link': '/api/v1/teams/12'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479382,Connor Bunnaman,/api/v1/people/8479382,Connor,Bunnaman,82,1998-04-16,24,Guelph,ON,CAN,CAN,"6' 1""",207,True,False,False,False,L,Y,"{'id': 13, 'name': 'Florida Panthers', 'link': '/api/v1/teams/13'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

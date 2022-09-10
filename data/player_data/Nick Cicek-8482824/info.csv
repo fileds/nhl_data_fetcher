@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482824,Nick Cicek,/api/v1/people/8482824,Nick,Cicek,2000-05-29,22,Winnipeg,MB,CAN,CAN,"6' 3""",201,True,False,False,True,L,Y,"{'id': 28, 'name': 'San Jose Sharks', 'link': '/api/v1/teams/28'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

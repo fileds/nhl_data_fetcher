@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Wat. Wolves MM,Minor-ON,1,33,25,35,29,35,58,,,,,,,,,,,,,,,,,
+0,20142015,Soo T-birds,NOJHL,1,27,18,18,29,18,45,,,,,,,,,,,,,,,,,
+0,20142015,Sault Ste. Marie,OHL,4,2,0,17,12,17,2,0.0,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20152016,Sault Ste. Marie,OHL,1,27,24,61,63,61,51,6.0,6.0,1.0,7.0,119.0,20.2,,,,,,,,,,,
+0,20152016,Canada,WJ18-A,2,1,1,8,5,8,2,0.0,0.0,0.0,0.0,4.0,,,,,,,,,,,,
+0,20152016,Soo Greyhounds,OHL,6918,27,24,61,63,61,51,,,,7.0,,,,,,,,,,,,,
+0,20152016,Canada U18,WJC-18,17193,1,1,8,5,8,2,,,,0.0,,,,,,,,,,,,,
+0,20162017,Soo Greyhounds,OHL,6918,29,35,46,66,46,64,,,,18.0,,,,,,,,,,,,,
+0,20172018,Soo Greyhounds,OHL,6918,43,42,30,58,30,85,,,,53.0,,,,,,,,,,,,,
+0,20172018,Canada U20,WJC-20,17216,3,3,4,7,4,6,,,,5.0,,,,,,,,,,,,,
+0,20182019,Syracuse Crunch,AHL,1057,12,11,58,75,58,23,,,,7.0,,,,,,,,,,,,,
+0,20192020,Syracuse Crunch,AHL,1057,18,14,33,60,33,32,,,,-3.0,,,,,,,,,,,,,
+0,20202021,Syracuse Crunch,AHL,1057,23,11,18,29,18,34,,,,17.0,,,,,,,,,,,,,
+0,20212022,Tampa Bay Lightning,National Hockey League,1,4,2,25,38,25,6,0.0,1.0,0.0,3.0,36.0,5.6,373:01,98.0,0.0,01:38,361:12,41.18,0.0,0.0,10:11,11.0,542.0
+0,20212022,Chicago Blackhawks,National Hockey League,2,0,1,14,21,14,1,0.0,0.0,0.0,-10.0,22.0,4.5,212:17,40.0,0.0,00:35,185:48,0.0,0.0,0.0,25:54,9.0,323.0
+0,20212022,Syracuse Crunch,AHL,1057,1,0,0,3,0,1,,,,1.0,,,,,,,,,,,,,

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8473419,Brad Marchand,/api/v1/people/8473419,Brad,Marchand,63,1988-05-11,34,Halifax,NS,CAN,CAN,"5' 9""",182,True,True,False,False,L,Y,"{'id': 6, 'name': 'Boston Bruins', 'link': '/api/v1/teams/6'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

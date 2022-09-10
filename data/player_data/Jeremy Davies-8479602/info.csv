@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479602,Jeremy Davies,/api/v1/people/8479602,Jeremy,Davies,1996-12-04,25,Sainte-Anne-de-Bellevue,QC,CAN,CAN,"5' 11""",180,True,False,False,True,L,Y,"{'id': 7, 'name': 'Buffalo Sabres', 'link': '/api/v1/teams/7'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

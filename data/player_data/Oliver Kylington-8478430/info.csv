@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478430,Oliver Kylington,/api/v1/people/8478430,Oliver,Kylington,58,1997-05-19,25,Stockholm,SWE,SWE,"6' 0""",183,True,False,False,False,L,Y,"{'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

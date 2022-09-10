@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478443,Brandon Carlo,/api/v1/people/8478443,Brandon,Carlo,25,1996-11-26,25,Colorado Springs,CO,USA,USA,"6' 6""",220,True,False,False,False,R,Y,"{'id': 6, 'name': 'Boston Bruins', 'link': '/api/v1/teams/6'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475172,Nazem Kadri,/api/v1/people/8475172,Nazem,Kadri,91,1990-10-06,31,London,ON,CAN,CAN,"6' 0""",192,True,False,False,False,L,Y,"{'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

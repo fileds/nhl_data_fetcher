@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481228,Jimmy Huntington,/api/v1/people/8481228,Jimmy,Huntington,1998-11-18,23,Laval,QC,CAN,CAN,"6' 0""",200,True,False,False,True,L,Y,"{'id': 18, 'name': 'Nashville Predators', 'link': '/api/v1/teams/18'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

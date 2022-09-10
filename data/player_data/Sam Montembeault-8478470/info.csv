@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478470,Sam Montembeault,/api/v1/people/8478470,Sam,Montembeault,35,1996-10-30,25,Becancour,QC,CAN,CAN,"6' 3""",199,True,False,False,False,L,Y,"{'id': 8, 'name': 'Montréal Canadiens', 'link': '/api/v1/teams/8'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

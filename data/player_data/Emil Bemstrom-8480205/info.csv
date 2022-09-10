@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480205,Emil Bemstrom,/api/v1/people/8480205,Emil,Bemstrom,52,1999-06-01,23,Nykoping,SWE,SWE,"6' 0""",193,True,False,False,False,R,Y,"{'id': 29, 'name': 'Columbus Blue Jackets', 'link': '/api/v1/teams/29'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

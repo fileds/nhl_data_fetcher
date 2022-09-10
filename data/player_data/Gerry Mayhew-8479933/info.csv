@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479933,Gerry Mayhew,/api/v1/people/8479933,Gerry,Mayhew,26,1992-12-31,29,Wyandotte,MI,USA,USA,"5' 9""",161,True,False,False,False,R,Y,"{'id': 13, 'name': 'Florida Panthers', 'link': '/api/v1/teams/13'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

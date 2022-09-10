@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479547,Matthew Phillips,/api/v1/people/8479547,Matthew,Phillips,41,1998-04-06,24,Calgary,AB,CAN,CAN,"5' 7""",140,True,False,False,True,R,Y,"{'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

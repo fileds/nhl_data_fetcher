@@ -1,0 +1,27 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,shortHandedGoals,shots,gameWinningGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,CAC Canadians Bantam AA 2,ERBHL,109042,5,7,2,4,2,0.0,12,,,,,,,,,,,,,,,,
+0,20112012,Pursuit of Excellence Bantm Prep,OMAHA,135011,47,39,23,43,23,0.0,86,,,,,,,,,,,,,,,,
+0,20122013,Pursuit of Excellence Bantm Prep,OMAHA,135011,53,56,46,33,46,0.0,109,,,,,,,,,,,,,,,,
+0,20132014,Okan. Rockets,BCMML,1,44,44,65,36,65,,88,,,,,,,,,,,,,,,,
+0,20132014,Penticton,BCHL,2,0,0,0,3,0,,0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,Penticton,BCHL,1,22,23,16,46,16,,45,3.0,0.0,,,,,,,,,,,,,,
+0,20152016,Penticton,BCHL,1,62,42,43,48,43,,104,14.0,1.0,,,,,,,,,,,,,,
+0,20152016,Canada,WJ18-A,3,9,6,2,7,2,,15,3.0,1.0,187.0,0.0,,,,,,,,,,,,
+0,20152016,Canada U18,WJC-18,17193,9,6,2,7,2,7.0,15,,,,,,,,,,,,,,,,
+0,20152016,Penticton Vees,BCHL,21824,62,42,43,48,43,0.0,104,,,,,,,,,,,,,,,,
+0,20152016,Canada West U19,WJAC-19,87372,6,3,2,4,2,,9,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,Hlinka Gretzky Cup,144760,0,3,0,4,0,1.0,3,,,,,,,,,,,,,,,,
+0,20152016,Team White,U18-Dev,178691,1,1,2,3,2,,2,,,,,,,,,,,,,,,,
+0,20162017,Colorado Avalanche,National Hockey League,1,0,1,0,6,0,-5.0,1,0.0,0.0,9.0,0.0,94:03,3.0,0.0,10:36,77:49,40.0,11.11,0.0,0.0,05:38,3.0,121.0
+0,20162017,Univ. of North Dakota,NCAA,11930,19,16,44,33,44,17.0,35,,,,,,,,,,,,,,,,
+0,20162017,Canada U20,WJC-20,17216,3,1,6,7,6,-1.0,4,,,,,,,,,,,,,,,,
+0,20172018,Colorado Avalanche,National Hockey League,1,10,12,26,65,26,-10.0,22,5.0,0.0,113.0,1.0,951:12,33.0,8.0,168:19,766:55,36.68,10.62,0.0,0.0,15:58,26.0,1177.0
+0,20172018,San Antonio Rampage,AHL,8497,1,1,0,5,0,1.0,2,,,,,,,,,,,,,,,,
+0,20172018,Canada,WC,17155,2,4,4,9,4,6.0,6,,,,,,,,,,,,,,,,
+0,20182019,Colorado Avalanche,National Hockey League,1,15,11,14,70,14,-2.0,26,4.0,0.0,114.0,3.0,910:25,48.0,5.0,145:07,764:43,37.67,9.65,0.0,0.0,00:35,35.0,1143.0
+0,20182019,Colorado Eagles,AHL,8957,1,4,2,8,2,-3.0,5,,,,,,,,,,,,,,,,
+0,20182019,Canada,WC,17155,2,0,0,8,0,4.0,2,,,,,,,,,,,,,,,,
+0,20192020,Colorado Avalanche,National Hockey League,1,15,8,22,67,22,11.0,23,1.0,0.0,115.0,0.0,855:24,58.0,5.0,113:29,723:29,33.33,7.0,0.0,0.0,18:26,18.0,1090.0
+0,20202021,Colorado Avalanche,National Hockey League,1,10,7,24,54,24,14.0,17,0.0,0.0,92.0,1.0,762:38,45.0,0.0,16:23,637:18,46.82,7.6,0.0,0.0,108:57,19.0,1018.0
+0,20212022,Colorado Avalanche,National Hockey League,1,8,6,30,59,30,2.0,14,0.0,0.0,76.0,0.0,755:46,44.0,0.0,32:10,609:56,39.33,7.9,0.0,1.0,113:40,29.0,1036.0
+0,20212022,Minnesota Wild,National Hockey League,2,4,2,4,21,4,0.0,6,0.0,0.0,21.0,2.0,269:50,11.0,0.0,06:07,242:49,42.86,9.5,0.0,0.0,20:54,8.0,341.0

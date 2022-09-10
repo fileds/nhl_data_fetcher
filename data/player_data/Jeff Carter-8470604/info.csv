@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8470604,Jeff Carter,/api/v1/people/8470604,Jeff,Carter,77,1985-01-01,37,London,ON,CAN,CAN,"6' 3""",219,True,False,False,False,R,Y,"{'id': 5, 'name': 'Pittsburgh Penguins', 'link': '/api/v1/teams/5'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

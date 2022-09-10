@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Valley Jr.,Minor-MA,1,4,4,8.0,10,8,8,,,,,,,,,,,,,,,,,
+0,20102011,Valley Jr.,EmJHL,2,1,4,2.0,6,2,5,,,,,,,,,,,,,,,,,
+0,20112012,St. John's Prep,High-MA,1,37,20,,24,,57,,,,,,,,,,,,,,,,,
+0,20112012,Valley,Minor-MA,2,10,0,2.0,10,2,10,,,,,,,,,,,,,,,,,
+0,20122013,St. John's Prep,High-MA,1,27,15,,24,,42,,,,,,,,,,,,,,,,,
+0,20132014,Indiana,USHL,1,28,28,21.0,59,21,56,162.0,5.0,17.3,6.0,3.0,29.0,,,,,,,,,,,
+0,20142015,Providence,H-East,1,12,6,6.0,39,6,18,,0.0,,1.0,0.0,,,,,,,,,,,,
+0,20152016,Providence,H-East,1,16,9,16.0,38,16,25,66.0,1.0,,2.0,0.0,16.0,,,,,,,,,,,
+0,20152016,Providence College,NCAA,7690,16,9,16.0,38,16,25,,,,,,16.0,,,,,,,,,,,
+0,20162017,Providence College,NCAA,7690,28,12,24.0,39,24,40,,,,,,17.0,,,,,,,,,,,
+0,20172018,Providence College,NCAA,7690,20,12,26.0,40,26,32,,,,,,11.0,,,,,,,,,,,
+0,20182019,Hershey Bears,AHL,997,8,4,8.0,73,8,12,,,,,,-1.0,,,,,,,,,,,
+0,20192020,Hershey Bears,AHL,997,17,20,14.0,62,14,37,,,,,,16.0,,,,,,,,,,,
+0,20202021,Washington Capitals,National Hockey League,1,0,0,0.0,2,0,0,3.0,0.0,0.0,0.0,0.0,-2.0,15:37,1.0,0.0,00:00,15:37,57.14,0.0,0.0,00:00,1.0,22.0
+0,20202021,Hershey Bears,AHL,997,4,8,6.0,10,6,12,,,,,,9.0,,,,,,,,,,,
+0,20212022,Hershey Bears,AHL,997,9,8,6.0,27,6,17,,,,,,-2.0,,,,,,,,,,,

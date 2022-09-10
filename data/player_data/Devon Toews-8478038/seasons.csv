@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20082009,Abbotsford,Minor-BC,1,56,8,60,61,60,64,,,,,,,,,,,,,,,,,
+0,20092010,Fraser Valley,BCMML,1,5,2,60,39,60,7,,,,,,,,,,,,,,,,,
+0,20092010,Yale,High-BC,2,9,2,0,3,0,11,,,,,,,,,,,,,,,,,
+0,20102011,Fraser Valley,BCMML,1,25,12,62,39,62,37,,,,,,,,,,,,,,,,,
+0,20102011,Yale,High-BC,2,8,6,0,4,0,14,,,,,,,,,,,,,,,,,
+0,20102011,Abbotsford,PIJHL,3,1,1,0,5,0,2,,,,,,,,,,,,,,,,,
+0,20112012,Surrey,BCHL,1,22,7,42,54,42,29,2.0,0.0,0.0,,,,,,,,,,,,,,
+0,20122013,Surrey,BCHL,1,37,10,55,48,55,47,2.0,2.0,0.0,,,,,,,,,,,,,,
+0,20132014,Quinnipiac,ECAC,1,16,1,10,37,10,17,1.0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,Quinnipiac,ECAC,1,16,4,16,31,16,20,2.0,2.0,0.0,,,,,,,,,,,,,,
+0,20152016,Quinnipiac,ECAC,1,23,7,26,40,26,30,1.0,1.0,0.0,27.0,,,,,,,,,,,,,
+0,20152016,Quinnipiac Univ.,NCAA,21340,23,7,26,40,26,30,,,,27.0,,,,,,,,,,,,,
+0,20162017,Bridgeport Islanders,AHL,827,40,5,18,76,18,45,,,,-2.0,,,,,,,,,,,,,
+0,20172018,Bridgeport Islanders,AHL,827,14,8,8,30,8,22,,,,3.0,,,,,,,,,,,,,
+0,20182019,New York Islanders,National Hockey League,1,13,5,4,48,4,18,1.0,2.0,0.0,7.0,858:59,81.0,24.0,4.0,85:07,770:37,0.0,6.17,1.0,0.0,03:15,30.0,1078.0
+0,20182019,Bridgeport Islanders,AHL,827,14,5,16,24,16,19,,,,-2.0,,,,,,,,,,,,,
+0,20192020,New York Islanders,National Hockey League,1,22,6,16,68,16,28,1.0,1.0,0.0,1.0,1394:50,122.0,55.0,6.0,152:16,1236:53,0.0,4.9,1.0,0.0,05:41,75.0,1732.0
+0,20202021,Colorado Avalanche,National Hockey League,1,22,9,16,53,16,31,2.0,2.0,0.0,29.0,1312:54,121.0,44.0,6.0,91:08,1057:35,0.0,7.4,0.0,0.0,164:11,87.0,1504.0
+0,20212022,Colorado Avalanche,National Hockey League,1,44,13,20,66,20,57,2.0,3.0,0.0,52.0,1674:22,158.0,54.0,12.0,113:06,1377:32,0.0,8.2,1.0,0.0,183:44,85.0,1920.0

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476861,Oscar Dansk,/api/v1/people/8476861,Oscar,Dansk,35,1994-02-28,28,Stockholm,SWE,SWE,"6' 3""",204,True,False,False,False,L,Y,"{'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

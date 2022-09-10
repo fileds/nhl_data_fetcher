@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477365,Connor Clifton,/api/v1/people/8477365,Connor,Clifton,75,1995-04-28,27,Long Branch,NJ,USA,USA,"5' 11""",189,True,False,False,False,R,Y,"{'id': 6, 'name': 'Boston Bruins', 'link': '/api/v1/teams/6'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

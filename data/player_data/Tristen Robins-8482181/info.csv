@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482181,Tristen Robins,/api/v1/people/8482181,Tristen,Robins,52,2001-11-15,20,London,GBR,GBR,"5' 10""",176,True,False,False,True,R,Y,"{'id': 28, 'name': 'San Jose Sharks', 'link': '/api/v1/teams/28'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

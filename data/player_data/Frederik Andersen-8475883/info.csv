@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475883,Frederik Andersen,/api/v1/people/8475883,Frederik,Andersen,31,1989-10-02,32,Herning,DNK,DNK,"6' 4""",238,True,False,False,False,L,Y,"{'id': 12, 'name': 'Carolina Hurricanes', 'link': '/api/v1/teams/12'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

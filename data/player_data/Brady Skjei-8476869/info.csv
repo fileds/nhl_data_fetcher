@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476869,Brady Skjei,/api/v1/people/8476869,Brady,Skjei,76,1994-03-26,28,Lakeville,MN,USA,USA,"6' 3""",210,True,False,False,False,L,Y,"{'id': 12, 'name': 'Carolina Hurricanes', 'link': '/api/v1/teams/12'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

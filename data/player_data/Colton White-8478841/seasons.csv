@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Lon. Knights MM,Minor-ON,2,1,0,4,6,4,1,,,,,,,,,,,,,,,,,
+0,20122013,Lon. Knights MM,Minor-ON,1,13,7,22,27,22,20,,,,,,,,,,,,,,,,,
+0,20132014,Sault Ste. Marie,OHL,1,5,0,2,57,2,5,0.0,0.0,0.0,10.0,,,,,,,,,,,,,
+0,20142015,Sault Ste. Marie,OHL,1,16,6,30,67,30,22,1.0,0.0,0.0,38.0,,,,,,,,,,,,,
+0,20152016,Sault Ste. Marie,OHL,1,26,9,13,68,13,35,4.0,1.0,0.0,-6.0,102.0,8.8,,,,,,,,,,,
+0,20152016,Soo Greyhounds,OHL,6918,26,9,13,68,13,35,,,,-6.0,,,,,,,,,,,,,
+0,20162017,Soo Greyhounds,OHL,6918,25,6,41,64,41,31,,,,24.0,,,,,,,,,,,,,
+0,20172018,Adirondack Thunder,ECHL,185555,2,2,6,11,6,4,,,,-7.0,,,,,,,,,,,,,
+0,20172018,Binghamton Devils,AHL,233827,7,2,32,47,32,9,,,,-17.0,,,,,,,,,,,,,
+0,20182019,New Jersey Devils,National Hockey League,1,0,0,2,3,2,0,0.0,0.0,0.0,-2.0,1.0,0.0,42:41,2.0,0.0,00:56,41:35,0.0,0.0,0.0,00:10,2.0,62.0
+0,20182019,Binghamton Devils,AHL,233827,23,7,29,71,29,30,,,,-16.0,,,,,,,,,,,,,
+0,20192020,New Jersey Devils,National Hockey League,1,0,0,4,6,4,0,0.0,0.0,0.0,-2.0,2.0,0.0,83:55,3.0,0.0,00:00,78:47,0.0,0.0,0.0,05:08,4.0,126.0
+0,20192020,Binghamton Devils,AHL,233827,11,1,12,45,12,12,,,,-9.0,,,,,,,,,,,,,
+0,20202021,New Jersey Devils,National Hockey League,1,0,0,0,2,0,0,0.0,0.0,0.0,-1.0,3.0,0.0,28:32,2.0,0.0,00:00,28:03,0.0,0.0,0.0,00:29,0.0,44.0
+0,20202021,Binghamton Devils,AHL,233827,6,1,8,27,8,7,,,,-11.0,,,,,,,,,,,,,
+0,20212022,New Jersey Devils,National Hockey League,1,4,0,8,27,8,4,0.0,0.0,0.0,2.0,18.0,0.0,357:50,24.0,0.0,00:21,349:54,0.0,0.0,0.0,07:35,14.0,516.0
+0,20212022,Utica Comets,AHL,152247,0,3,6,6,6,3,,,,1.0,,,,,,,,,,,,,

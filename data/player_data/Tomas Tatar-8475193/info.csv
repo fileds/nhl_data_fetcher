@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475193,Tomas Tatar,/api/v1/people/8475193,Tomas,Tatar,90,1990-12-01,31,Ilava,SVK,SVK,"5' 10""",173,True,False,False,False,L,Y,"{'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480984,Wyatte Wylie,/api/v1/people/8480984,Wyatte,Wylie,65,1999-11-02,22,Everett,WA,USA,USA,"6' 0""",190,True,False,False,True,R,Y,"{'id': 4, 'name': 'Philadelphia Flyers', 'link': '/api/v1/teams/4'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

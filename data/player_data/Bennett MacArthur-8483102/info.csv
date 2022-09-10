@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8483102,Bennett MacArthur,/api/v1/people/8483102,Bennett,MacArthur,2001-01-30,21,Summerside,PE,CAN,CAN,"6' 0""",195,True,False,False,True,L,Y,"{'id': 14, 'name': 'Tampa Bay Lightning', 'link': '/api/v1/teams/14'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

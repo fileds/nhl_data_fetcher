@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480160,Radim Simek,/api/v1/people/8480160,Radim,Simek,51,1992-09-20,29,Mlada Boleslav,CZE,CZE,"6' 0""",204,True,False,False,False,L,Y,"{'id': 28, 'name': 'San Jose Sharks', 'link': '/api/v1/teams/28'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

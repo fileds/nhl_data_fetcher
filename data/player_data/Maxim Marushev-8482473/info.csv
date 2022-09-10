@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482473,Maxim Marushev,/api/v1/people/8482473,Maxim,Marushev,1999-01-01,23,Saratov,RUS,RUS,"6' 1""",176,True,False,False,True,R,Y,"{'id': 54, 'name': 'Vegas Golden Knights', 'link': '/api/v1/teams/54'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

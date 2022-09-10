@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481058,Jesse Ylonen,/api/v1/people/8481058,Jesse,Ylonen,56,1999-10-03,22,Scottsdale,AZ,USA,USA,"6' 0""",167,True,False,False,True,R,Y,"{'id': 8, 'name': 'Montréal Canadiens', 'link': '/api/v1/teams/8'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

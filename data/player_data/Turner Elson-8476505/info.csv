@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476505,Turner Elson,/api/v1/people/8476505,Turner,Elson,1992-09-13,29,New Westminster,BC,CAN,CAN,"6' 0""",191,True,False,False,False,L,Y,"{'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

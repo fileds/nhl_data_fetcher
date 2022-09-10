@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475167,Victor Hedman,/api/v1/people/8475167,Victor,Hedman,77,1990-12-18,31,Ornskoldsvik,SWE,SWE,"6' 6""",241,True,False,False,False,L,Y,"{'id': 14, 'name': 'Tampa Bay Lightning', 'link': '/api/v1/teams/14'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

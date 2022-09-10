@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480443,Kristian Reichel,/api/v1/people/8480443,Kristian,Reichel,87,1998-06-11,24,Most,CZE,CZE,"6' 0""",168,True,False,False,True,R,Y,"{'id': 52, 'name': 'Winnipeg Jets', 'link': '/api/v1/teams/52'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

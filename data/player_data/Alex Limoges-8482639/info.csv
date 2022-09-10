@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482639,Alex Limoges,/api/v1/people/8482639,Alex,Limoges,1997-09-16,24,Winchester,VA,USA,USA,"6' 1""",201,True,False,False,True,L,Y,"{'id': 52, 'name': 'Winnipeg Jets', 'link': '/api/v1/teams/52'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

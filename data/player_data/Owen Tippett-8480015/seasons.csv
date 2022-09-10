@@ -1,0 +1,22 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20082009,Toronto Bulldogs,Brick Invitational,128766,0,1,0,5,0,1,,,,,,,,,,,,,,,,,
+0,20132014,Toronto Red Wings Min Midget AAA,GTMMHL,97383,6,15,8,31,8,21,0.0,,,,,,,,,,,,,,,,
+0,20142015,Toronto Jr. Canadiens,OJHL,37107,1,2,2,6,2,3,0.0,,,,,,,,,,,,,,,,
+0,20142015,Toronto Red Wings Min Midget AAA,GTMMHL,97383,35,52,0,50,0,87,0.0,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,WJC-18,17193,2,1,12,7,12,3,2.0,,,,,,,,,,,,,,,,
+0,20152016,Mississauga Steelheads,OHL,126668,5,15,10,48,10,20,-2.0,,,,,,,,,,,,,,,,
+0,20152016,Canada White U17,WHC-17,163790,3,5,0,6,0,8,,,,,,,,,,,,,,,,,
+0,20152016,Team Gold,U17-Dev,178249,0,1,4,3,4,1,,,,,,,,,,,,,,,,,
+0,20162017,Mississauga Steelheads,OHL,126668,31,44,36,60,36,75,24.0,,,,,,,,,,,,,,,,
+0,20162017,Canada U18,Hlinka Gretzky Cup,144760,1,1,0,4,0,2,1.0,,,,,,,,,,,,,,,,
+0,20172018,Florida Panthers,National Hockey League,1,0,1,0,7,0,1,-6.0,77:49,17.0,3.0,0.0,0.0,12:04,65:22,0.0,5.88,0.0,0.0,0.0,0.0,00:23,4.0,115.0
+0,20172018,Springfield Thunderbirds,AHL,39667,1,1,2,5,2,2,2.0,,,,,,,,,,,,,,,,
+0,20172018,Mississauga Steelheads,OHL,126668,39,36,30,51,30,75,1.0,,,,,,,,,,,,,,,,
+0,20182019,Saginaw Spirit,OHL,9488,27,14,8,31,8,41,21.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U20,WJC-20,17216,2,2,0,5,0,4,5.0,,,,,,,,,,,,,,,,
+0,20182019,Mississauga Steelheads,OHL,126668,14,19,10,23,10,33,7.0,,,,,,,,,,,,,,,,
+0,20192020,Springfield Thunderbirds,AHL,39667,21,19,18,46,18,40,12.0,,,,,,,,,,,,,,,,
+0,20202021,Florida Panthers,National Hockey League,1,11,7,6,45,6,18,-5.0,516:39,86.0,59.0,2.0,3.0,35:08,481:26,66.67,8.1,2.0,0.0,0.0,0.0,00:05,5.0,683.0
+0,20212022,Florida Panthers,National Hockey League,1,8,6,10,42,10,14,2.0,526:33,73.0,62.0,0.0,1.0,55:37,470:50,36.54,8.2,0.0,0.0,0.0,0.0,00:06,12.0,695.0
+0,20212022,Philadelphia Flyers,National Hockey League,2,3,4,2,21,2,7,-4.0,319:05,53.0,36.0,1.0,2.0,51:27,267:28,66.67,7.5,1.0,0.0,0.0,0.0,00:10,4.0,424.0
+0,20212022,Charlotte Checkers,AHL,2357,12,6,2,12,2,18,-1.0,,,,,,,,,,,,,,,,

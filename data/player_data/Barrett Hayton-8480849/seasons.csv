@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,Peterborough Petes Min Mdgt AAA,ETAMMHL,97412,14,19,18.0,36,18,33,,,,,,,,,,,,,,,,,
+0,20152016,Toronto Red Wings U16 AAA,GTHL U16,97860,37,36,,59,,73,,,,,,,,,,,,,,,,,
+0,20152016,Team GTHL Blue,OGC-16,154307,0,3,2.0,5,2,3,,,,,,,,,,,,,,,,,
+0,20162017,Soo Greyhounds,OHL,6918,18,9,36.0,63,36,27,2.0,,,,,,,,,,,,,,,,
+0,20162017,Canada White U17,WHC-17,163790,1,1,2.0,6,2,2,,,,,,,,,,,,,,,,,
+0,20172018,Soo Greyhounds,OHL,6918,39,21,32.0,63,32,60,24.0,,,,,,,,,,,,,,,,
+0,20172018,Canada U18,Hlinka Gretzky Cup,144760,3,3,2.0,5,2,6,,,,,,,,,,,,,,,,,
+0,20182019,Soo Greyhounds,OHL,6918,40,26,42.0,39,42,66,20.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U20,WJC-20,17216,4,0,0.0,5,0,4,8.0,,,,,,,,,,,,,,,,
+0,20192020,Arizona Coyotes,National Hockey League,1,3,1,14.0,20,14,4,2.0,222:51,27.0,14.0,0.0,0.0,06:05,216:41,37.7,3.7,1.0,0.0,0.0,0.0,00:05,3.0,324.0
+0,20192020,Canada U20,WJC-20,17216,6,6,6.0,7,6,12,1.0,,,,,,,,,,,,,,,,
+0,20192020,Tucson Roadrunners,AHL,218897,4,1,4.0,5,4,5,1.0,,,,,,,,,,,,,,,,
+0,20202021,Arizona Coyotes,National Hockey League,1,1,2,0.0,14,0,3,-1.0,160:51,10.0,15.0,0.0,0.0,31:31,129:20,50.0,20.0,0.0,0.0,0.0,0.0,00:00,3.0,224.0
+0,20202021,Ilves,Liiga,889,4,0,8.0,8,8,4,-2.0,,,,,,,,,,,,,,,,
+0,20202021,Tucson Roadrunners,AHL,218897,4,6,18.0,26,18,10,-18.0,,,,,,,,,,,,,,,,
+0,20212022,Arizona Coyotes,National Hockey League,1,14,10,20.0,60,20,24,-8.0,967:01,82.0,84.0,2.0,5.0,92:18,786:56,48.14,12.2,1.0,0.0,0.0,0.0,87:47,33.0,1388.0
+0,20212022,Tucson Roadrunners,AHL,218897,1,0,6.0,4,6,1,0.0,,,,,,,,,,,,,,,,

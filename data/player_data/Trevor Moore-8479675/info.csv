@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479675,Trevor Moore,/api/v1/people/8479675,Trevor,Moore,12,1995-03-31,27,Thousand Oaks,CA,USA,USA,"5' 10""",195,True,False,False,False,L,Y,"{'id': 26, 'name': 'Los Angeles Kings', 'link': '/api/v1/teams/26'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

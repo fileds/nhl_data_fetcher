@@ -1,0 +1,24 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,plusMinus,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Markham,Minor-ON,1,8,10,38,28,38,18,,,,,,,,,,,,,,,,,
+0,20112012,St. Andrew's,MPHL,2,1,0,0,5,0,1,,,,,,,,,,,,,,,,,
+0,20112012,St. Andrew's,CISSA,3,0,0,0,1,0,0,,,,,,,,,,,,,,,,,
+0,20122013,St. Andrew's,MPHL,1,10,7,12,13,12,17,,,,,,,,,,,,,,,,,
+0,20122013,St. Andrew's,CISAA,2,10,9,20,15,20,19,,,,,,,,,,,,,,,,,
+0,20122013,St. Andrew's,High-ON,3,9,16,8,22,8,25,,,,,,,,,,,,,,,,,
+0,20132014,St. Andrew's,MPHL,1,17,12,14,13,14,29,,,,,,,,,,,,,,,,,
+0,20132014,St. Andrew's,CISAA,2,6,17,15,14,15,23,,,,,,,,,,,,,,,,,
+0,20132014,St. Andrew's,High-ON,3,17,18,26,17,26,35,,,,,,,,,,,,,,,,,
+0,20142015,New Hampshire,H-East,1,11,5,26,34,26,16,2.0,0.0,0.0,,,,,,,,,,,,,,
+0,20152016,New Hampshire,H-East,1,1,0,4,5,4,1,0.0,0.0,0.0,8.0,2.0,,,,,,,,,,,,
+0,20152016,Kingston,OHL,2,35,13,44,52,44,48,3.0,1.0,0.0,145.0,32.0,9.0,,,,,,,,,,,
+0,20152016,Kingston Frontenacs,OHL,9408,35,13,44,52,44,48,,,,,32.0,,,,,,,,,,,,
+0,20152016,Univ. of New Hampshire,NCAA,11920,1,0,4,5,4,1,,,,,2.0,,,,,,,,,,,,
+0,20162017,Erie Otters,M-Cup,9181,5,2,4,5,4,7,,,,,1.0,,,,,,,,,,,,
+0,20162017,Erie Otters,OHL,9398,16,16,20,33,20,32,,,,,21.0,,,,,,,,,,,,
+0,20162017,Kingston Frontenacs,OHL,9408,20,11,20,28,20,31,,,,,5.0,,,,,,,,,,,,
+0,20172018,Carolina Hurricanes,National Hockey League,1,1,2,0,2,0,3,0.0,0.0,0.0,6.0,3.0,33.33,23:51,5.0,0.0,00:00,19:45,0.0,0.0,0.0,04:06,1.0,35.0
+0,20172018,Charlotte Checkers,AHL,2357,18,28,40,73,40,46,,,,,22.0,,,,,,,,,,,,
+0,20182019,Carolina Hurricanes,National Hockey League,1,5,10,20,77,20,15,0.0,3.0,0.0,106.0,-17.0,9.43,962:01,126.0,0.0,07:45,854:39,47.62,0.0,0.0,99:37,19.0,1412.0
+0,20192020,Carolina Hurricanes,National Hockey League,1,17,13,34,68,34,30,0.0,1.0,3.0,129.0,9.0,10.1,932:15,64.0,0.0,03:36,854:32,47.37,0.0,3.0,74:07,17.0,1320.0
+0,20202021,Carolina Hurricanes,National Hockey League,1,10,10,20,53,20,20,0.0,1.0,0.0,91.0,4.0,11.0,750:10,60.0,0.0,04:32,691:00,51.43,0.0,0.0,54:38,12.0,1048.0
+0,20212022,Edmonton Oilers,National Hockey League,1,14,12,24,82,24,26,2.0,3.0,0.0,142.0,-9.0,8.5,1034:12,127.0,3.0,45:06,975:57,46.43,0.0,0.0,13:09,15.0,1367.0

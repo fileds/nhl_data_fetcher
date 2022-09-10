@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478415,Jakub Zboril,/api/v1/people/8478415,Jakub,Zboril,67,1997-02-21,25,Brno,CZE,CZE,"6' 1""",191,True,False,False,False,L,I,"{'id': 6, 'name': 'Boston Bruins', 'link': '/api/v1/teams/6'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478854,Ryan Shea,/api/v1/people/8478854,Ryan,Shea,46,1997-02-11,25,Milton,MA,USA,USA,"6' 2""",190,True,False,False,True,L,Y,"{'id': 25, 'name': 'Dallas Stars', 'link': '/api/v1/teams/25'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8474040,Sam Gagner,/api/v1/people/8474040,Sam,Gagner,89,1989-08-10,33,London,ON,CAN,CAN,"5' 11""",197,True,False,False,False,R,Y,"{'id': 52, 'name': 'Winnipeg Jets', 'link': '/api/v1/teams/52'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

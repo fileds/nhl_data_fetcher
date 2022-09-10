@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Victory Honda Bantam Minor AAA,T1EMBHL,168370,8,17,24,31,24,0.0,25,,,,,,,,,,,,,,,,
+0,20102011,Little Caesars Bantam Major AAA,T1EBHL,142479,4,12,16,28,16,0.0,16,,,,,,,,,,,,,,,,
+0,20112012,Honeybaked U16,HPHL U16,103934,8,13,16,29,16,0.0,21,,,,,,,,,,,,,,,,
+0,20122013,Det. H-Baked U16,HPHL,1,10,12,18,18,18,,22,,,,,,,,,,,,,,,,
+0,20122013,Det. H-Baked U18,HPHL,2,0,0,0,11,0,,0,,,,,,,,,,,,,,,,
+0,20122013,USNTDP,USHL,3,0,2,2,6,2,-6.0,2,5.0,0.0,40.0,0.0,0.0,,,,,,,,,,,
+0,20122013,Sioux Falls,USHL,4,1,0,0,1,0,2.0,1,2.0,0.0,0.0,0.0,0.0,,,,,,,,,,,
+0,20132014,Sioux Falls,USHL,1,21,17,58,55,58,6.0,38,99.0,6.0,17.2,6.0,2.0,,,,,,,,,,,
+0,20142015,Sioux Falls,USHL,1,24,20,74,52,74,4.0,44,137.0,8.0,14.6,4.0,2.0,,,,,,,,,,,
+0,20152016,Ohio State,Big Ten,1,12,5,50,29,50,1.0,17,,2.0,,0.0,0.0,,,,,,,,,,,
+0,20152016,Ohio State Univ.,NCAA,16050,12,5,50,29,50,1.0,17,,,,,,,,,,,,,,,,
+0,20162017,Ohio State Univ.,NCAA,16050,23,12,58,33,58,5.0,35,,,,,,,,,,,,,,,,
+0,20172018,Ohio State Univ.,NCAA,16050,11,15,32,34,32,3.0,26,,,,,,,,,,,,,,,,
+0,20182019,Ohio State Univ.,NCAA,16050,13,9,67,32,67,4.0,22,,,,,,,,,,,,,,,,
+0,20192020,Tulsa Oilers,ECHL,7415,8,3,4,20,4,5.0,11,,,,,,,,,,,,,,,,
+0,20192020,San Antonio Rampage,AHL,8497,4,3,25,30,25,1.0,7,,,,,,,,,,,,,,,,
+0,20202021,St. Louis Blues,National Hockey League,1,0,1,7,12,7,-3.0,1,9.0,0.0,11.1,0.0,0.0,107:37,23.0,0.0,00:07,105:18,57.81,0.0,0.0,02:12,2.0,149.0
+0,20202021,Utica Comets,AHL,152247,1,2,2,6,2,2.0,3,,,,,,,,,,,,,,,,
+0,20212022,St. Louis Blues,National Hockey League,1,5,3,16,30,16,6.0,8,31.0,0.0,9.7,2.0,0.0,254:47,77.0,0.0,01:22,253:03,53.33,0.0,0.0,00:22,10.0,366.0
+0,20212022,Springfield Thunderbirds,AHL,39667,11,9,23,35,23,-3.0,20,,,,,,,,,,,,,,,,

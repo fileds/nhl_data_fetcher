@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481795,Nathan Staios,/api/v1/people/8481795,Nathan,Staios,2001-05-17,21,Atlanta,GA,USA,USA,"5' 8""",170,True,False,False,True,L,Y,"{'id': 13, 'name': 'Florida Panthers', 'link': '/api/v1/teams/13'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

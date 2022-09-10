@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477952,Robby Fabbri,/api/v1/people/8477952,Robby,Fabbri,14,1996-01-22,26,Mississauga,ON,CAN,CAN,"5' 11""",183,True,False,False,False,L,I,"{'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477504,Josh Morrissey,/api/v1/people/8477504,Josh,Morrissey,44,1995-03-28,27,Calgary,AB,CAN,CAN,"6' 0""",195,True,True,False,False,L,Y,"{'id': 52, 'name': 'Winnipeg Jets', 'link': '/api/v1/teams/52'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

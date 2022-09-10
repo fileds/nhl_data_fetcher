@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475848,Brendan Gallagher,/api/v1/people/8475848,Brendan,Gallagher,11,1992-05-06,30,Edmonton,AB,CAN,CAN,"5' 9""",184,True,True,False,False,R,Y,"{'id': 8, 'name': 'Montréal Canadiens', 'link': '/api/v1/teams/8'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

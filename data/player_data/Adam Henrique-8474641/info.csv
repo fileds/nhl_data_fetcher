@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8474641,Adam Henrique,/api/v1/people/8474641,Adam,Henrique,14,1990-02-06,32,Brantford,ON,CAN,CAN,"6' 0""",195,True,False,False,False,L,Y,"{'id': 24, 'name': 'Anaheim Ducks', 'link': '/api/v1/teams/24'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

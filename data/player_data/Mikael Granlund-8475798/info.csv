@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475798,Mikael Granlund,/api/v1/people/8475798,Mikael,Granlund,64,1992-02-26,30,Oulu,FIN,FIN,"5' 10""",185,True,True,False,False,L,Y,"{'id': 18, 'name': 'Nashville Predators', 'link': '/api/v1/teams/18'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

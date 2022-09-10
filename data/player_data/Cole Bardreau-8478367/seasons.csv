@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,U.S. National U17 Team,USDP,19238,8,8,61,52,61,0.0,16,,,,,,,,,,,,,,,,
+0,20102011,USNTDP Juniors,USHL,51638,7,4,23,24,23,1.0,11,,,,,,,,,,,,,,,,
+0,20112012,Cornell,ECAC,1,4,4,18,34,18,,8,2.0,1.0,0.0,,,,,,,,,,,,,
+0,20122013,Cornell,ECAC,1,5,2,12,13,12,,7,1.0,0.0,0.0,,,,,,,,,,,,,
+0,20132014,Cornell,ECAC,1,9,7,14,26,14,,16,3.0,3.0,0.0,,,,,,,,,,,,,
+0,20142015,Cornell,ECAC,1,17,5,38,30,38,,22,4.0,0.0,0.0,,,,,,,,,,,,,
+0,20142015,Lehigh Valley,AHL,2,1,1,2,15,2,-3.0,2,0.0,0.0,0.0,19.0,5.3,,,,,,,,,,,
+0,20152016,Lehigh Valley,AHL,1,17,13,54,54,54,-1.0,30,2.0,1.0,2.0,73.0,17.8,,,,,,,,,,,
+0,20152016,Lehigh Valley Phantoms,AHL,173347,17,13,54,54,54,-1.0,30,,,,,,,,,,,,,,,,
+0,20162017,Lehigh Valley Phantoms,AHL,173347,15,9,85,72,85,-4.0,24,,,,,,,,,,,,,,,,
+0,20172018,Lehigh Valley Phantoms,AHL,173347,19,11,59,45,59,18.0,30,,,,,,,,,,,,,,,,
+0,20182019,Lehigh Valley Phantoms,AHL,173347,5,7,38,40,38,-3.0,12,,,,,,,,,,,,,,,,
+0,20192020,New York Islanders,National Hockey League,1,1,1,6,10,6,-2.0,2,0.0,1.0,0.0,10.0,10.0,88:42,21.0,0.0,00:00,83:13,42.0,0.0,0.0,05:29,1.0,135.0
+0,20192020,Bridgeport Islanders,AHL,827,2,2,25,38,25,-13.0,4,,,,,,,,,,,,,,,,
+0,20202021,Bridgeport Islanders,AHL,827,6,10,10,24,10,2.0,16,,,,,,,,,,,,,,,,
+0,20212022,Bridgeport Islanders,AHL,827,11,14,6,45,6,5.0,25,,,,,,,,,,,,,,,,

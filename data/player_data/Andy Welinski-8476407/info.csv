@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476407,Andy Welinski,/api/v1/people/8476407,Andy,Welinski,45,1993-04-27,29,Duluth,MN,USA,USA,"6' 1""",201,True,False,False,False,R,Y,"{'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

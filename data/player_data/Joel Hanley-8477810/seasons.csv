@@ -1,0 +1,25 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20062007,York Simcoe Express Mn Mdgt AAA,ETAMMHL,97372,14,4,46,33,46,18,,,,,,,,,,,,,,,,,
+0,20072008,Newmarket Hurricanes,OPJHL,21280,0,0,0,2,0,0,0.0,,,,,,,,,,,,,,,,
+0,20082009,Newmarket Hurricanes,OJHL,21367,24,14,61,50,61,38,0.0,,,,,,,,,,,,,,,,
+0,20092010,Newmarket Hurricanes,CCHL,21243,15,5,11,23,11,20,2.0,,,,,,,,,,,,,,,,
+0,20102011,UMass (Amherst),NCAA,10810,15,3,24,28,24,18,-5.0,,,,,,,,,,,,,,,,
+0,20112012,Massachusetts,H-East,1,18,7,18,36,18,25,,3.0,1.0,0.0,,,,,,,,,,,,,
+0,20122013,Massachusetts,H-East,1,11,5,46,33,46,16,,4.0,0.0,0.0,,,,,,,,,,,,,
+0,20132014,Massachusetts,H-East,1,14,2,39,34,39,16,,2.0,0.0,0.0,,,,,,,,,,,,,
+0,20132014,Portland,AHL,2,5,0,6,15,6,5,-4.0,0.0,0.0,0.0,13.0,0.0,,,,,,,,,,,
+0,20142015,Portland,AHL,1,15,2,34,63,34,17,7.0,1.0,1.0,0.0,86.0,2.3,,,,,,,,,,,
+0,20142015,Gwinnett,ECHL,2,0,1,0,3,0,1,2.0,1.0,0.0,0.0,6.0,16.7,,,,,,,,,,,
+0,20152016,Montréal Canadiens,National Hockey League,1,6,0,0,10,0,6,0.0,0.0,0.0,0.0,10.0,0.0,159:59,6.0,0.0,07:21,143:22,0.0,0.0,0.0,09:16,19.0,216.0
+0,20152016,St. John's,AHL,2,8,5,25,64,25,13,-11.0,1.0,0.0,0.0,73.0,6.8,,,,,,,,,,,
+0,20152016,St. John's IceCaps,AHL,99687,8,5,25,64,25,13,-11.0,,,,,,,,,,,,,,,,
+0,20162017,Montréal Canadiens,National Hockey League,1,0,0,4,7,4,0,-3.0,0.0,0.0,0.0,5.0,0.0,71:06,8.0,0.0,00:00,71:06,0.0,0.0,0.0,00:00,4.0,105.0
+0,20162017,St. John's IceCaps,AHL,99687,20,2,34,65,34,22,11.0,,,,,,,,,,,,,,,,
+0,20172018,Arizona Coyotes,National Hockey League,1,0,0,0,5,0,0,0.0,0.0,0.0,0.0,2.0,0.0,55:39,1.0,0.0,00:17,55:10,0.0,0.0,0.0,00:12,4.0,89.0
+0,20172018,Tucson Roadrunners,AHL,218897,18,2,31,52,31,20,30.0,,,,,,,,,,,,,,,,
+0,20182019,Dallas Stars,National Hockey League,1,0,0,2,16,2,0,0.0,0.0,0.0,0.0,9.0,0.0,219:05,16.0,0.0,02:45,208:39,0.0,0.0,0.0,07:41,16.0,306.0
+0,20182019,Texas Stars,AHL,45177,20,8,32,60,32,28,10.0,,,,,,,,,,,,,,,,
+0,20192020,Dallas Stars,National Hockey League,1,2,0,6,8,6,2,0.0,0.0,0.0,0.0,4.0,0.0,90:51,3.0,0.0,00:16,88:59,0.0,0.0,0.0,01:36,8.0,149.0
+0,20192020,Texas Stars,AHL,45177,10,0,8,40,8,10,10.0,,,,,,,,,,,,,,,,
+0,20202021,Dallas Stars,National Hockey League,1,8,0,2,35,2,8,6.0,0.0,0.0,0.0,27.0,0.0,455:37,40.0,0.0,00:20,440:32,0.0,0.0,0.0,14:45,30.0,650.0
+0,20212022,Dallas Stars,National Hockey League,1,4,2,4,44,4,6,-13.0,0.0,0.0,0.0,18.0,11.1,525:23,60.0,0.0,00:15,495:12,0.0,0.0,0.0,29:56,43.0,748.0

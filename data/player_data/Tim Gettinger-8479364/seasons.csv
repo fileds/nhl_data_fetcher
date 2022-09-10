@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Cleveland Barons Bantam Major,T1EBHL,138409,2,0,2,16,2,0.0,2,,,,,,,,,,,,,,,,
+0,20122013,Cleveland Barons Bantam Major,T1EBHL,138409,19,25,32,29,32,0.0,44,,,,,,,,,,,,,,,,
+0,20132014,Cle. Barons U16,T1EHL,1,8,24,44,36,44,,32,,,,,,,,,,,,,,,,
+0,20142015,Sault Ste. Marie,OHL,1,15,10,13,54,13,10.0,25,3.0,1.0,0.0,,,,,,,,,,,,,
+0,20142015,USNTDP,U-17,2,0,2,6,4,6,,2,,,,,,,,,,,,,,,,
+0,20152016,Sault Ste. Marie,OHL,1,22,17,32,60,32,-4.0,39,3.0,1.0,0.0,177.0,9.6,,,,,,,,,,,
+0,20152016,Soo Greyhounds,OHL,6918,22,17,32,60,32,-4.0,39,,,,,,,,,,,,,,,,
+0,20152016,USA U18,Hlinka Gretzky Cup,140070,2,2,30,4,30,2.0,4,,,,,,,,,,,,,,,,
+0,20152016,Team Gold,USA-S17,177415,2,3,0,5,0,,5,,,,,,,,,,,,,,,,
+0,20162017,Soo Greyhounds,OHL,6918,23,31,27,62,27,26.0,54,,,,,,,,,,,,,,,,
+0,20172018,Soo Greyhounds,OHL,6918,36,33,53,66,53,35.0,69,,,,,,,,,,,,,,,,
+0,20182019,New York Rangers,National Hockey League,1,0,0,0,4,0,0.0,0,0.0,0.0,0.0,2.0,0.0,30:05,15.0,0.0,00:00,30:05,0.0,0.0,0.0,00:00,3.0,42.0
+0,20182019,Hartford Wolf Pack,AHL,847,13,14,27,64,27,-20.0,27,,,,,,,,,,,,,,,,
+0,20192020,New York Rangers,National Hockey League,1,1,0,0,2,0,1.0,1,0.0,0.0,0.0,3.0,0.0,16:46,5.0,0.0,00:17,15:35,0.0,0.0,0.0,00:54,1.0,29.0
+0,20192020,Hartford Wolf Pack,AHL,847,11,16,14,53,14,3.0,27,,,,,,,,,,,,,,,,
+0,20202021,New York Rangers,National Hockey League,1,0,0,0,2,0,-2.0,0,0.0,0.0,0.0,2.0,0.0,23:26,5.0,0.0,00:42,22:44,100.0,0.0,0.0,00:00,1.0,36.0
+0,20202021,Hartford Wolf Pack,AHL,847,10,9,20,23,20,2.0,19,,,,,,,,,,,,,,,,
+0,20212022,New York Rangers,National Hockey League,1,0,0,0,8,0,0.0,0,0.0,0.0,0.0,3.0,0.0,75:42,15.0,0.0,00:11,75:01,50.0,0.0,0.0,00:30,5.0,109.0
+0,20212022,Hartford Wolf Pack,AHL,847,15,10,39,45,39,9.0,25,,,,,,,,,,,,,,,,

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,nationality,active,alternateCaptain,captain,rookie,rosterStatus,currentTeam,primaryPosition
+0,8483634,Kai Wissmann,/api/v1/people/8483634,Kai,Wissmann,60,1996-10-22,25,DEU,True,False,False,False,Y,"{'id': 6, 'name': 'Boston Bruins', 'link': '/api/v1/teams/6'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,shortHandedGoals,shots,shotPct,gameWinningGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Strathcona Warriors Bantam AA,ERBHL,109272,15,17,0,11,0,0.0,32,,,,,,,,,,,,,,,,
+0,20112012,Sherwood Park Flyers Bantam AAA,AMBHL,53738,24,26,10,33,10,0.0,50,,,,,,,,,,,,,,,,
+0,20122013,Sherwood Park Flyers Bantam AAA,AMBHL,53738,52,52,16,31,16,0.0,104,,,,,,,,,,,,,,,,
+0,20132014,Sherwood Park,AMHL,1,16,7,8,14,8,,23,,,,,,,,,,,,,,,,
+0,20132014,Sherwood Park,AJHL,2,0,0,0,1,0,,0,,,,,,,,,,,,,,,,
+0,20132014,Regina,WHL,3,0,0,0,5,0,0.0,0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,Regina,WHL,1,37,17,16,61,16,10.0,54,6.0,3.0,17.0,100.0,3.0,,,,,,,,,,,
+0,20152016,Regina,WHL,1,47,23,24,72,24,-8.0,70,8.0,1.0,,,,,,,,,,,,,,
+0,20152016,Regina Pats,WHL,9641,47,23,24,72,24,-8.0,70,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,Hlinka Gretzky Cup,144760,2,1,2,4,2,1.0,3,,,,,,,,,,,,,,,,
+0,20152016,Team White,U18-Dev,178691,0,1,2,3,2,,1,,,,,,,,,,,,,,,,
+0,20162017,Regina Pats,WHL,9641,81,50,40,66,40,49.0,131,,,,,,,,,,,,,,,,
+0,20172018,Regina Pats,M-Cup,9121,11,2,4,5,4,-2.0,13,,,,,,,,,,,,,,,,
+0,20172018,Regina Pats,WHL,9641,50,33,18,54,18,27.0,83,,,,,,,,,,,,,,,,
+0,20172018,Canada U20,WJC-20,17216,5,4,0,7,0,3.0,9,,,,,,,,,,,,,,,,
+0,20182019,Anaheim Ducks,National Hockey League,1,5,6,8,22,8,2.0,11,0.0,1.0,33.0,18.18,0.0,329:14,9.0,2.0,35:00,282:42,49.09,0.0,1.0,11:32,6.0,421.0
+0,20182019,San Diego Gulls,AHL,85177,21,20,24,53,24,-3.0,41,,,,,,,,,,,,,,,,
+0,20192020,Anaheim Ducks,National Hockey League,1,16,6,20,65,20,-13.0,22,1.0,0.0,85.0,7.1,1.0,1010:42,24.0,8.0,112:56,876:31,50.27,1.0,0.0,21:15,25.0,1309.0
+0,20202021,Anaheim Ducks,National Hockey League,1,6,6,8,42,8,-7.0,12,0.0,0.0,42.0,14.3,0.0,610:11,41.0,0.0,52:35,540:53,52.78,0.0,0.0,16:43,19.0,813.0
+0,20212022,Anaheim Ducks,National Hockey League,1,14,6,16,68,16,-17.0,20,0.0,0.0,66.0,9.1,1.0,837:13,37.0,3.0,43:55,771:29,49.27,0.0,0.0,21:49,27.0,1102.0

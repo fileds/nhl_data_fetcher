@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,gameWinningGoals,shortHandedGoals,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Magog Cantonniers,QMAAA,62083,11,14,6,41,6,0,25,,,,,,,,,,,,,,,,
+0,20102011,Magog Cantonniers,QMAAA,62083,25,14,2,42,2,0,39,,,,,,,,,,,,,,,,
+0,20112012,Shawinigan Cataractes,QMJHL,8978,15,5,2,64,2,1,20,,,,,,,,,,,,,,,,
+0,20122013,Shawinigan Cataractes,QMJHL,8978,30,13,22,68,22,-33,43,,,,,,,,,,,,,,,,
+0,20132014,Shawinigan,QMJHL,1,18,13,0,27,0,-13,31,83.0,6.0,0.0,0.0,,,,,,,,,,,,
+0,20132014,Drummondville,QMJHL,2,21,19,2,36,2,14,40,106.0,4.0,3.0,0.0,,,,,,,,,,,,
+0,20142015,Milwaukee,AHL,1,7,4,12,43,12,1,11,62.0,0.0,0.0,0.0,,,,,,,,,,,,
+0,20142015,Cincinnati,ECHL,2,2,5,4,14,4,-1,7,28.0,1.0,1.0,0.0,,,,,,,,,,,,
+0,20152016,Milwaukee,AHL,1,27,15,31,75,31,-5,42,141.0,7.0,3.0,0.0,10.6,,,,,,,,,,,
+0,20152016,Milwaukee Admirals,AHL,1017,27,15,31,75,31,-5,42,,,,,,,,,,,,,,,,
+0,20162017,Nashville Predators,National Hockey League,1,1,0,0,9,0,1,1,8.0,0.0,0.0,0.0,0.0,77:58,1.0,0.0,00:25,76:25,33.33,0.0,0.0,01:08,5.0,118.0
+0,20162017,Milwaukee Admirals,AHL,1017,23,25,14,66,14,-1,48,,,,,,,,,,,,,,,,
+0,20172018,Nashville Predators,National Hockey League,1,3,0,2,20,2,0,3,14.0,0.0,0.0,0.0,0.0,183:13,8.0,0.0,00:10,180:46,49.64,0.0,0.0,02:17,8.0,274.0
+0,20172018,Milwaukee Admirals,AHL,1017,21,22,2,54,2,9,43,,,,,,,,,,,,,,,,
+0,20182019,Nashville Predators,National Hockey League,1,1,3,2,55,2,1,4,43.0,0.0,1.0,0.0,6.98,495:47,25.0,0.0,01:15,494:07,48.3,0.0,0.0,00:25,18.0,732.0
+0,20192020,Milwaukee Admirals,AHL,1017,17,11,6,42,6,0,28,,,,,,,,,,,,,,,,
+0,20202021,Pittsburgh Penguins,National Hockey League,1,8,2,2,19,2,10,10,20.0,0.0,0.0,0.0,10.0,248:13,9.0,0.0,02:49,212:08,53.7,0.0,1.0,33:16,9.0,375.0
+0,20202021,Wilkes-Barre/Scranton Penguins,AHL,1077,3,1,2,6,2,3,4,,,,,,,,,,,,,,,,
+0,20212022,Minnesota Wild,National Hockey League,1,30,14,8,76,8,12,44,132.0,1.0,4.0,0.0,10.6,1239:51,48.0,3.0,130:27,987:22,50.0,1.0,2.0,122:02,43.0,1448.0

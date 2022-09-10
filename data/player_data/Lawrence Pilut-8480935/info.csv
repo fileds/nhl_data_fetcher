@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480935,Lawrence Pilut,/api/v1/people/8480935,Lawrence,Pilut,1995-12-30,26,Tingsryd,SWE,SWE,"5' 11""",194,True,False,False,False,L,Y,"{'id': 7, 'name': 'Buffalo Sabres', 'link': '/api/v1/teams/7'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,gameWinningGoals,shortHandedGoals,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20072008,HC Pardubice U18,Czech U18,39432,7,9,28,40,28,-11.0,16,,,,,,,,,,,,,,,,
+0,20082009,HC Pardubice U18,Czech U18,39432,21,14,34,22,34,19.0,35,,,,,,,,,,,,,,,,
+0,20092010,HC Pardubice U18,Czech U18,39432,8,4,0,5,0,6.0,12,,,,,,,,,,,,,,,,
+0,20102011,HC Pardubice U20,Czech U20,30213,33,30,64,51,64,33.0,63,,,,,,,,,,,,,,,,
+0,20112012,Pardubice,CzRep,1,4,0,2,27,2,3.0,4,,,,,,,,,,,,,,,,
+0,20112012,Czech Republic,WJC-A,2,1,0,2,6,2,3.0,1,16.0,0.0,0.0,0.0,,,,,,,,,,,,
+0,20122013,Pardubice,CzRep,1,9,5,18,50,18,,14,,,,,,,,,,,,,,,,
+0,20122013,Hr. Kralove,CzRep-2,2,1,4,2,5,2,6.0,5,,,,,,,,,,,,,,,,
+0,20132014,Pardubice,CzRep,1,25,19,36,52,36,,44,,,,,,,,,,,,,,,,
+0,20142015,Grand Rapids,AHL,1,23,11,22,55,22,30.0,34,111.0,1.0,0.0,3.0,9.9,,,,,,,,,,,
+0,20152016,Detroit Red Wings,National Hockey League,1,0,0,2,6,2,-2.0,0,2.0,0.0,0.0,0.0,0.0,60:50,6.0,0.0,00:25,51:40,50.0,0.0,0.0,08:45,0.0,92.0
+0,20152016,Grand Rapids,AHL,2,15,15,42,70,42,13.0,30,129.0,0.0,3.0,2.0,11.6,,,,,,,,,,,
+0,20152016,Grand Rapids Griffins,AHL,987,15,15,42,70,42,13.0,30,,,,,,,,,,,,,,,,
+0,20162017,Detroit Red Wings,National Hockey League,1,0,1,2,11,2,-1.0,1,19.0,0.0,0.0,0.0,5.26,111:22,10.0,0.0,00:29,108:33,54.41,0.0,0.0,02:20,5.0,162.0
+0,20162017,Grand Rapids Griffins,AHL,987,26,15,33,51,33,4.0,41,,,,,,,,,,,,,,,,
+0,20172018,Vegas Golden Knights,National Hockey League,1,8,7,14,67,14,6.0,15,92.0,0.0,0.0,1.0,7.61,743:10,53.0,0.0,07:18,634:22,53.85,0.0,2.0,101:30,24.0,1004.0
+0,20182019,Vegas Golden Knights,National Hockey League,1,9,8,18,68,18,-10.0,17,116.0,0.0,1.0,1.0,6.9,848:01,75.0,0.0,26:58,704:55,62.12,0.0,1.0,116:08,23.0,1055.0
+0,20192020,Vegas Golden Knights,National Hockey League,1,7,8,20,67,20,-2.0,15,93.0,0.0,1.0,1.0,8.6,777:35,91.0,0.0,04:14,687:08,50.12,0.0,1.0,86:13,38.0,1074.0
+0,20202021,Vegas Golden Knights,National Hockey League,1,10,8,10,38,10,7.0,18,59.0,0.0,2.0,0.0,13.6,494:02,51.0,1.0,02:21,440:37,51.68,0.0,0.0,51:04,18.0,671.0
+0,20212022,Boston Bruins,National Hockey League,1,14,3,32,75,32,-9.0,17,84.0,0.0,1.0,0.0,3.6,1000:38,85.0,0.0,03:25,861:43,53.95,0.0,2.0,135:30,34.0,1364.0

@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,games,points,pim,penaltyMinutes,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Holderness School,USHS-Prep,60188,4,3,26,7,,,,,,,,,,,,,,,,,,,
+0,20102011,Holderness School,USHS-Prep,60188,6,7,28,13,12.0,12,0.0,,,,,,,,,,,,,,,,
+0,20112012,Holderness School,USHS-Prep,60188,20,14,29,34,36.0,36,0.0,,,,,,,,,,,,,,,,
+0,20122013,Cedar Rapids RoughRiders,USHL,7908,8,4,19,12,15.0,15,-8.0,,,,,,,,,,,,,,,,
+0,20132014,St. Lawrence Univ.,NCAA,17790,27,9,38,36,20.0,20,1.0,,,,,,,,,,,,,,,,
+0,20142015,St. Lawrence Univ.,NCAA,17790,11,6,37,17,22.0,22,8.0,,,,,,,,,,,,,,,,
+0,20152016,St. Lawrence Univ.,NCAA,18280,17,12,37,29,26.0,26,6.0,,,,,,,,,,,,,,,,
+0,20162017,St. Lawrence Univ.,NCAA,18280,21,8,30,29,24.0,24,9.0,,,,,,,,,,,,,,,,
+0,20162017,Texas Stars,AHL,45177,3,2,15,5,6.0,6,-2.0,,,,,,,,,,,,,,,,
+0,20172018,Texas Stars,AHL,45177,25,7,71,32,28.0,28,11.0,,,,,,,,,,,,,,,,
+0,20182019,Dallas Stars,National Hockey League,1,3,2,19,5,10.0,10,2.0,345:35,25.0,11.0,0.0,2.0,25:30,310:02,0.0,8.0,0.0,0.0,0.0,0.0,10:03,19.0,461.0
+0,20182019,Texas Stars,AHL,45177,18,7,53,25,18.0,18,0.0,,,,,,,,,,,,,,,,
+0,20192020,Texas Stars,AHL,45177,23,6,59,29,28.0,28,-8.0,,,,,,,,,,,,,,,,
+0,20202021,Columbus Blue Jackets,National Hockey League,1,0,1,9,1,7.0,7,-1.0,138:29,16.0,12.0,0.0,0.0,00:00,135:34,0.0,6.3,0.0,0.0,0.0,0.0,02:55,4.0,185.0
+0,20202021,Cleveland Monsters,AHL,22447,9,3,14,12,18.0,18,-5.0,,,,,,,,,,,,,,,,
+0,20212022,Columbus Blue Jackets,National Hockey League,1,8,0,43,8,22.0,22,0.0,561:25,44.0,50.0,0.0,0.0,01:32,541:04,0.0,0.0,0.0,0.0,0.0,0.0,18:49,45.0,775.0
+0,20212022,Cleveland Monsters,AHL,22447,3,0,5,3,20.0,20,4.0,,,,,,,,,,,,,,,,

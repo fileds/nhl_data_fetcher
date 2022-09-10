@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480083,C.J. Smith,/api/v1/people/8480083,C.J.,Smith,47,1994-12-01,27,Des Moines,IA,USA,USA,"5' 11""",184,True,False,False,False,L,Y,"{'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

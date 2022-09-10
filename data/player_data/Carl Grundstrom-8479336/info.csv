@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479336,Carl Grundstrom,/api/v1/people/8479336,Carl,Grundstrom,91,1997-12-01,24,Umea,SWE,SWE,"6' 0""",195,True,False,False,False,L,Y,"{'id': 26, 'name': 'Los Angeles Kings', 'link': '/api/v1/teams/26'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

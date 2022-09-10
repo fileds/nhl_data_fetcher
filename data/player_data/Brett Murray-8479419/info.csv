@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479419,Brett Murray,/api/v1/people/8479419,Brett,Murray,57,1998-07-20,24,Bolton,ON,CAN,CAN,"6' 5""",228,True,False,False,True,L,Y,"{'id': 7, 'name': 'Buffalo Sabres', 'link': '/api/v1/teams/7'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

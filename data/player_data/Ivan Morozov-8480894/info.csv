@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480894,Ivan Morozov,/api/v1/people/8480894,Ivan,Morozov,2000-05-05,22,Khanty-Mansiysk,RUS,RUS,"6' 1""",178,True,False,False,True,R,Y,"{'id': 54, 'name': 'Vegas Golden Knights', 'link': '/api/v1/teams/54'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

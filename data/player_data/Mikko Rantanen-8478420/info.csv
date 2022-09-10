@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478420,Mikko Rantanen,/api/v1/people/8478420,Mikko,Rantanen,96,1996-10-29,25,Nousiainen,FIN,FIN,"6' 4""",215,True,True,False,False,L,Y,"{'id': 21, 'name': 'Colorado Avalanche', 'link': '/api/v1/teams/21'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

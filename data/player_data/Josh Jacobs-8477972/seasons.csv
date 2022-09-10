@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Belle Tire Bantam Minor AAA,T1EMBHL,168360,14,8,20,29,20,0.0,22,,,,,,,,,,,,,,,,
+0,20102011,Det. Belle Tire,T1EHL,1,19,9,24,31,24,,28,,,,,,,,,,,,,,,,
+0,20112012,Det. Honeybaked,HPHL,1,14,3,20,24,20,,17,,,,,,,,,,,,,,,,
+0,20122013,Indiana,USHL,1,13,2,52,48,52,-5.0,15,60.0,0.0,3.3,1.0,0.0,,,,,,,,,,,
+0,20132014,Indiana,USHL,1,18,5,46,56,46,36.0,23,102.0,2.0,4.9,1.0,0.0,,,,,,,,,,,
+0,20142015,Michigan State,Big Ten,1,9,0,26,35,26,,9,,0.0,,0.0,0.0,,,,,,,,,,,
+0,20152016,Sarnia,OHL,1,20,4,38,67,38,26.0,24,,,,,,,,,,,,,,,,
+0,20152016,Albany,AHL,2,0,0,0,1,0,2.0,0,4.0,0.0,0.0,0.0,0.0,,,,,,,,,,,
+0,20152016,Sarnia Sting,OHL,9498,20,4,38,67,38,26.0,24,,,,,,,,,,,,,,,,
+0,20152016,Albany Devils,AHL,70157,0,0,0,1,0,2.0,0,,,,,,,,,,,,,,,,
+0,20162017,Albany Devils,AHL,70157,9,0,32,49,32,-2.0,9,,,,,,,,,,,,,,,,
+0,20162017,Adirondack Thunder,ECHL,185555,0,0,0,1,0,2.0,0,,,,,,,,,,,,,,,,
+0,20172018,Binghamton Devils,AHL,233827,15,1,33,55,33,-4.0,16,,,,,,,,,,,,,,,,
+0,20182019,New Jersey Devils,National Hockey League,1,0,0,0,1,0,-1.0,0,1.0,0.0,0.0,0.0,0.0,14:54,2.0,0.0,00:00,14:54,0.0,0.0,0.0,00:00,1.0,19.0
+0,20182019,Binghamton Devils,AHL,233827,10,3,42,69,42,-7.0,13,,,,,,,,,,,,,,,,
+0,20192020,New Jersey Devils,National Hockey League,1,0,0,2,2,2,1.0,0,3.0,0.0,0.0,0.0,0.0,33:11,3.0,0.0,00:00,32:30,0.0,0.0,0.0,00:41,4.0,42.0
+0,20192020,Binghamton Devils,AHL,233827,10,5,20,54,20,16.0,15,,,,,,,,,,,,,,,,
+0,20202021,Binghamton Devils,AHL,233827,3,0,8,19,8,-5.0,3,,,,,,,,,,,,,,,,
+0,20212022,Chicago Wolves,AHL,957,11,4,24,51,24,14.0,15,,,,,,,,,,,,,,,,

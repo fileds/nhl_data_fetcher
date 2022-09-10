@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479379,Givani Smith,/api/v1/people/8479379,Givani,Smith,48,1998-02-27,24,Toronto,ON,CAN,CAN,"6' 2""",215,True,False,False,False,L,Y,"{'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17'}","{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477981,Roland McKeown,/api/v1/people/8477981,Roland,McKeown,10,1996-01-20,26,Listowel,ON,CAN,CAN,"6' 1""",195,True,False,False,True,R,Y,"{'id': 18, 'name': 'Nashville Predators', 'link': '/api/v1/teams/18'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

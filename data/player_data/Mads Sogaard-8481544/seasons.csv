@@ -1,0 +1,12 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,ot,shutouts,ties,wins,losses,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,shotsAgainst,goalsAgainst,powerPlaySavePercentage,evenStrengthSavePercentage
+0,20162017,Denmark U18,WJC-18 D1A,17315,0.895,3.0,2,,,,,,,,,,,,,,,,,,
+0,20172018,Denmark U18,WJC-18 D1A,17315,0.793,4.52,3,,,,,,,,,,,,,,,,,,
+0,20172018,Austin Bruins,NAHL,72494,0.909,2.64,22,,,,,,,,,,,,,,,,,,
+0,20182019,Medicine Hat Tigers,WHL,9611,0.921,2.64,37,,,,,,,,,,,,,,,,,,
+0,20182019,Denmark U20,WJC-20,17336,0.802,6.16,5,,,,,,,,,,,,,,,,,,
+0,20192020,Medicine Hat Tigers,WHL,9611,0.908,2.53,37,,,,,,,,,,,,,,,,,,
+0,20192020,Denmark U20,WJC-20 D1A,17337,0.904,3.22,4,,,,,,,,,,,,,,,,,,
+0,20202021,Esbjerg Energy,Denmark,1520,0.922,,16,,,,,,,,,,,,,,,,,,
+0,20202021,Belleville Senators,AHL,227817,0.917,2.4,7,,,,,,,,,,,,,,,,,,
+0,20212022,Ottawa Senators,National Hockey League,1,0.889,3.06905,2,117:18,0.0,0.0,0.0,1.0,1.0,48.0,11.0,0.0,37.0,0.0,41.0,13.0,2.0,54.0,6.0,84.61538461538461,90.2439024390244
+0,20212022,Belleville Senators,AHL,227817,0.908,2.86,35,,,,,,,,,,,,,,,,,,

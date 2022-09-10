@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482399,Billy Sweezey,/api/v1/people/8482399,Billy,Sweezey,1996-02-06,26,Hanson,MA,USA,USA,"6' 2""",205,True,False,False,True,R,Y,"{'id': 29, 'name': 'Columbus Blue Jackets', 'link': '/api/v1/teams/29'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

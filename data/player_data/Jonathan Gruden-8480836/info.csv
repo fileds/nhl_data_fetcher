@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480836,Jonathan Gruden,/api/v1/people/8480836,Jonathan,Gruden,45,2000-05-04,22,Rochester Hills,MI,USA,USA,"6' 0""",172,True,False,False,True,L,Y,"{'id': 5, 'name': 'Pittsburgh Penguins', 'link': '/api/v1/teams/5'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

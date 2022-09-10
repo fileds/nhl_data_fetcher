@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Academy of Holy Angels,USHS-MN,47162,20,17,18,25,18,24,37,,,,,,,,,,,,,,,,
+0,20112012,Austin Bruins,NAHL,72048,14,13,20,53,20,13,27,,,,,,,,,,,,,,,,
+0,20122013,Austin Bruins,NAHL,72048,29,30,22,60,22,21,59,,,,,,,,,,,,,,,,
+0,20132014,Muskegon Lumberjacks,USHL,5428,1,4,6,13,6,3,5,,,,,,,,,,,,,,,,
+0,20132014,Chicago Steel,USHL,9058,17,23,10,46,10,-1,40,,,,,,,,,,,,,,,,
+0,20142015,UMass-Lowell,NCAA,10450,19,16,28,39,28,12,35,,,,,,,,,,,,,,,,
+0,20152016,UMass-Lowell,NCAA,10940,22,17,50,40,50,15,39,,,,,,,,,,,,,,,,
+0,20162017,Buffalo Sabres,National Hockey League,1,1,0,0,2,0,-1,1,23:04,2.0,0.0,0.0,0.0,00:37,22:27,0.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,30.0
+0,20162017,UMass-Lowell,NCAA,10940,28,23,46,41,46,22,51,,,,,,,,,,,,,,,,
+0,20172018,Rochester Americans,AHL,1047,27,17,16,57,16,4,44,,,,,,,,,,,,,,,,
+0,20182019,Buffalo Sabres,National Hockey League,1,0,2,0,11,0,0,2,117:12,18.0,4.0,0.0,0.0,00:54,113:03,0.0,11.11,1.0,0.0,0.0,0.0,03:15,1.0,157.0
+0,20182019,Rochester Americans,AHL,1047,30,28,26,62,26,26,58,,,,,,,,,,,,,,,,
+0,20192020,Rochester Americans,AHL,1047,15,12,18,50,18,-9,27,,,,,,,,,,,,,,,,
+0,20202021,Buffalo Sabres,National Hockey League,1,0,0,0,1,0,0,0,07:57,0.0,3.0,0.0,0.0,00:00,07:57,0.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,12.0
+0,20202021,Rochester Americans,AHL,1047,9,4,6,15,6,-4,13,,,,,,,,,,,,,,,,
+0,20212022,Carolina Hurricanes,National Hockey League,1,0,0,0,1,0,-1,0,09:22,0.0,1.0,0.0,0.0,00:00,09:22,0.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,10.0
+0,20212022,Chicago Wolves,AHL,957,34,24,18,60,18,0,58,,,,,,,,,,,,,,,,

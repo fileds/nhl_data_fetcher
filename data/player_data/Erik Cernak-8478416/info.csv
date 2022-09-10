@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478416,Erik Cernak,/api/v1/people/8478416,Erik,Cernak,81,1997-05-28,25,Kosice,SVK,SVK,"6' 3""",230,True,False,False,False,R,Y,"{'id': 14, 'name': 'Tampa Bay Lightning', 'link': '/api/v1/teams/14'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

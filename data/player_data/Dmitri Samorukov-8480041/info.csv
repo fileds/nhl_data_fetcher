@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480041,Dmitri Samorukov,/api/v1/people/8480041,Dmitri,Samorukov,58,1999-06-16,23,Volgograd,RUS,RUS,"6' 3""",188,True,False,False,True,L,Y,"{'id': 22, 'name': 'Edmonton Oilers', 'link': '/api/v1/teams/22'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

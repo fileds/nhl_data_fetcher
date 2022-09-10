@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477476,Artturi Lehkonen,/api/v1/people/8477476,Artturi,Lehkonen,62,1995-07-04,27,Piikkio,FIN,FIN,"5' 11""",179,True,False,False,False,L,Y,"{'id': 21, 'name': 'Colorado Avalanche', 'link': '/api/v1/teams/21'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8483565,Nick Blankenburg,/api/v1/people/8483565,Nick,Blankenburg,77,1998-05-12,24,Washington,MI,USA,USA,"5' 9""",175,True,False,False,False,R,Y,"{'id': 29, 'name': 'Columbus Blue Jackets', 'link': '/api/v1/teams/29'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

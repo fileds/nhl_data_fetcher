@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Berkshire School,USHS-Prep,27638,14,12,0,25,0,0,26,,,,,,,,,,,,,,,,
+0,20112012,Berkshire School,USHS-Prep,27638,12,14,0,30,0,0,26,,,,,,,,,,,,,,,,
+0,20122013,Providence College,NCAA,7200,3,1,18,29,18,-5,4,,,,,,,,,,,,,,,,
+0,20132014,Providence College,NCAA,7200,4,3,20,36,20,-2,7,,,,,,,,,,,,,,,,
+0,20142015,Providence College,NCAA,7200,8,7,12,41,12,7,15,,,,,,,,,,,,,,,,
+0,20152016,Providence College,NCAA,7690,4,6,20,38,20,4,10,,,,,,,,,,,,,,,,
+0,20152016,Albany Devils,AHL,70157,3,0,0,7,0,2,3,,,,,,,,,,,,,,,,
+0,20162017,New Jersey Devils,National Hockey League,1,0,0,4,4,4,-3,0,40:45,2.0,4.0,0.0,0.0,00:15,39:54,37.04,0.0,0.0,0.0,0.0,0.0,00:36,1.0,56.0
+0,20162017,Albany Devils,AHL,70157,8,13,39,71,39,-6,21,,,,,,,,,,,,,,,,
+0,20172018,New Jersey Devils,National Hockey League,1,0,0,0,1,0,0,0,11:46,3.0,2.0,0.0,0.0,00:19,11:13,33.33,0.0,0.0,0.0,0.0,0.0,00:14,0.0,18.0
+0,20172018,Binghamton Devils,AHL,233827,20,14,63,71,63,-1,34,,,,,,,,,,,,,,,,
+0,20182019,New Jersey Devils,National Hockey League,1,4,6,15,41,15,-4,10,517:08,39.0,77.0,0.0,0.0,01:19,437:16,49.34,15.38,1.0,0.0,1.0,1.0,78:33,22.0,738.0
+0,20182019,Binghamton Devils,AHL,233827,16,1,26,38,26,-11,17,,,,,,,,,,,,,,,,
+0,20192020,New Jersey Devils,National Hockey League,1,5,4,20,49,20,8,9,574:48,59.0,64.0,0.0,0.0,01:14,470:43,47.04,6.8,0.0,0.0,2.0,3.0,102:51,32.0,797.0
+0,20202021,New York Rangers,National Hockey League,1,6,8,54,54,54,0,14,667:06,62.0,110.0,0.0,0.0,04:52,561:28,44.98,12.9,0.0,0.0,2.0,2.0,100:46,35.0,1027.0
+0,20202021,USA,WC,17215,1,0,6,10,6,5,1,,,,,,,,,,,,,,,,
+0,20212022,New York Rangers,National Hockey League,1,6,6,18,61,18,-1,12,844:51,71.0,84.0,0.0,0.0,05:17,710:11,44.8,8.5,1.0,0.0,0.0,0.0,129:23,47.0,1101.0

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482250,Callahan Burke,/api/v1/people/8482250,Callahan,Burke,1997-03-19,25,Boxborough,MA,USA,USA,"5' 10""",183,True,False,False,True,R,Y,"{'id': 21, 'name': 'Colorado Avalanche', 'link': '/api/v1/teams/21'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

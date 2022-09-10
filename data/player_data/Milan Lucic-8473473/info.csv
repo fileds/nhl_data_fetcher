@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8473473,Milan Lucic,/api/v1/people/8473473,Milan,Lucic,17,1988-06-07,34,Vancouver,BC,CAN,CAN,"6' 3""",231,True,False,False,False,L,Y,"{'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

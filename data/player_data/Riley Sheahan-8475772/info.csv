@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475772,Riley Sheahan,/api/v1/people/8475772,Riley,Sheahan,1991-12-07,30,St. Catharines,ON,CAN,CAN,"6' 2""",216,True,False,False,False,L,Y,"{'id': 7, 'name': 'Buffalo Sabres', 'link': '/api/v1/teams/7'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

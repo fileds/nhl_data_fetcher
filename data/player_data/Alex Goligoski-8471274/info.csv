@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8471274,Alex Goligoski,/api/v1/people/8471274,Alex,Goligoski,33,1985-07-30,37,Grand Rapids,MN,USA,USA,"5' 11""",173,True,False,False,False,L,Y,"{'id': 30, 'name': 'Minnesota Wild', 'link': '/api/v1/teams/30'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

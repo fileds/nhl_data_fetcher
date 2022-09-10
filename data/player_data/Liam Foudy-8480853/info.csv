@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480853,Liam Foudy,/api/v1/people/8480853,Liam,Foudy,19,2000-02-04,22,Scarborough,ON,CAN,CAN,"6' 2""",187,True,False,False,True,L,Y,"{'id': 29, 'name': 'Columbus Blue Jackets', 'link': '/api/v1/teams/29'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

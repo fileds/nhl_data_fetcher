@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Toronto Bulldogs,Brick Invitational,128766,7,4,6,6,6,11,,,,,,,,,,,,,,,,,
+0,20162017,Toronto Marlboros U16 AAA,U16 AAA,82673,101,58,36,80,36,159,,,,,,,,,,,,,,,,,
+0,20162017,Toronto Marlboros U16 AAA,GTHL U16,82870,50,23,4,33,4,73,,,,,,,,,,,,,,,,,
+0,20172018,USA U18,WJC-18,17253,7,5,2,7,2,12,3.0,,,,,,,,,,,,,,,,
+0,20172018,U.S. National U18 Team,USDP,19564,41,27,6,36,6,68,,,,,,,,,,,,,,,,,
+0,20172018,U.S. National U17 Team,USDP,19734,35,13,10,24,10,48,,,,,,,,,,,,,,,,,
+0,20172018,USNTDP Juniors,USHL,52486,33,21,10,27,10,54,26.0,,,,,,,,,,,,,,,,
+0,20172018,USA U17,WHC-17,61270,10,5,2,6,2,15,,,,,,,,,,,,,,,,,
+0,20182019,USA,WC,17215,3,0,0,7,0,3,2.0,,,,,,,,,,,,,,,,
+0,20182019,USA U18,WJC-18,17253,11,9,8,7,8,20,10.0,,,,,,,,,,,,,,,,
+0,20182019,USA U20,WJC-20,17276,4,0,0,4,0,4,2.0,,,,,,,,,,,,,,,,
+0,20182019,U.S. National U18 Team,USDP,19564,78,34,28,50,28,112,,,,,,,,,,,,,,,,,
+0,20182019,USNTDP Juniors,USHL,52486,36,12,4,24,4,48,17.0,,,,,,,,,,,,,,,,
+0,20192020,New Jersey Devils,National Hockey League,1,14,7,10,61,10,21,-26.0,967:47,123.0,12.0,4.0,9.0,193:42,772:59,36.15,5.7,2.0,1.0,0.0,0.0,01:06,21.0,1104.0
+0,20202021,New Jersey Devils,National Hockey League,1,20,11,16,56,16,31,-3.0,1067:32,142.0,15.0,1.0,7.0,165:41,899:08,35.35,7.7,1.0,0.0,0.0,0.0,02:43,15.0,1265.0
+0,20212022,New Jersey Devils,National Hockey League,1,30,26,0,49,0,56,-16.0,958:44,165.0,6.0,6.0,14.0,141:02,814:10,34.56,15.8,2.0,2.0,0.0,0.0,03:32,15.0,1088.0

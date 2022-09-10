@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475179,Dmitry Kulikov,/api/v1/people/8475179,Dmitry,Kulikov,29,1990-10-29,31,Lipetsk,RUS,RUS,"6' 1""",201,True,False,False,False,L,Y,"{'id': 24, 'name': 'Anaheim Ducks', 'link': '/api/v1/teams/24'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

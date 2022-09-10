@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Ajax/Pickering Raiders Mdgt AAA,Midget,70891,39,17,60,73,60,0.0,56,,,,,,,,,,,,,,,,
+0,20102011,The Hill Academy Varsity,CAHS,87885,43,10,34,62,34,80.0,53,,,,,,,,,,,,,,,,
+0,20112012,Youngstown Phantoms,USHL,26358,14,1,53,58,53,11.0,15,,,,,,,,,,,,,,,,
+0,20122013,Youngstown Phantoms,USHL,26358,18,10,83,57,83,24.0,28,,,,,,,,,,,,,,,,
+0,20132014,U. of Maine,H-East,1,10,1,12,34,12,,11,0.0,1.0,0.0,,,,,,,,,,,,,
+0,20142015,U. of Maine,H-East,1,9,3,24,39,24,8.0,12,1.0,0.0,0.0,,,,,,,,,,,,,
+0,20152016,U. of Maine,H-East,1,9,6,36,38,36,-5.0,15,2.0,1.0,0.0,82.0,7.3,,,,,,,,,,,
+0,20152016,Grand Rapids,AHL,2,1,0,5,6,5,0.0,1,0.0,0.0,0.0,5.0,0.0,,,,,,,,,,,
+0,20152016,Grand Rapids Griffins,AHL,987,1,0,5,6,5,0.0,1,,,,,,,,,,,,,,,,
+0,20152016,Univ. of Maine,NCAA,6620,9,6,36,38,36,-5.0,15,,,,,,,,,,,,,,,,
+0,20162017,Detroit Red Wings,National Hockey League,1,0,0,0,1,0,0.0,0,0.0,0.0,0.0,1.0,0.0,13:35,3.0,0.0,00:00,13:35,0.0,0.0,0.0,00:00,0.0,18.0
+0,20162017,Grand Rapids Griffins,AHL,987,13,3,95,67,95,12.0,16,,,,,,,,,,,,,,,,
+0,20172018,Grand Rapids Griffins,AHL,987,10,2,83,73,83,4.0,12,,,,,,,,,,,,,,,,
+0,20182019,Charlotte Checkers,AHL,2357,22,2,121,74,121,13.0,24,,,,,,,,,,,,,,,,
+0,20192020,Colorado Eagles,AHL,8957,14,2,82,54,82,13.0,16,,,,,,,,,,,,,,,,
+0,20202021,Colorado Avalanche,National Hockey League,1,3,0,16,18,16,-1.0,3,0.0,0.0,0.0,12.0,0.0,182:57,20.0,0.0,00:00,175:56,0.0,0.0,0.0,07:01,3.0,257.0
+0,20202021,Colorado Eagles,AHL,8957,2,1,4,5,4,2.0,3,,,,,,,,,,,,,,,,
+0,20212022,Detroit Red Wings,National Hockey League,1,0,0,7,4,7,-2.0,0,0.0,0.0,0.0,3.0,0.0,56:01,4.0,0.0,00:01,55:16,0.0,0.0,0.0,00:44,2.0,68.0
+0,20212022,Grand Rapids Griffins,AHL,987,11,3,53,63,53,14.0,14,,,,,,,,,,,,,,,,

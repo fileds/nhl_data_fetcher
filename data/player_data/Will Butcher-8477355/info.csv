@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477355,Will Butcher,/api/v1/people/8477355,Will,Butcher,1995-01-06,27,Sun Prairie,WI,USA,USA,"5' 10""",190,True,False,False,False,L,Y,"{'id': 25, 'name': 'Dallas Stars', 'link': '/api/v1/teams/25'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

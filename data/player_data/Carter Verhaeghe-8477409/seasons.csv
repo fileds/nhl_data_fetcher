@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,shortHandedGoals,plusMinus,shots,shotPct,gameWinningGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Ham. Jr. Bulldogs,Minor-ON,1,30,34,28,45,28,64,,,,,,,,,,,,,,,,,
+0,20112012,Niagara,OHL,1,12,4,10,62,10,16,1.0,0.0,6.0,,,,,,,,,,,,,,
+0,20122013,Niagara,OHL,1,26,18,22,67,22,44,5.0,0.0,-12.0,,,,,,,,,,,,,,
+0,20122013,Canada,WJ18-A,2,4,0,4,7,4,4,0.0,0.0,3.0,9.0,0.0,0.0,,,,,,,,,,,
+0,20132014,Niagara,OHL,1,54,28,60,65,60,82,13.0,0.0,-19.0,,,0.0,,,,,,,,,,,
+0,20132014,Toronto,AHL,2,1,0,0,2,0,1,0.0,0.0,2.0,0.0,0.0,0.0,,,,,,,,,,,
+0,20142015,Niagara,OHL,1,49,33,38,68,38,82,3.0,1.0,21.0,,,2.0,,,,,,,,,,,
+0,20152016,Bridgeport,AHL,1,9,6,6,30,6,15,1.0,0.0,3.0,33.0,18.2,1.0,,,,,,,,,,,
+0,20152016,Missouri,ECHL,2,17,8,2,20,2,25,1.0,0.0,16.0,,,,,,,,,,,,,,
+0,20152016,Bridgeport Islanders,AHL,827,9,6,6,30,6,15,,,3.0,,,,,,,,,,,,,,
+0,20152016,Kansas City Mavericks,ECHL,48205,17,8,2,20,2,25,,,16.0,,,,,,,,,,,,,,
+0,20162017,Bridgeport Islanders,AHL,827,13,16,20,45,20,29,,,12.0,,,,,,,,,,,,,,
+0,20162017,Kansas City Mavericks,ECHL,48205,20,12,4,16,4,32,,,11.0,,,,,,,,,,,,,,
+0,20172018,Syracuse Crunch,AHL,1057,31,17,30,58,30,48,,,18.0,,,,,,,,,,,,,,
+0,20182019,Syracuse Crunch,AHL,1057,48,34,34,76,34,82,,,26.0,,,,,,,,,,,,,,
+0,20192020,Tampa Bay Lightning,National Hockey League,1,4,9,8,52,8,13,1.0,0.0,-9.0,57.0,15.8,1.0,486:48,29.0,1.0,12:43,472:46,45.16,0.0,0.0,01:19,8.0,692.0
+0,20202021,Florida Panthers,National Hockey League,1,18,18,31,43,31,36,1.0,1.0,24.0,107.0,16.8,3.0,762:32,33.0,2.0,58:53,693:10,46.94,0.0,1.0,10:29,14.0,932.0
+0,20212022,Florida Panthers,National Hockey League,1,31,24,48,78,48,55,0.0,0.0,24.0,167.0,14.4,4.0,1252:08,50.0,3.0,85:31,1143:03,65.52,1.0,0.0,23:34,16.0,1582.0

@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20152016,TPS U16,U16 SM-sarja,81303,12,14,2,25,2,26,,,,,,,,,,,,,,,,,
+0,20162017,TPS U20,U20 SM-sarja,20200,4,0,0,7,0,4,-1.0,,,,,,,,,,,,,,,,
+0,20162017,TPS U18,U18 SM-sarja,25911,17,24,8,35,8,41,,,,,,,,,,,,,,,,,
+0,20172018,TPS,Liiga,969,1,0,0,6,0,1,-3.0,,,,,,,,,,,,,,,,
+0,20172018,Finland U18,WJC-18,17093,6,4,2,7,2,10,8.0,,,,,,,,,,,,,,,,
+0,20172018,TPS U20,U20 SM-sarja,20200,30,25,16,38,16,55,13.0,,,,,,,,,,,,,,,,
+0,20172018,TPS U18,U18 SM-sarja,25911,4,7,4,6,4,11,,,,,,,,,,,,,,,,,
+0,20182019,TPS,Champions HL,592,0,2,2,5,2,2,4.0,,,,,,,,,,,,,,,,
+0,20182019,TPS,Liiga,969,16,22,10,45,10,38,1.0,,,,,,,,,,,,,,,,
+0,20182019,Finland,WC,17055,1,6,0,10,0,7,10.0,,,,,,,,,,,,,,,,
+0,20182019,Finland U20,WJC-20,17116,3,2,0,7,0,5,2.0,,,,,,,,,,,,,,,,
+0,20182019,Finland,EHT,68516,2,0,0,2,0,2,-1.0,,,,,,,,,,,,,,,,
+0,20192020,New York Rangers,National Hockey League,1,13,10,14,66,14,23,-26.0,942:24,109.0,20.0,2.0,13.0,147:01,794:09,33.33,9.2,3.0,1.0,0.0,0.0,01:14,11.0,1179.0
+0,20202021,New York Rangers,National Hockey League,1,8,9,10,48,10,17,3.0,688:41,81.0,14.0,2.0,3.0,63:23,625:18,42.86,11.1,0.0,0.0,0.0,0.0,00:00,16.0,896.0
+0,20212022,New York Rangers,National Hockey League,1,11,7,10,43,10,18,9.0,664:10,62.0,8.0,1.0,2.0,52:59,591:52,14.29,11.3,2.0,0.0,0.0,0.0,19:19,15.0,828.0

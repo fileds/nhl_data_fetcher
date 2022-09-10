@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477244,Chad Ruhwedel,/api/v1/people/8477244,Chad,Ruhwedel,2,1990-05-07,32,San Diego,CA,USA,USA,"5' 11""",191,True,False,False,False,R,Y,"{'id': 5, 'name': 'Pittsburgh Penguins', 'link': '/api/v1/teams/5'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

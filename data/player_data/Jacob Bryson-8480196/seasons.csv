@@ -1,0 +1,13 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,London Jr. Knights Gold Min Mdgt,AHMMPL,76568,17,3,4,29,4,0,20,,,,,,,,,,,,,,,,
+0,20132014,London Jr. Knights Midget AAA,Midget,54031,38,5,10,82,10,36,43,,,,,,,,,,,,,,,,
+0,20142015,The Loomis Chaffee School,USHS-Prep,57638,10,5,0,27,0,0,15,,,,,,,,,,,,,,,,
+0,20142015,Neponset Valley River Rats U18,MHSL U18,138639,9,3,2,14,2,0,12,,,,,,,,,,,,,,,,
+0,20152016,Omaha Lancers,USHL,10466,28,3,36,56,36,-8,31,,,,,,,,,,,,,,,,
+0,20162017,Providence College,NCAA,7690,17,3,12,39,12,0,20,,,,,,,,,,,,,,,,
+0,20172018,Providence College,NCAA,7690,21,4,18,40,18,16,25,,,,,,,,,,,,,,,,
+0,20182019,Providence College,NCAA,7690,24,4,8,42,8,17,28,,,,,,,,,,,,,,,,
+0,20192020,Rochester Americans,AHL,1047,23,4,34,61,34,8,27,,,,,,,,,,,,,,,,
+0,20202021,Buffalo Sabres,National Hockey League,1,8,1,12,38,12,-1,9,723:44,24.0,32.0,0.0,1.0,15:02,628:06,0.0,4.2,0.0,0.0,0.0,2.0,80:36,43.0,823.0
+0,20202021,Rochester Americans,AHL,1047,3,0,2,5,2,-3,3,,,,,,,,,,,,,,,,
+0,20212022,Buffalo Sabres,National Hockey League,1,9,1,12,73,12,-9,10,1338:22,43.0,55.0,1.0,7.0,65:48,1213:20,0.0,2.3,0.0,0.0,0.0,0.0,59:14,73.0,1853.0

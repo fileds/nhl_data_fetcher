@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478491,Jacob Larsson,/api/v1/people/8478491,Jacob,Larsson,32,1997-04-29,25,Ljungby,SWE,SWE,"6' 2""",190,True,False,False,False,L,Y,"{'id': 9, 'name': 'Ottawa Senators', 'link': '/api/v1/teams/9'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480113,Alex Iafallo,/api/v1/people/8480113,Alex,Iafallo,19,1993-12-21,28,Eden,NY,USA,USA,"6' 0""",200,True,False,False,False,L,Y,"{'id': 26, 'name': 'Los Angeles Kings', 'link': '/api/v1/teams/26'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

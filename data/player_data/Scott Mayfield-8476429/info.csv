@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476429,Scott Mayfield,/api/v1/people/8476429,Scott,Mayfield,24,1992-10-14,29,St. Louis,MO,USA,USA,"6' 5""",220,True,False,False,False,R,Y,"{'id': 2, 'name': 'New York Islanders', 'link': '/api/v1/teams/2'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479514,Rem Pitlick,/api/v1/people/8479514,Rem,Pitlick,32,1997-04-02,25,Ottawa,ON,CAN,CAN,"5' 11""",196,True,False,False,True,L,Y,"{'id': 8, 'name': 'Montréal Canadiens', 'link': '/api/v1/teams/8'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

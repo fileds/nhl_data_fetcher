@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points
+0,20112012,Winnipeg Monarchs Bntm AAA Div 2,WBAAA2,129170,7,17,30,29,30,0.0,24
+0,20122013,Winnipeg Monarchs Bntm AAA Div 2,WBAAA2,129170,20,27,32,21,32,0.0,47
+0,20132014,Winnipeg Monarchs Bantam AAA,WBAAA,129109,50,53,28,32,28,0.0,103
+0,20142015,Winnipeg Wild Midget AAA,MMHL,19813,11,14,18,27,18,0.0,25
+0,20152016,Brandon Wheat Kings,M-Cup,9071,0,1,0,3,0,-2.0,1
+0,20152016,Brandon Wheat Kings,WHL,9591,17,13,10,50,10,12.0,30
+0,20152016,Canada Black U17,WHC-17,163780,2,2,0,5,0,,4
+0,20152016,Team Black,U17-Dev,178209,1,4,0,3,0,,5
+0,20162017,Brandon Wheat Kings,WHL,9591,35,26,59,69,59,-16.0,61
+0,20162017,Canada U18,WJC-18,17193,0,4,2,5,2,-5.0,4
+0,20162017,Canada U18,Hlinka Gretzky Cup,144760,0,1,4,4,4,1.0,1
+0,20172018,Brandon Wheat Kings,WHL,9591,47,43,81,68,81,7.0,90
+0,20182019,Charlotte Checkers,AHL,2357,1,2,2,11,2,1.0,3
+0,20182019,Brandon Wheat Kings,WHL,9591,52,44,77,65,77,17.0,96
+0,20192020,Charlotte Checkers,AHL,2357,3,3,4,16,4,-5.0,6
+0,20202021,Chicago Wolves,AHL,957,2,0,8,6,8,1.0,2
+0,20202021,Fort Wayne Komets,ECHL,6335,0,0,0,3,0,0.0,0
+0,20212022,Chicago Wolves,AHL,957,8,2,44,59,44,-8.0,10

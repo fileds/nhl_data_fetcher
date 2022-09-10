@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480843,Lukas Dostal,/api/v1/people/8480843,Lukas,Dostal,1,2000-06-22,22,Brno,CZE,CZE,"6' 2""",174,True,False,False,True,L,Y,"{'id': 24, 'name': 'Anaheim Ducks', 'link': '/api/v1/teams/24'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

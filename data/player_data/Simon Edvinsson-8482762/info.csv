@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482762,Simon Edvinsson,/api/v1/people/8482762,Simon,Edvinsson,2003-02-05,19,Kungsbacka,SWE,SWE,"6' 4""",198,True,False,False,True,L,Y,"{'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

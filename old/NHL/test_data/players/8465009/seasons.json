@@ -1,0 +1,1447 @@
+[
+    {
+        "season": "19941995",
+        "stat": {
+            "assists": 22,
+            "goals": 22,
+            "pim": 113,
+            "games": 30,
+            "penaltyMinutes": "113",
+            "points": 44
+        },
+        "team": {
+            "name": "Trencin U18",
+            "link": "/api/v1/teams/null"
+        },
+        "league": {
+            "name": "Svk-U18",
+            "link": "/api/v1/league/null"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "19941995",
+        "stat": {
+            "assists": 0,
+            "goals": 0,
+            "pim": 0,
+            "games": 2,
+            "penaltyMinutes": "0",
+            "points": 0
+        },
+        "team": {
+            "id": 5798,
+            "name": "Trencin Jr.",
+            "link": "/api/v1/teams/5798"
+        },
+        "league": {
+            "id": 249,
+            "name": "Slovak-Jr.",
+            "link": "/api/v1/league/249"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "19951996",
+        "stat": {
+            "assists": 13,
+            "goals": 1,
+            "pim": 80,
+            "games": 22,
+            "penaltyMinutes": "80",
+            "points": 14
+        },
+        "team": {
+            "id": 5798,
+            "name": "Trencin Jr.",
+            "link": "/api/v1/teams/5798"
+        },
+        "league": {
+            "id": 249,
+            "name": "Slovak-Jr.",
+            "link": "/api/v1/league/249"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "19951996",
+        "stat": {
+            "assists": 3,
+            "goals": 1,
+            "pim": 10,
+            "games": 10,
+            "penaltyMinutes": "10",
+            "points": 4
+        },
+        "team": {
+            "name": "Piestany",
+            "link": "/api/v1/teams/null"
+        },
+        "league": {
+            "name": "Slovak-2",
+            "link": "/api/v1/league/null"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "19951996",
+        "stat": {
+            "assists": 2,
+            "goals": 1,
+            "pim": 42,
+            "games": 15,
+            "penaltyMinutes": "42",
+            "points": 3
+        },
+        "team": {
+            "id": 5478,
+            "name": "Sparta Jr.",
+            "link": "/api/v1/teams/5478"
+        },
+        "league": {
+            "name": "CzRep-Jr.",
+            "link": "/api/v1/league/null"
+        },
+        "sequenceNumber": 3
+    },
+    {
+        "season": "19951996",
+        "stat": {
+            "assists": 0,
+            "goals": 0,
+            "pim": 0,
+            "games": 1,
+            "penaltyMinutes": "0",
+            "points": 0
+        },
+        "team": {
+            "id": 5460,
+            "name": "Sparta",
+            "link": "/api/v1/teams/5460"
+        },
+        "league": {
+            "name": "CzRep",
+            "link": "/api/v1/league/null"
+        },
+        "sequenceNumber": 4
+    },
+    {
+        "season": "19961997",
+        "stat": {
+            "assists": 19,
+            "goals": 3,
+            "pim": 120,
+            "games": 49,
+            "penaltyMinutes": "120",
+            "points": 22
+        },
+        "team": {
+            "id": 4792,
+            "name": "Prince George",
+            "link": "/api/v1/teams/4792"
+        },
+        "league": {
+            "id": 21,
+            "name": "WHL",
+            "link": "/api/v1/league/21"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "19971998",
+        "stat": {
+            "timeOnIce": "278:02",
+            "assists": 1,
+            "goals": 0,
+            "pim": 50,
+            "shots": 10,
+            "games": 25,
+            "hits": 52,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "powerPlayTimeOnIce": "03:44",
+            "evenTimeOnIce": "253:04",
+            "penaltyMinutes": "50",
+            "faceOffPct": 0.0,
+            "shotPct": 0.0,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "21:14",
+            "blocked": 0,
+            "plusMinus": 1,
+            "points": 1,
+            "shifts": 361
+        },
+        "team": {
+            "id": 2,
+            "name": "New York Islanders",
+            "link": "/api/v1/teams/2"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "19971998",
+        "stat": {
+            "assists": 9,
+            "goals": 4,
+            "pim": 125,
+            "shots": 64,
+            "games": 48,
+            "powerPlayGoals": 0,
+            "penaltyMinutes": "125",
+            "shotPct": 6.25,
+            "gameWinningGoals": 0,
+            "shortHandedGoals": 0,
+            "plusMinus": 0,
+            "points": 13
+        },
+        "team": {
+            "id": 4978,
+            "name": "Kentucky",
+            "link": "/api/v1/teams/4978"
+        },
+        "league": {
+            "id": 153,
+            "name": "AHL",
+            "link": "/api/v1/league/153"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "19981999",
+        "stat": {
+            "timeOnIce": "1115:16",
+            "assists": 6,
+            "goals": 2,
+            "pim": 83,
+            "shots": 56,
+            "games": 59,
+            "hits": 214,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "powerPlayTimeOnIce": "09:58",
+            "evenTimeOnIce": "904:16",
+            "penaltyMinutes": "83",
+            "faceOffPct": 0.0,
+            "shotPct": 3.57,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 1,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "201:02",
+            "blocked": 0,
+            "plusMinus": -8,
+            "points": 8,
+            "shifts": 1339
+        },
+        "team": {
+            "id": 2,
+            "name": "New York Islanders",
+            "link": "/api/v1/teams/2"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "19981999",
+        "stat": {
+            "assists": 2,
+            "goals": 2,
+            "pim": 47,
+            "shots": 38,
+            "games": 23,
+            "powerPlayGoals": 0,
+            "penaltyMinutes": "47",
+            "shotPct": 5.26,
+            "gameWinningGoals": 0,
+            "shortHandedGoals": 0,
+            "plusMinus": 5,
+            "points": 4
+        },
+        "team": {
+            "id": 4980,
+            "name": "Lowell",
+            "link": "/api/v1/teams/4980"
+        },
+        "league": {
+            "id": 153,
+            "name": "AHL",
+            "link": "/api/v1/league/153"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "19981999",
+        "stat": {
+            "timeOnIce": "00:00",
+            "assists": 0,
+            "goals": 1,
+            "pim": 6,
+            "games": 6,
+            "penaltyMinutes": "6",
+            "faceOffPct": 0.0,
+            "points": 1
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 3
+    },
+    {
+        "season": "19992000",
+        "stat": {
+            "timeOnIce": "1486:06",
+            "assists": 9,
+            "goals": 2,
+            "pim": 57,
+            "shots": 47,
+            "games": 65,
+            "hits": 309,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "powerPlayTimeOnIce": "25:05",
+            "evenTimeOnIce": "1159:32",
+            "penaltyMinutes": "57",
+            "faceOffPct": 0.0,
+            "shotPct": 4.26,
+            "gameWinningGoals": 1,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "301:29",
+            "blocked": 0,
+            "plusMinus": -27,
+            "points": 11,
+            "shifts": 1681
+        },
+        "team": {
+            "id": 2,
+            "name": "New York Islanders",
+            "link": "/api/v1/teams/2"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "19992000",
+        "stat": {
+            "timeOnIce": "00:00",
+            "assists": 0,
+            "goals": 0,
+            "pim": 12,
+            "games": 9,
+            "penaltyMinutes": "12",
+            "faceOffPct": 0.0,
+            "points": 0
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "20002001",
+        "stat": {
+            "timeOnIce": "1831:48",
+            "assists": 7,
+            "goals": 2,
+            "pim": 157,
+            "shots": 83,
+            "games": 82,
+            "hits": 373,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "powerPlayTimeOnIce": "44:43",
+            "evenTimeOnIce": "1417:28",
+            "penaltyMinutes": "157",
+            "faceOffPct": 0.0,
+            "shotPct": 2.41,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 1,
+            "shortHandedPoints": 3,
+            "shortHandedTimeOnIce": "369:37",
+            "blocked": 0,
+            "plusMinus": -27,
+            "points": 9,
+            "shifts": 2206
+        },
+        "team": {
+            "id": 2,
+            "name": "New York Islanders",
+            "link": "/api/v1/teams/2"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20002001",
+        "stat": {
+            "timeOnIce": "00:00",
+            "assists": 1,
+            "goals": 0,
+            "pim": 10,
+            "games": 7,
+            "penaltyMinutes": "10",
+            "faceOffPct": 0.0,
+            "points": 1
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 4
+    },
+    {
+        "season": "20012002",
+        "stat": {
+            "timeOnIce": "1670:26",
+            "assists": 13,
+            "goals": 10,
+            "pim": 156,
+            "shots": 105,
+            "games": 75,
+            "hits": 299,
+            "powerPlayGoals": 4,
+            "powerPlayPoints": 5,
+            "powerPlayTimeOnIce": "79:54",
+            "evenTimeOnIce": "1369:25",
+            "penaltyMinutes": "156",
+            "faceOffPct": 0.0,
+            "shotPct": 9.52,
+            "gameWinningGoals": 2,
+            "overTimeGoals": 1,
+            "shortHandedGoals": 1,
+            "shortHandedPoints": 3,
+            "shortHandedTimeOnIce": "221:07",
+            "blocked": 0,
+            "plusMinus": 30,
+            "points": 23,
+            "shifts": 2117
+        },
+        "team": {
+            "id": 9,
+            "name": "Ottawa Senators",
+            "link": "/api/v1/teams/9"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20012002",
+        "stat": {
+            "timeOnIce": "00:00",
+            "assists": 2,
+            "goals": 2,
+            "pim": 32,
+            "games": 8,
+            "penaltyMinutes": "32",
+            "faceOffPct": 0.0,
+            "points": 4
+        },
+        "team": {
+            "id": 5796,
+            "name": "Trencin",
+            "link": "/api/v1/teams/5796"
+        },
+        "league": {
+            "id": 249,
+            "name": "Slovakia",
+            "link": "/api/v1/league/249"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "20022003",
+        "stat": {
+            "timeOnIce": "1846:46",
+            "assists": 30,
+            "goals": 9,
+            "pim": 116,
+            "shots": 168,
+            "games": 74,
+            "hits": 74,
+            "powerPlayGoals": 3,
+            "powerPlayPoints": 17,
+            "powerPlayTimeOnIce": "221:02",
+            "evenTimeOnIce": "1355:05",
+            "penaltyMinutes": "116",
+            "faceOffPct": 0.0,
+            "shotPct": 5.36,
+            "gameWinningGoals": 2,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 2,
+            "shortHandedTimeOnIce": "270:39",
+            "blocked": 17,
+            "plusMinus": 29,
+            "points": 39,
+            "shifts": 2235
+        },
+        "team": {
+            "id": 9,
+            "name": "Ottawa Senators",
+            "link": "/api/v1/teams/9"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20032004",
+        "stat": {
+            "timeOnIce": "1945:51",
+            "assists": 25,
+            "goals": 16,
+            "pim": 147,
+            "shots": 185,
+            "games": 79,
+            "hits": 239,
+            "powerPlayGoals": 7,
+            "powerPlayPoints": 14,
+            "powerPlayTimeOnIce": "211:52",
+            "evenTimeOnIce": "1436:10",
+            "penaltyMinutes": "147",
+            "faceOffPct": 0.0,
+            "shotPct": 8.65,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 3,
+            "shortHandedTimeOnIce": "297:49",
+            "blocked": 0,
+            "plusMinus": 33,
+            "points": 41,
+            "shifts": 2452
+        },
+        "team": {
+            "id": 9,
+            "name": "Ottawa Senators",
+            "link": "/api/v1/teams/9"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20032004",
+        "stat": {
+            "timeOnIce": "00:00",
+            "assists": 0,
+            "goals": 2,
+            "pim": 2,
+            "games": 9,
+            "powerPlayTimeOnIce": "00:00",
+            "evenTimeOnIce": "00:00",
+            "penaltyMinutes": "2",
+            "faceOffPct": 0.0,
+            "shortHandedTimeOnIce": "00:00",
+            "points": 2,
+            "shifts": 0
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 3
+    },
+    {
+        "season": "20042005",
+        "stat": {
+            "assists": 15,
+            "goals": 10,
+            "pim": 132,
+            "games": 33,
+            "powerPlayTimeOnIce": "00:00",
+            "evenTimeOnIce": "00:00",
+            "penaltyMinutes": "132",
+            "shortHandedTimeOnIce": "00:00",
+            "points": 25,
+            "shifts": 0
+        },
+        "team": {
+            "id": 3220,
+            "name": "Farjestad",
+            "link": "/api/v1/teams/3220"
+        },
+        "league": {
+            "name": "Sweden",
+            "link": "/api/v1/league/null"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "20042005",
+        "stat": {
+            "timeOnIce": "00:00",
+            "assists": 2,
+            "goals": 0,
+            "pim": 2,
+            "games": 7,
+            "powerPlayTimeOnIce": "00:00",
+            "evenTimeOnIce": "00:00",
+            "penaltyMinutes": "2",
+            "faceOffPct": 0.0,
+            "shortHandedTimeOnIce": "00:00",
+            "points": 2,
+            "shifts": 0
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 3
+    },
+    {
+        "season": "20052006",
+        "stat": {
+            "timeOnIce": "1930:22",
+            "assists": 27,
+            "goals": 16,
+            "pim": 135,
+            "shots": 212,
+            "games": 71,
+            "hits": 224,
+            "powerPlayGoals": 10,
+            "powerPlayPoints": 22,
+            "powerPlayTimeOnIce": "313:32",
+            "evenTimeOnIce": "1205:36",
+            "penaltyMinutes": "135",
+            "faceOffPct": 41.67,
+            "shotPct": 7.55,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 1,
+            "shortHandedGoals": 1,
+            "shortHandedPoints": 3,
+            "shortHandedTimeOnIce": "411:14",
+            "blocked": 121,
+            "plusMinus": 17,
+            "points": 43,
+            "shifts": 2044
+        },
+        "team": {
+            "id": 9,
+            "name": "Ottawa Senators",
+            "link": "/api/v1/teams/9"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20052006",
+        "stat": {
+            "timeOnIce": "00:00",
+            "assists": 1,
+            "goals": 1,
+            "pim": 2,
+            "games": 6,
+            "powerPlayTimeOnIce": "00:00",
+            "evenTimeOnIce": "00:00",
+            "penaltyMinutes": "2",
+            "faceOffPct": 0.0,
+            "shortHandedTimeOnIce": "00:00",
+            "points": 2,
+            "shifts": 0
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "Olympics",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 3
+    },
+    {
+        "season": "20062007",
+        "stat": {
+            "timeOnIce": "2237:19",
+            "assists": 32,
+            "goals": 11,
+            "pim": 100,
+            "shots": 204,
+            "games": 80,
+            "hits": 203,
+            "powerPlayGoals": 9,
+            "powerPlayPoints": 26,
+            "powerPlayTimeOnIce": "418:25",
+            "evenTimeOnIce": "1426:13",
+            "penaltyMinutes": "100",
+            "faceOffPct": 0.0,
+            "shotPct": 5.39,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 1,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "392:41",
+            "blocked": 134,
+            "plusMinus": -21,
+            "points": 43,
+            "shifts": 2375
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20062007",
+        "stat": {
+            "assists": 1,
+            "goals": 3,
+            "pim": 4,
+            "games": 7,
+            "penaltyMinutes": "4",
+            "points": 4
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 3
+    },
+    {
+        "season": "20072008",
+        "stat": {
+            "timeOnIce": "2066:39",
+            "assists": 34,
+            "goals": 17,
+            "pim": 114,
+            "shots": 207,
+            "games": 77,
+            "hits": 223,
+            "powerPlayGoals": 9,
+            "powerPlayPoints": 25,
+            "powerPlayTimeOnIce": "334:20",
+            "evenTimeOnIce": "1453:01",
+            "penaltyMinutes": "114",
+            "faceOffPct": 0.0,
+            "shotPct": 8.21,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 1,
+            "shortHandedPoints": 2,
+            "shortHandedTimeOnIce": "279:18",
+            "blocked": 78,
+            "plusMinus": 14,
+            "points": 51,
+            "shifts": 2172
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20082009",
+        "stat": {
+            "timeOnIce": "2085:28",
+            "assists": 31,
+            "goals": 19,
+            "pim": 95,
+            "shots": 216,
+            "games": 80,
+            "hits": 169,
+            "powerPlayGoals": 11,
+            "powerPlayPoints": 28,
+            "powerPlayTimeOnIce": "301:51",
+            "evenTimeOnIce": "1514:52",
+            "penaltyMinutes": "95",
+            "faceOffPct": 25.0,
+            "shotPct": 8.8,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 2,
+            "shortHandedTimeOnIce": "268:45",
+            "blocked": 123,
+            "plusMinus": 23,
+            "points": 50,
+            "shifts": 2199
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20092010",
+        "stat": {
+            "timeOnIce": "2029:49",
+            "assists": 37,
+            "goals": 7,
+            "pim": 87,
+            "shots": 242,
+            "games": 80,
+            "hits": 151,
+            "powerPlayGoals": 4,
+            "powerPlayPoints": 16,
+            "powerPlayTimeOnIce": "247:31",
+            "evenTimeOnIce": "1559:05",
+            "penaltyMinutes": "87",
+            "faceOffPct": 50.0,
+            "shotPct": 2.89,
+            "gameWinningGoals": 1,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "223:13",
+            "blocked": 104,
+            "plusMinus": 19,
+            "points": 44,
+            "shifts": 2325
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20092010",
+        "stat": {
+            "assists": 3,
+            "goals": 0,
+            "pim": 6,
+            "games": 7,
+            "penaltyMinutes": "6",
+            "faceOffPct": 0.0,
+            "points": 3
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "Olympics",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 3
+    },
+    {
+        "season": "20102011",
+        "stat": {
+            "timeOnIce": "2060:13",
+            "assists": 30,
+            "goals": 14,
+            "pim": 88,
+            "shots": 264,
+            "games": 81,
+            "hits": 153,
+            "powerPlayGoals": 8,
+            "powerPlayPoints": 15,
+            "powerPlayTimeOnIce": "254:25",
+            "evenTimeOnIce": "1577:56",
+            "penaltyMinutes": "88",
+            "faceOffPct": 0.0,
+            "shotPct": 5.3,
+            "gameWinningGoals": 2,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 1,
+            "shortHandedPoints": 2,
+            "shortHandedTimeOnIce": "227:52",
+            "blocked": 111,
+            "plusMinus": 33,
+            "points": 44,
+            "shifts": 2371
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20112012",
+        "stat": {
+            "timeOnIce": "1975:24",
+            "assists": 40,
+            "goals": 12,
+            "pim": 86,
+            "shots": 224,
+            "games": 79,
+            "hits": 166,
+            "powerPlayGoals": 8,
+            "powerPlayPoints": 18,
+            "powerPlayTimeOnIce": "210:04",
+            "evenTimeOnIce": "1550:32",
+            "penaltyMinutes": "86",
+            "faceOffPct": 0.0,
+            "shotPct": 5.36,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "214:48",
+            "blocked": 87,
+            "plusMinus": 33,
+            "points": 52,
+            "shifts": 2261
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20112012",
+        "stat": {
+            "assists": 2,
+            "goals": 2,
+            "pim": 4,
+            "games": 10,
+            "powerPlayGoals": 1,
+            "penaltyMinutes": "4",
+            "gameWinningGoals": 0,
+            "shortHandedGoals": 0,
+            "plusMinus": 4,
+            "points": 4
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "20122013",
+        "stat": {
+            "timeOnIce": "1196:56",
+            "assists": 12,
+            "goals": 7,
+            "pim": 70,
+            "shots": 119,
+            "games": 48,
+            "hits": 101,
+            "powerPlayGoals": 3,
+            "powerPlayPoints": 4,
+            "powerPlayTimeOnIce": "118:01",
+            "evenTimeOnIce": "925:18",
+            "penaltyMinutes": "70",
+            "faceOffPct": 0.0,
+            "shotPct": 5.88,
+            "gameWinningGoals": 2,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "153:37",
+            "blocked": 64,
+            "plusMinus": 14,
+            "points": 19,
+            "shifts": 1386
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20122013",
+        "stat": {
+            "assists": 6,
+            "goals": 4,
+            "pim": 24,
+            "games": 25,
+            "penaltyMinutes": "24",
+            "points": 10
+        },
+        "team": {
+            "name": "Lev Praha",
+            "link": "/api/v1/teams/null"
+        },
+        "league": {
+            "name": "KHL",
+            "link": "/api/v1/league/null"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "20132014",
+        "stat": {
+            "timeOnIce": "1898:19",
+            "assists": 23,
+            "goals": 17,
+            "pim": 66,
+            "shots": 168,
+            "games": 77,
+            "hits": 163,
+            "powerPlayGoals": 10,
+            "powerPlayPoints": 15,
+            "powerPlayTimeOnIce": "187:32",
+            "evenTimeOnIce": "1466:03",
+            "penaltyMinutes": "66",
+            "faceOffPct": 0.0,
+            "shotPct": 10.12,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "244:44",
+            "blocked": 104,
+            "plusMinus": 25,
+            "points": 40,
+            "shifts": 2196
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20132014",
+        "stat": {
+            "assists": 1,
+            "goals": 0,
+            "pim": 4,
+            "shots": 9,
+            "games": 4,
+            "powerPlayGoals": 0,
+            "penaltyMinutes": "4",
+            "gameWinningGoals": 0,
+            "shortHandedGoals": 0,
+            "plusMinus": -1,
+            "points": 1
+        },
+        "team": {
+            "id": 65,
+            "name": "Slovakia",
+            "link": "/api/v1/teams/65"
+        },
+        "league": {
+            "id": 147,
+            "name": "Olympics",
+            "link": "/api/v1/league/147"
+        },
+        "sequenceNumber": 2
+    },
+    {
+        "season": "20142015",
+        "stat": {
+            "timeOnIce": "1470:55",
+            "assists": 12,
+            "goals": 8,
+            "pim": 42,
+            "shots": 138,
+            "games": 63,
+            "hits": 125,
+            "powerPlayGoals": 4,
+            "powerPlayPoints": 5,
+            "powerPlayTimeOnIce": "131:49",
+            "evenTimeOnIce": "1146:16",
+            "penaltyMinutes": "42",
+            "faceOffPct": 100.0,
+            "shotPct": 5.8,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 3,
+            "shortHandedTimeOnIce": "192:50",
+            "blocked": 99,
+            "plusMinus": 0,
+            "points": 20,
+            "shifts": 1811
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20152016",
+        "stat": {
+            "timeOnIce": "1927:45",
+            "assists": 28,
+            "goals": 9,
+            "pim": 71,
+            "shots": 158,
+            "games": 80,
+            "hits": 134,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 10,
+            "powerPlayTimeOnIce": "124:53",
+            "evenTimeOnIce": "1536:41",
+            "penaltyMinutes": "71",
+            "faceOffPct": 0.0,
+            "shotPct": 5.7,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 2,
+            "shortHandedTimeOnIce": "266:11",
+            "blocked": 123,
+            "plusMinus": 12,
+            "points": 37,
+            "shifts": 2340
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20162017",
+        "stat": {
+            "timeOnIce": "1749:57",
+            "assists": 19,
+            "goals": 10,
+            "pim": 59,
+            "shots": 136,
+            "games": 75,
+            "hits": 130,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 3,
+            "powerPlayTimeOnIce": "34:00",
+            "evenTimeOnIce": "1433:04",
+            "penaltyMinutes": "59",
+            "faceOffPct": 0.0,
+            "shotPct": 7.35,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 2,
+            "shortHandedPoints": 2,
+            "shortHandedTimeOnIce": "282:53",
+            "blocked": 140,
+            "plusMinus": 18,
+            "points": 29,
+            "shifts": 1958
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20162017",
+        "stat": {
+            "assists": 0,
+            "goals": 2,
+            "pim": 6,
+            "games": 6,
+            "penaltyMinutes": "6",
+            "plusMinus": 0,
+            "points": 2
+        },
+        "team": {
+            "name": "Team Europe",
+            "link": "/api/v1/teams/null"
+        },
+        "league": {
+            "name": "WCup",
+            "link": "/api/v1/league/null"
+        },
+        "sequenceNumber": 162186
+    },
+    {
+        "season": "20172018",
+        "stat": {
+            "timeOnIce": "1671:57",
+            "assists": 17,
+            "goals": 7,
+            "pim": 60,
+            "shots": 144,
+            "games": 73,
+            "hits": 141,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "powerPlayTimeOnIce": "28:17",
+            "evenTimeOnIce": "1377:15",
+            "penaltyMinutes": "60",
+            "faceOffPct": 0.0,
+            "shotPct": 4.86,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "266:25",
+            "blocked": 118,
+            "plusMinus": 22,
+            "points": 24,
+            "shifts": 1804
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20182019",
+        "stat": {
+            "timeOnIce": "1306:49",
+            "assists": 9,
+            "goals": 5,
+            "pim": 57,
+            "shots": 99,
+            "games": 62,
+            "hits": 81,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 3,
+            "powerPlayTimeOnIce": "04:51",
+            "evenTimeOnIce": "1112:53",
+            "penaltyMinutes": "57",
+            "faceOffPct": 0.0,
+            "shotPct": 5.05,
+            "gameWinningGoals": 2,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "189:05",
+            "blocked": 88,
+            "plusMinus": 22,
+            "points": 14,
+            "shifts": 1515
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20192020",
+        "stat": {
+            "timeOnIce": "1428:44",
+            "assists": 9,
+            "goals": 5,
+            "pim": 60,
+            "shots": 86,
+            "games": 68,
+            "hits": 78,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "powerPlayTimeOnIce": "03:36",
+            "evenTimeOnIce": "1209:06",
+            "penaltyMinutes": "60",
+            "faceOffPct": 0.0,
+            "shotPct": 5.8,
+            "gameWinningGoals": 2,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "216:02",
+            "blocked": 101,
+            "plusMinus": 26,
+            "points": 14,
+            "shifts": 1665
+        },
+        "team": {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    },
+    {
+        "season": "20202021",
+        "stat": {
+            "timeOnIce": "1007:43",
+            "assists": 8,
+            "goals": 2,
+            "pim": 44,
+            "shots": 67,
+            "games": 55,
+            "hits": 88,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "powerPlayTimeOnIce": "13:55",
+            "evenTimeOnIce": "846:10",
+            "penaltyMinutes": "44",
+            "faceOffPct": 0.0,
+            "shotPct": 3.0,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "147:38",
+            "blocked": 67,
+            "plusMinus": 5,
+            "points": 10,
+            "shifts": 1213
+        },
+        "team": {
+            "id": 15,
+            "name": "Washington Capitals",
+            "link": "/api/v1/teams/15"
+        },
+        "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+        },
+        "sequenceNumber": 1
+    }
+]

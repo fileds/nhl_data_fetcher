@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8474870,Tyler Johnson,/api/v1/people/8474870,Tyler,Johnson,90,1990-07-29,32,Spokane,WA,USA,USA,"5' 8""",185,True,False,False,False,R,Y,"{'id': 16, 'name': 'Chicago Blackhawks', 'link': '/api/v1/teams/16'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,games,points,pim,penaltyMinutes,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Whitehorse Mustangs Bantam A,Bantam,168945,5,8,12,13,,,,,,,,,,,,,,,,,,,
+0,20142015,Whitehorse Mustangs Bantam A,Bantam,168945,9,9,23,18,0.0,0,,,,,,,,,,,,,,,,,
+0,20152016,Cariboo Cougars U18 AAA,BCEHL U18,55989,1,1,2,2,0.0,0,,,,,,,,,,,,,,,,,
+0,20152016,Delta Hockey Academy U15 Prep G,CSSHL U15,178933,12,19,25,31,18.0,18,,,,,,,,,,,,,,,,,
+0,20162017,Lethbridge Hurricanes,WHL,8951,0,1,3,1,0.0,0,0.0,,,,,,,,,,,,,,,,
+0,20162017,Yale Hockey Academy U18 Prep,CSSHL U18,178286,30,27,30,57,40.0,40,,,,,,,,,,,,,,,,,
+0,20172018,Lethbridge Hurricanes,WHL,8951,31,22,57,53,20.0,20,-6.0,,,,,,,,,,,,,,,,
+0,20172018,Canada Red U17,WHC-17,163770,6,1,6,7,0.0,0,,,,,,,,,,,,,,,,,
+0,20172018,Team Red,U17-Dev,178229,1,1,3,2,0.0,0,,,,,,,,,,,,,,,,,
+0,20182019,Lethbridge Hurricanes,WHL,8951,50,34,68,84,30.0,30,32.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U18,WJC-18,17193,5,4,7,9,4.0,4,8.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U18,Hlinka Gretzky Cup,144760,3,2,5,5,0.0,0,,,,,,,,,,,,,,,,,
+0,20192020,Lethbridge Hurricanes,WHL,8951,47,38,51,85,38.0,38,23.0,,,,,,,,,,,,,,,,
+0,20192020,Canada U20,WJC-20,17216,7,2,7,9,4.0,4,6.0,,,,,,,,,,,,,,,,
+0,20202021,Buffalo Sabres,National Hockey League,1,9,4,41,13,16.0,16,-15.0,588:36,62.0,30.0,1.0,1.0,70:17,516:51,47.52,6.5,0.0,0.0,0.0,0.0,01:28,11.0,755.0
+0,20202021,Canada U20,WJC-20,17216,8,8,7,16,6.0,6,11.0,,,,,,,,,,,,,,,,
+0,20212022,Buffalo Sabres,National Hockey League,1,25,13,79,38,55.0,55,-19.0,1255:30,160.0,35.0,2.0,9.0,152:04,1064:18,45.6,8.1,1.0,0.0,0.0,1.0,39:08,22.0,1596.0

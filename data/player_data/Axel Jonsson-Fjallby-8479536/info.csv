@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479536,Axel Jonsson-Fjallby,/api/v1/people/8479536,Axel,Jonsson-Fjallby,45,1998-02-10,24,Stockholm,SWE,SWE,"6' 1""",189,True,False,False,True,L,Y,"{'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

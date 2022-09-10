@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475413,Justin Dowling,/api/v1/people/8475413,Justin,Dowling,73,1990-10-01,31,Calgary,AB,CAN,CAN,"5' 10""",180,True,False,False,False,L,Y,"{'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

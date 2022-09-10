@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478115,Pierre Engvall,/api/v1/people/8478115,Pierre,Engvall,47,1996-05-31,26,Ljungby,SWE,SWE,"6' 5""",215,True,False,False,False,L,Y,"{'id': 10, 'name': 'Toronto Maple Leafs', 'link': '/api/v1/teams/10'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481535,Nils Hoglander,/api/v1/people/8481535,Nils,Hoglander,21,2000-12-20,21,BOCKTRäSK,SWE,SWE,"5' 9""",185,True,False,False,False,L,I,"{'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

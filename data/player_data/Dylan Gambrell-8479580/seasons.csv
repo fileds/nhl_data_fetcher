@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Colorado Thunderbirds  U16,T1EHL U16,96518,21,21,12,40,12,0,42,,,,,,,,,,,,,,,,
+0,20122013,Dubuque Fighting Saints,USHL,11658,18,9,14,58,14,14,27,,,,,,,,,,,,,,,,
+0,20132014,Dubuque,USHL,1,29,14,29,60,29,3,43,114.0,4.0,12.3,1.0,1.0,,,,,,,,,,,
+0,20142015,Dubuque,USHL,1,22,16,74,54,74,7,38,120.0,4.0,13.3,2.0,1.0,,,,,,,,,,,
+0,20152016,U. of Denver,NCHC,1,30,17,19,41,19,14,47,107.0,3.0,15.9,4.0,1.0,,,,,,,,,,,
+0,20152016,Univ. of Denver,NCAA,20900,30,17,19,41,19,14,47,,,,,,,,,,,,,,,,
+0,20162017,Univ. of Denver,NCAA,20900,29,13,21,38,21,25,42,,,,,,,,,,,,,,,,
+0,20172018,San Jose Sharks,National Hockey League,1,0,0,0,3,0,-1,0,1.0,0.0,0.0,0.0,0.0,31:40,0.0,0.0,00:00,31:40,50.0,0.0,0.0,00:00,2.0,40.0
+0,20172018,Univ. of Denver,NCAA,20900,30,13,15,41,15,16,43,,,,,,,,,,,,,,,,
+0,20182019,San Jose Sharks,National Hockey League,1,0,0,2,8,2,1,0,6.0,0.0,0.0,0.0,0.0,69:02,13.0,0.0,00:15,66:02,51.28,0.0,0.0,02:45,1.0,98.0
+0,20182019,San Jose Barracuda,AHL,187427,25,20,18,51,18,7,45,,,,,,,,,,,,,,,,
+0,20192020,San Jose Sharks,National Hockey League,1,6,5,17,50,17,-8,11,43.0,0.0,11.6,1.0,0.0,597:33,40.0,1.0,33:28,516:28,45.95,0.0,0.0,47:37,29.0,830.0
+0,20192020,San Jose Barracuda,AHL,187427,9,3,15,15,15,-3,12,,,,,,,,,,,,,,,,
+0,20202021,San Jose Sharks,National Hockey League,1,7,5,13,49,13,-18,12,48.0,0.0,10.4,1.0,1.0,785:24,77.0,0.0,05:31,668:31,43.8,0.0,1.0,111:22,54.0,1041.0
+0,20212022,Ottawa Senators,National Hockey League,1,4,3,12,63,12,2,7,58.0,0.0,5.2,0.0,1.0,764:35,103.0,0.0,04:55,670:26,48.84,0.0,1.0,89:14,39.0,1094.0
+0,20212022,San Jose Barracuda,AHL,187427,1,0,4,3,4,0,1,,,,,,,,,,,,,,,,

@@ -1,0 +1,26 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Blues U16 Akatemia,Jr. C SM-sarja,81412,0,2,0,1,0,0.0,2,,,,,,,,,,,,,,,,
+0,20132014,Blues U18,Jr. B SM-sarja,24439,4,2,0,10,0,0.0,6,,,,,,,,,,,,,,,,
+0,20132014,Blues U16,Jr. C SM-sarja,80552,33,43,6,28,6,0.0,76,,,,,,,,,,,,,,,,
+0,20132014,Blues U16 Akatemia,Jr. C SM-sarja,81412,1,1,0,1,0,0.0,2,,,,,,,,,,,,,,,,
+0,20142015,Kiekko-Espoo U20,Jr. A SM-liiga,17760,3,2,2,7,2,1.0,5,,,,,,,,,,,,,,,,
+0,20142015,Blues U18,Jr. B SM-sarja,24439,45,39,24,41,24,0.0,84,,,,,,,,,,,,,,,,
+0,20152016,Sioux City Musketeers,USHL,9956,21,17,12,49,12,-14.0,38,,,,,,,,,,,,,,,,
+0,20152016,Finland U18,WJC-18,17093,2,7,0,7,0,6.0,9,,,,,,,,,,,,,,,,
+0,20152016,Finland U17,WHC-17,61280,1,9,0,5,0,,10,,,,,,,,,,,,,,,,
+0,20152016,Finland U18,Hlinka Gretzky Cup,158280,1,1,0,5,0,0.0,2,,,,,,,,,,,,,,,,
+0,20162017,Sioux City Musketeers,USHL,9956,24,30,26,52,26,18.0,54,,,,,,,,,,,,,,,,
+0,20162017,Finland U20,WJC-20,17116,4,2,2,6,2,-1.0,6,,,,,,,,,,,,,,,,
+0,20172018,Nashville Predators,National Hockey League,1,0,0,0,3,0,0.0,0,36:20,3.0,2.0,0.0,0.0,02:17,34:03,0.0,0.0,0.0,0.0,0.0,0.0,00:00,1.0,57.0
+0,20172018,Jokerit,KHL,854,17,19,28,49,28,14.0,36,,,,,,,,,,,,,,,,
+0,20172018,Finland,OG,16822,6,3,4,5,4,1.0,9,,,,,,,,,,,,,,,,
+0,20172018,Finland,WC,17055,2,2,2,4,2,2.0,4,,,,,,,,,,,,,,,,
+0,20172018,Finland U20,WJC-20,17116,5,1,4,5,4,6.0,6,,,,,,,,,,,,,,,,
+0,20172018,Finland,EHT,68516,1,2,0,3,0,0.0,3,,,,,,,,,,,,,,,,
+0,20182019,Nashville Predators,National Hockey League,1,1,1,0,4,0,2.0,2,53:05,2.0,4.0,0.0,1.0,05:48,47:17,0.0,50.0,0.0,0.0,0.0,0.0,00:00,2.0,68.0
+0,20182019,Milwaukee Admirals,AHL,1017,20,15,24,58,24,-8.0,35,,,,,,,,,,,,,,,,
+0,20182019,Finland U20,WJC-20,17116,4,0,2,7,2,3.0,4,,,,,,,,,,,,,,,,
+0,20192020,Milwaukee Admirals,AHL,1017,15,21,18,63,18,2.0,36,,,,,,,,,,,,,,,,
+0,20202021,Nashville Predators,National Hockey League,1,11,11,4,40,4,-10.0,22,592:17,65.0,78.0,6.0,12.0,93:39,498:26,16.67,16.9,4.0,1.0,0.0,0.0,00:12,16.0,731.0
+0,20202021,Jokerit,KHL,854,8,5,10,25,10,3.0,13,,,,,,,,,,,,,,,,
+0,20212022,Nashville Predators,National Hockey League,1,12,11,16,75,16,-7.0,23,1007:05,151.0,176.0,1.0,6.0,135:03,868:19,0.0,7.3,1.0,0.0,0.0,0.0,03:43,45.0,1311.0

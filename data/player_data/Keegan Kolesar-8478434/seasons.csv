@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Wpg. Hawks,Minor-MB,1,11,22,84,27,84,33,,,,,,,,,,,,,,,,,
+0,20122013,Wpg. Thrashers,MMHL,1,17,21,26,41,26,38,,,,,,,,,,,,,,,,,
+0,20122013,Seattle,WHL,2,0,0,0,1,0,0,0.0,0.0,0.0,-1.0,,,,,,,,,,,,,
+0,20132014,Seattle,WHL,1,6,2,45,60,45,8,1.0,,0.0,-7.0,,,,,,,,,,,,,
+0,20142015,Seattle,WHL,1,19,19,85,64,85,38,8.0,2.0,1.0,-7.0,,,,,,,,,,,,,
+0,20152016,Seattle,WHL,1,31,30,107,64,107,61,9.0,,0.0,10.0,,,,,,,,,,,,,
+0,20152016,Seattle Thunderbirds,WHL,9651,31,30,107,64,107,61,,,,10.0,,,,,,,,,,,,,
+0,20162017,Seattle Thunderbirds,M-Cup,9131,0,1,2,3,2,1,,,,-5.0,,,,,,,,,,,,,
+0,20162017,Seattle Thunderbirds,WHL,9651,34,26,101,54,101,60,,,,28.0,,,,,,,,,,,,,
+0,20172018,Chicago Wolves,AHL,957,8,5,46,44,46,13,,,,2.0,,,,,,,,,,,,,
+0,20172018,Quad City Mallards,ECHL,6755,7,9,10,20,10,16,,,,-8.0,,,,,,,,,,,,,
+0,20182019,Chicago Wolves,AHL,957,16,20,90,74,90,36,,,,-1.0,,,,,,,,,,,,,
+0,20192020,Vegas Golden Knights,National Hockey League,1,0,0,0,1,0,0,0.0,0.0,0.0,0.0,12:06,1.0,2.0,0.0,00:00,12:06,100.0,0.0,0.0,0.0,00:00,0.0,15.0
+0,20192020,Chicago Wolves,AHL,957,15,3,21,33,21,18,,,,-5.0,,,,,,,,,,,,,
+0,20202021,Vegas Golden Knights,National Hockey League,1,10,3,30,44,30,13,0.0,0.0,0.0,-4.0,420:02,46.0,107.0,0.0,01:03,418:57,45.93,6.5,0.0,0.0,00:02,15.0,588.0
+0,20212022,Vegas Golden Knights,National Hockey League,1,17,7,68,77,68,24,1.0,0.0,1.0,-6.0,974:05,94.0,246.0,1.0,36:04,894:56,40.43,7.4,0.0,1.0,43:05,46.0,1380.0

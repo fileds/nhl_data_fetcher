@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,timeOnIce,shutouts,ties,wins,losses,goalAgainstAverage,games,goalsAgainst,savePercentage
+0,20132014,Nizhnekamsk Jr.,Russia-Jr.,1,1273:00,0.0,0.0,7.0,11.0,3.3,24,70.0,
+0,20142015,Nizhnekamsk,KHL,1,20:00,0.0,0.0,0.0,0.0,6.0,1,2.0,
+0,20142015,Nizhnekamsk Jr.,Russia-Jr.,2,2305:00,6.0,0.0,21.0,10.0,1.95,41,75.0,
+0,20142015,Neftekhimik Nizhnekamsk,KHL,2404,,,,,,6.0,1,,0.8
+0,20142015,Reaktor Nizhnekamsk,MHL,49642,,,,,,1.95,41,,0.911
+0,20152016,Nizhnekamsk Jr.,Russia-Jr.,1,1646:00,5.0,0.0,18.0,5.0,2.22,29,61.0,
+0,20152016,Reaktor Nizhnekamsk,MHL,49642,,,,,,2.22,29,,0.91
+0,20162017,Toros Neftekamsk,VHL,24747,,,,,,1.72,7,,0.931
+0,20172018,Salavat Yulaev Ufa,KHL,2414,,,,,,3.61,1,,0.917
+0,20172018,Toros Neftekamsk,VHL,24747,,,,,,2.52,25,,0.899
+0,20182019,Salavat Yulaev Ufa,KHL,2414,,,,,,2.08,3,,0.933
+0,20182019,Toros Neftekamsk,VHL,24747,,,,,,1.67,26,,0.929
+0,20192020,Traktor Chelyabinsk,KHL,17234,,,,,,2.1,32,,0.931
+0,20192020,Chelmet Chelyabinsk,VHL,127977,,,,,,2.69,3,,0.9
+0,20202021,Traktor Chelyabinsk,KHL,17234,,,,,,2.21,26,,0.925
+0,20202021,Chelmet Chelyabinsk,VHL,127977,,,,,,1.88,1,,0.917
+0,20212022,CSKA Moskva,KHL,2314,,,,,,2.0,26,,0.919
+0,20212022,Russia,OG,17252,,,,,,1.61,6,,0.943

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8483683,Tomas Hamara,/api/v1/people/8483683,Tomas,Hamara,98,2004-03-09,18,Prague,CZE,CZE,"6' 0""",185,True,False,False,False,L,Y,"{'id': 9, 'name': 'Ottawa Senators', 'link': '/api/v1/teams/9'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

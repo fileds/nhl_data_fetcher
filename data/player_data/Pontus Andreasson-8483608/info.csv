@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8483608,Pontus Andreasson,/api/v1/people/8483608,Pontus,Andreasson,1998-08-24,24,Munkedal,SWE,SWE,"5' 10""",182,True,False,False,False,L,Y,"{'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

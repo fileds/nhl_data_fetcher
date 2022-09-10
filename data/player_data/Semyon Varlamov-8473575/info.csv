@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8473575,Semyon Varlamov,/api/v1/people/8473575,Semyon,Varlamov,40,1988-04-27,34,Samara,RUS,RUS,"6' 2""",210,True,False,False,False,L,Y,"{'id': 2, 'name': 'New York Islanders', 'link': '/api/v1/teams/2'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

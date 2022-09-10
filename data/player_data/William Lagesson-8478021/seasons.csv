@@ -1,0 +1,25 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,shots,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Göteborg 2,TV-Pucken,81156,2,0,0,8,0,2,,,,,,,,,,,,,,,,,
+0,20112012,Frolunda U18,Swe-U18,1,3,0,2,25,2,3,,,,,,,,,,,,,,,,,
+0,20122013,Frolunda U18,Swe-U18,1,15,4,74,32,74,19,,,,,,,,,,,,,,,,,
+0,20122013,Frolunda Jr.,Swe-Jr.,2,0,0,0,6,0,0,,,,,,,,,,,,,,,,,
+0,20132014,Frolunda U18,Swe-U18,1,1,0,0,4,0,1,,,,,,,,,,,,,,,,,
+0,20132014,Frolunda Jr.,Swe-Jr.,2,12,8,30,44,30,20,,,,,,,,,,,,,,,,,
+0,20132014,Sweden,WJ18-A,3,0,3,6,7,6,3,13.0,1.0,1.0,0.0,5.0,,,,,,,,,,,,
+0,20142015,Dubuque,USHL,1,14,2,79,52,79,16,67.0,0.0,0.0,0.0,18.0,3.0,,,,,,,,,,,
+0,20142015,Sweden,WJC-A,2,1,0,8,7,8,1,11.0,0.0,0.0,0.0,1.0,,,,,,,,,,,,
+0,20152016,Massachusetts,H-East,1,5,2,26,27,26,7,46.0,0.0,0.0,1.0,-6.0,,,,,,,,,,,,
+0,20152016,Sweden,WJC-A,2,1,2,4,7,4,3,8.0,0.0,0.0,0.0,7.0,,,,,,,,,,,,
+0,20152016,Sweden U20,WJC-20,8596,1,2,4,7,4,3,,,,,7.0,,,,,,,,,,,,
+0,20152016,UMass,NCAA,11300,5,2,26,27,26,7,,,,,-6.0,,,,,,,,,,,,
+0,20162017,UMass,NCAA,11300,6,2,28,36,28,8,,,,,-6.0,,,,,,,,,,,,
+0,20172018,Djurgårdens IF,SHL,829,12,1,30,49,30,13,,,,,13.0,,,,,,,,,,,,
+0,20182019,Bakersfield Condors,AHL,7257,19,8,45,67,45,27,,,,,25.0,,,,,,,,,,,,
+0,20192020,Edmonton Oilers,National Hockey League,1,0,0,0,8,0,0,8.0,0.0,0.0,0.0,-4.0,0.0,94:55,4.0,0.0,00:00,84:27,0.0,0.0,0.0,10:28,12.0,143.0
+0,20192020,Bakersfield Condors,AHL,7257,7,3,18,25,18,10,,,,,2.0,,,,,,,,,,,,
+0,20202021,Edmonton Oilers,National Hockey League,1,2,0,9,19,9,2,11.0,0.0,0.0,0.0,0.0,0.0,268:51,15.0,0.0,00:50,245:29,0.0,0.0,0.0,22:32,14.0,329.0
+0,20202021,HC Vita Hästen,HockeyAllsvenskan,4450,6,3,10,11,10,9,,,,,6.0,,,,,,,,,,,,
+0,20202021,Kristianstads IK,HockeyAllsvenskan,4560,3,0,2,3,2,3,,,,,0.0,,,,,,,,,,,,
+0,20212022,Edmonton Oilers,National Hockey League,1,4,0,13,30,13,4,32.0,0.0,0.0,0.0,1.0,0.0,369:57,39.0,0.0,00:34,340:01,0.0,0.0,0.0,29:22,16.0,486.0
+0,20212022,Montréal Canadiens,National Hockey League,2,1,0,0,3,0,1,1.0,0.0,0.0,0.0,2.0,0.0,45:12,1.0,0.0,00:04,44:30,0.0,0.0,0.0,00:38,4.0,57.0
+0,20212022,Bakersfield Condors,AHL,7257,2,0,9,11,9,2,,,,,-6.0,,,,,,,,,,,,

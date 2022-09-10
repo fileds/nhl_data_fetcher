@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8474563,Drew Doughty,/api/v1/people/8474563,Drew,Doughty,8,1989-12-08,32,London,ON,CAN,CAN,"6' 1""",210,True,True,False,False,R,I,"{'id': 26, 'name': 'Los Angeles Kings', 'link': '/api/v1/teams/26'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

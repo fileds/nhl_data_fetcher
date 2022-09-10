@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477938,Haydn Fleury,/api/v1/people/8477938,Haydn,Fleury,4,1996-07-08,26,Carlyle,SK,CAN,CAN,"6' 3""",208,True,False,False,False,L,Y,"{'id': 14, 'name': 'Tampa Bay Lightning', 'link': '/api/v1/teams/14'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

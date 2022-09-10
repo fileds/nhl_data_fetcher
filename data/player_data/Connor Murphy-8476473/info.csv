@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476473,Connor Murphy,/api/v1/people/8476473,Connor,Murphy,5,1993-03-26,29,Dublin,OH,USA,USA,"6' 4""",212,True,True,False,False,R,I,"{'id': 16, 'name': 'Chicago Blackhawks', 'link': '/api/v1/teams/16'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

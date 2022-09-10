@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477934,Leon Draisaitl,/api/v1/people/8477934,Leon,Draisaitl,29,1995-10-27,26,Cologne,DEU,DEU,"6' 2""",208,True,True,False,False,L,Y,"{'id': 22, 'name': 'Edmonton Oilers', 'link': '/api/v1/teams/22'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

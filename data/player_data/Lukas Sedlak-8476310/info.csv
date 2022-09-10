@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476310,Lukas Sedlak,/api/v1/people/8476310,Lukas,Sedlak,45,1993-02-25,29,Ceské Budejovice,CZE,CZE,"6' 0""",205,True,False,False,False,L,Y,"{'id': 21, 'name': 'Colorado Avalanche', 'link': '/api/v1/teams/21'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

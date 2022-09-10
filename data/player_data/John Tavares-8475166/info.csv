@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475166,John Tavares,/api/v1/people/8475166,John,Tavares,91,1990-09-20,31,Mississauga,ON,CAN,CAN,"6' 1""",211,True,False,True,False,L,Y,"{'id': 10, 'name': 'Toronto Maple Leafs', 'link': '/api/v1/teams/10'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

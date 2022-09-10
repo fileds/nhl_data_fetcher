@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,ot,shutouts,ties,wins,losses,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,shotsAgainst,goalsAgainst,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20162017,Avon Old Farms School,USHS-Prep,28392,0.935,1.89,22,,,,,,,,,,,,,,,,,,,
+0,20172018,USA U18,WJC-18,17253,0.901,2.42,5,,,,,,,,,,,,,,,,,,,
+0,20172018,U.S. National U18 Team,USDP,19564,0.903,2.58,14,,,,,,,,,,,,,,,,,,,
+0,20172018,U.S. National U17 Team,USDP,19734,0.915,2.55,25,,,,,,,,,,,,,,,,,,,
+0,20172018,USNTDP Juniors,USHL,52486,0.902,3.18,19,,,,,,,,,,,,,,,,,,,
+0,20172018,USA U17,WHC-17,61270,0.881,2.33,3,,,,,,,,,,,,,,,,,,,
+0,20182019,USA U18,WJC-18,17253,0.936,1.51,6,,,,,,,,,,,,,,,,,,,
+0,20182019,U.S. National U18 Team,USDP,19564,0.913,2.36,33,,,,,,,,,,,,,,,,,,,
+0,20182019,USNTDP Juniors,USHL,52486,0.903,2.21,16,,,,,,,,,,,,,,,,,,,
+0,20192020,Boston College,NCAA,9670,0.931,1.97,33,,,,,,,,,,,,,,,,,,,
+0,20192020,USA U20,WJC-20,17276,0.913,2.49,4,,,,,,,,,,,,,,,,,,,
+0,20202021,Florida Panthers,National Hockey League,1,0.919,2.32,4,206:54,0.0,0.0,0.0,4.0,0.0,91.0,7.0,3.0,81.0,3.0,87.0,9.0,3.0,99.0,8.0,77.77777777777779,100.0,93.10344827586206
+0,20202021,Boston College,NCAA,9670,0.932,2.18,21,,,,,,,,,,,,,,,,,,,
+0,20202021,USA U20,WJC-20,17276,0.94,1.63,6,,,,,,,,,,,,,,,,,,,
+0,20212022,Florida Panthers,National Hockey League,1,0.908,2.79273,32,1740:14,3.0,2.0,0.0,19.0,9.0,795.0,138.0,19.0,638.0,22.0,691.0,163.0,27.0,876.0,81.0,84.66257668711657,86.36363636363636,92.32995658465991
+0,20212022,Charlotte Checkers,AHL,2357,0.905,2.95,11,,,,,,,,,,,,,,,,,,,

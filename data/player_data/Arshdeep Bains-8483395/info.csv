@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8483395,Arshdeep Bains,/api/v1/people/8483395,Arshdeep,Bains,2001-01-09,21,Surrey,BC,CAN,CAN,"6' 0""",184,True,False,False,False,L,Y,"{'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

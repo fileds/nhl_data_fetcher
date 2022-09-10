@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482803,Olen Zellweger,/api/v1/people/8482803,Olen,Zellweger,51,2003-09-10,19,Calgary,AB,CAN,CAN,"5' 9""",175,True,False,False,True,L,Y,"{'id': 24, 'name': 'Anaheim Ducks', 'link': '/api/v1/teams/24'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

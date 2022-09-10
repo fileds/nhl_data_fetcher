@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482098,Zachary Uens,/api/v1/people/8482098,Zachary,Uens,2001-05-13,21,Belleville,ON,CAN,CAN,"6' 1""",180,True,False,False,True,L,Y,"{'id': 13, 'name': 'Florida Panthers', 'link': '/api/v1/teams/13'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

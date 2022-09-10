@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Ham. Jr. Bulldogs,Minor-ON,1,22,22,54,40,54,44,,,,,,,,,,,,,,,,,
+0,20132014,Ancaster,ON-Jr.B,3,4,1,0,3,0,5,,,,,,,,,,,,,,,,,
+0,20142015,Plymouth,OHL,1,6,3,29,64,29,9,0.0,0.0,0.0,-16.0,,,,,,,,,,,,,
+0,20152016,Flint,OHL,1,17,20,40,64,40,37,4.0,1.0,1.0,-22.0,153.0,13.1,,,,,,,,,,,
+0,20152016,Flint Firebirds,OHL,187098,17,20,40,64,40,37,,,,-22.0,,,,,,,,,,,,,
+0,20162017,Texas Stars,AHL,45177,3,0,2,6,2,3,,,,0.0,,,,,,,,,,,,,
+0,20162017,Flint Firebirds,OHL,187098,29,35,63,67,63,64,,,,-6.0,,,,,,,,,,,,,
+0,20172018,Hamilton Bulldogs,M-Cup,186661,0,1,0,4,0,1,,,,-2.0,,,,,,,,,,,,,
+0,20172018,Hamilton Bulldogs,OHL,186878,23,13,56,41,56,36,,,,17.0,,,,,,,,,,,,,
+0,20172018,Flint Firebirds,OHL,187098,9,12,38,23,38,21,,,,-8.0,,,,,,,,,,,,,
+0,20182019,Texas Stars,AHL,45177,12,12,91,73,91,24,,,,1.0,,,,,,,,,,,,,
+0,20192020,Dallas Stars,National Hockey League,1,1,1,4,12,4,2,0.0,0.0,0.0,2.0,13.0,7.7,119:35,17.0,0.0,00:09,117:33,50.0,0.0,0.0,01:53,3.0,201.0
+0,20192020,Texas Stars,AHL,45177,14,9,51,36,51,23,,,,5.0,,,,,,,,,,,,,
+0,20202021,Dallas Stars,National Hockey League,1,1,0,17,24,17,1,0.0,0.0,0.0,-7.0,33.0,0.0,224:14,41.0,0.0,03:06,220:46,100.0,0.0,0.0,00:22,8.0,336.0
+0,20212022,Texas Stars,AHL,45177,6,8,40,47,40,14,,,,-6.0,,,,,,,,,,,,,

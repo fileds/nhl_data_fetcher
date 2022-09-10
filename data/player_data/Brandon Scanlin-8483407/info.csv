@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,nationality,active,alternateCaptain,captain,rookie,rosterStatus,currentTeam,primaryPosition
+0,8483407,Brandon Scanlin,/api/v1/people/8483407,Brandon,Scanlin,1999-06-02,23,CAN,True,False,False,False,Y,"{'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Nichols,High-NY,1,9,3,4.0,14,4,12,,,,,,,,,,,,,,,,,
+0,20112012,Nichols,High-NY,1,18,17,6.0,15,6,35,,,,,,,,,,,,,,,,,
+0,20112012,Nichols,Exhib.,2,17,17,,16,,34,,,,,,,,,,,,,,,,,
+0,20122013,USNTDP,USHL,1,8,5,17.0,15,17,13,32.0,0.0,15.63,1.0,0.0,12.0,,,,,,,,,,,
+0,20122013,USNTDP,U-18,2,11,9,2.0,35,2,20,,,,,,,,,,,,,,,,,
+0,20122013,U.S.A.,WJ18-A,3,1,0,0.0,7,0,1,10.0,0.0,0.0,0.0,0.0,-2.0,,,,,,,,,,,
+0,20132014,Harvard,ECAC,1,14,6,16.0,31,16,20,,2.0,,1.0,2.0,,,,,,,,,,,,
+0,20142015,Harvard,ECAC,1,10,8,12.0,21,12,18,,3.0,,1.0,0.0,,,,,,,,,,,,
+0,20152016,Harvard,ECAC,1,9,10,8.0,27,8,19,,2.0,,2.0,0.0,11.0,,,,,,,,,,,
+0,20152016,Harvard Univ.,NCAA,13950,9,10,8.0,27,8,19,,,,,,11.0,,,,,,,,,,,
+0,20162017,Buffalo Sabres,National Hockey League,1,0,0,0.0,1,0,0,1.0,0.0,0.0,0.0,0.0,0.0,12:12,0.0,0.0,00:50,11:22,62.5,0.0,0.0,00:00,1.0,15.0
+0,20162017,Harvard Univ.,NCAA,13950,24,18,16.0,36,16,42,,,,,,24.0,,,,,,,,,,,
+0,20172018,Rochester Americans,AHL,1047,10,12,29.0,73,29,22,,,,,,-4.0,,,,,,,,,,,
+0,20182019,Rochester Americans,AHL,1047,9,4,4.0,38,4,13,,,,,,-6.0,,,,,,,,,,,
+0,20192020,Rochester Americans,AHL,1047,18,12,26.0,58,26,30,,,,,,15.0,,,,,,,,,,,
+0,20202021,Nashville Predators,National Hockey League,1,1,0,2.0,1,2,1,1.0,0.0,0.0,0.0,0.0,-1.0,10:38,0.0,0.0,00:00,10:38,50.0,0.0,0.0,00:00,0.0,15.0
+0,20202021,Chicago Wolves,AHL,957,10,5,38.0,23,38,15,,,,,,4.0,,,,,,,,,,,
+0,20212022,Rochester Americans,AHL,1047,17,20,22.0,39,22,37,,,,,,-3.0,,,,,,,,,,,

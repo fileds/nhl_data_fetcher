@@ -1,0 +1,15 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Tor. Jr. Canadiens,GTHL,1,61,44,140,73,140,105,,,,,,,,,,,,,,,,,
+0,20102011,Plymouth,OHL,1,3,3,71,28,71,6,0.0,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20112012,Plymouth,OHL,1,18,9,141,49,141,27,3.0,2.0,0.0,17.0,,,,,,,,,,,,,
+0,20122013,Plymouth,OHL,1,35,23,104,48,104,58,6.0,4.0,0.0,36.0,,,,,,,,,,,,,
+0,20132014,Washington Capitals,National Hockey League,1,7,3,151,82,151,10,1.0,0.0,0.0,1.0,650:57,63.0,197.0,1.0,07:57,642:57,0.0,4.76,0.0,0.0,00:03,13.0,913.0
+0,20142015,Washington Capitals,National Hockey League,1,13,4,172,67,172,17,0.0,0.0,0.0,-1.0,732:46,79.0,205.0,0.0,03:22,728:38,18.18,5.06,0.0,0.0,00:46,24.0,963.0
+0,20142015,Hershey,AHL,2,0,0,0,2,0,0,0.0,0.0,0.0,0.0,,5.0,,,,,,0.0,,,,,
+0,20152016,Washington Capitals,National Hockey League,1,16,7,163,82,163,23,0.0,1.0,0.0,3.0,1058:51,99.0,253.0,1.0,08:35,920:17,57.14,7.07,0.0,1.0,129:59,48.0,1450.0
+0,20162017,Washington Capitals,National Hockey League,1,12,7,133,82,133,19,0.0,0.0,0.0,9.0,1059:52,95.0,239.0,0.0,03:50,886:29,30.0,7.37,0.0,0.0,169:33,44.0,1453.0
+0,20172018,Washington Capitals,National Hockey League,1,21,14,187,78,187,35,0.0,1.0,1.0,10.0,1247:08,123.0,250.0,1.0,05:24,1107:01,46.3,11.38,0.0,1.0,134:43,51.0,1567.0
+0,20182019,Washington Capitals,National Hockey League,1,18,22,128,63,128,40,3.0,2.0,2.0,11.0,1142:59,130.0,200.0,5.0,88:04,913:57,54.72,16.92,0.0,2.0,140:58,52.0,1340.0
+0,20192020,Washington Capitals,National Hockey League,1,23,21,93,68,93,44,5.0,5.0,1.0,-3.0,1242:28,154.0,253.0,7.0,125:36,978:43,31.58,13.6,1.0,2.0,138:09,58.0,1514.0
+0,20202021,Washington Capitals,National Hockey League,1,20,13,96,47,96,33,4.0,4.0,1.0,1.0,777:18,83.0,105.0,8.0,78:14,624:57,42.31,15.7,0.0,1.0,74:07,25.0,1024.0
+0,20212022,Washington Capitals,National Hockey League,1,28,24,98,78,98,52,4.0,5.0,2.0,13.0,1449:25,151.0,240.0,10.0,197:10,1127:06,42.31,15.9,1.0,3.0,125:09,55.0,1755.0

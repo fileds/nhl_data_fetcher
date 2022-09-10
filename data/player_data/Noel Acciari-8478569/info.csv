@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478569,Noel Acciari,/api/v1/people/8478569,Noel,Acciari,52,1991-12-01,30,Johnston,RI,USA,USA,"5' 10""",209,True,False,False,False,R,Y,"{'id': 19, 'name': 'St. Louis Blues', 'link': '/api/v1/teams/19'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

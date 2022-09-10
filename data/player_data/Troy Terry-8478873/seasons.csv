@@ -1,0 +1,22 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Colorado Thunderbirds 14U AAA,14U AAA,131868,0,0,0,7,0,0,,,,,,,,,,,,,,,,,
+0,20102011,Colorado Thunderbirds 13U AAA,13U AAA,213585,28,20,4,28,4,48,,,,,,,,,,,,,,,,,
+0,20112012,Colorado Thunderbirds Bantam AAA,T1EBHL,131329,13,3,0,12,0,16,0.0,,,,,,,,,,,,,,,,
+0,20122013,Col. T-birds U16,T1EHL,1,35,14,6,41,6,49,,,,,,,,,,,,,,,,,
+0,20132014,Col. T-birds U16,T1EHL,1,25,16,0,31,0,41,,,,,,,,,,,,,,,,,
+0,20132014,Indiana,USHL,2,0,0,0,1,0,0,0.0,1.0,0.0,0.0,0.0,0.0,,,,,,,,,,,
+0,20142015,USNTDP,USHL,1,8,6,4,25,4,14,3.0,40.0,0.0,15.0,0.0,0.0,,,,,,,,,,,
+0,20142015,USNTDP,U-18,2,17,13,4,41,4,30,,,,,,,,,,,,,,,,,
+0,20152016,U. of Denver,NCHC,1,13,9,8,41,8,22,4.0,72.0,3.0,12.5,1.0,0.0,,,,,,,,,,,
+0,20152016,Univ. of Denver,NCAA,20900,13,9,8,41,8,22,4.0,,,,,,,,,,,,,,,,
+0,20162017,USA U20,WJC-20,17276,3,4,2,7,2,7,1.0,,,,,,,,,,,,,,,,
+0,20162017,Univ. of Denver,NCAA,20900,23,22,22,35,22,45,31.0,,,,,,,,,,,,,,,,
+0,20172018,Anaheim Ducks,National Hockey League,1,0,0,0,2,0,0,0.0,3.0,0.0,0.0,0.0,0.0,20:25,0.0,0.0,00:18,20:07,0.0,0.0,0.0,00:00,2.0,29.0
+0,20172018,USA,OG,16972,5,0,4,5,4,5,2.0,,,,,,,,,,,,,,,,
+0,20172018,Univ. of Denver,NCAA,20900,34,14,6,39,6,48,21.0,,,,,,,,,,,,,,,,
+0,20182019,Anaheim Ducks,National Hockey League,1,9,4,2,32,2,13,8.0,25.0,2.0,16.0,0.0,0.0,446:16,4.0,6.0,60:13,384:48,20.0,0.0,0.0,01:15,12.0,585.0
+0,20182019,San Diego Gulls,AHL,85177,25,16,4,41,4,41,1.0,,,,,,,,,,,,,,,,
+0,20192020,Anaheim Ducks,National Hockey League,1,11,4,6,47,6,15,-5.0,73.0,0.0,5.5,0.0,0.0,682:22,3.0,2.0,84:08,597:51,37.5,0.0,0.0,00:23,9.0,898.0
+0,20192020,San Diego Gulls,AHL,85177,9,7,6,14,6,16,14.0,,,,,,,,,,,,,,,,
+0,20202021,Anaheim Ducks,National Hockey League,1,13,7,18,48,18,20,-1.0,69.0,0.0,10.1,0.0,0.0,705:33,5.0,0.0,85:23,617:41,50.0,0.0,0.0,02:29,13.0,957.0
+0,20212022,Anaheim Ducks,National Hockey League,1,30,37,26,75,26,67,-11.0,192.0,8.0,19.3,7.0,0.0,1367:44,6.0,15.0,153:34,1212:54,11.11,2.0,0.0,01:16,27.0,1687.0

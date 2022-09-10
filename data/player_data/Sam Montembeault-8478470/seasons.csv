@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,goalAgainstAverage,games,timeOnIce,shutouts,ties,wins,losses,goalsAgainst,saves,savePercentage,shotsAgainst,ot,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20112012,Mauricie Est.,Minor-QC,1,2.82,16,,,,,,,,,,,,,,,,,,,,
+0,20112012,Trois-Rivieres,QAAA,2,0.0,1,01:00,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,
+0,20122013,Trois-Rivieres,QAAA,1,2.54,19,1110:00,1.0,1.0,11.0,7.0,47.0,,,,,,,,,,,,,,
+0,20132014,Blainville-Bois.,QMJHL,1,2.35,14,714:00,0.0,1.0,9.0,1.0,28.0,246.0,0.898,274.0,,,,,,,,,,,
+0,20142015,Blainville-Bois.,QMJHL,1,2.59,52,3104:00,3.0,7.0,33.0,11.0,134.0,1100.0,0.891,1234.0,,,,,,,,,,,
+0,20142015,Blainville-Boisbriand Armada,QMJHL,102710,2.59,52,,,,,,,,0.891,,,,,,,,,,,,
+0,20152016,Blainville-Bois.,QMJHL,1,2.63,47,2711:00,3.0,8.0,17.0,19.0,119.0,,,,,,,,,,,,,,
+0,20152016,Blainville-Boisbriand Armada,QMJHL,102710,2.63,47,,,,,,,,0.901,,,,,,,,,,,,
+0,20162017,Blainville-Boisbriand Armada,QMJHL,102710,2.4,41,,,,,,,,0.907,,,,,,,,,,,,
+0,20172018,Springfield Thunderbirds,AHL,39667,3.25,41,,,,,,,,0.896,,,,,,,,,,,,
+0,20182019,Florida Panthers,National Hockey League,1,3.043625,11,591:24,0.0,0.0,4.0,3.0,30.0,252.0,0.893617,282.0,2.0,22.0,11.0,219.0,11.0,244.0,27.0,10.0,81.48148148148148,100.0,89.75409836065575
+0,20182019,Springfield Thunderbirds,AHL,39667,3.24,39,,,,,,,,0.899,,,,,,,,,,,,
+0,20192020,Florida Panthers,National Hockey League,1,3.3393,14,700:45,0.0,0.0,5.0,5.0,39.0,317.0,0.89,356.0,1.0,38.0,10.0,269.0,10.0,300.0,46.0,9.0,82.6086956521739,100.0,89.66666666666666
+0,20192020,Springfield Thunderbirds,AHL,39667,3.0,11,,,,,,,,0.918,,,,,,,,,,,,
+0,20202021,Syracuse Crunch,AHL,1057,2.86,13,,,,,,,,0.898,,,,,,,,,,,,
+0,20212022,Montréal Canadiens,National Hockey League,1,3.76773,38,1942:49,1.0,0.0,8.0,18.0,122.0,1002.0,0.891,1124.0,6.0,160.0,24.0,818.0,31.0,905.0,188.0,30.0,85.1063829787234,77.41935483870968,90.38674033149171

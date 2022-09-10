@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Burnsville,High-MN,1,17,12,4,16,4,29,,,,,,,,,,,,,,,,,
+0,20132014,Southeast,UMHSEL,1,5,9,21,14,21,14,,,,,,,,,,,,,,,,,
+0,20132014,Burnsville,High-MN,2,25,21,25,24,25,46,,,,,,,,,,,,,,,,,
+0,20132014,Sioux City,USHL,3,2,3,2,8,2,5,23.0,0.0,13.0,0.0,0.0,-1.0,,,,,,,,,,,
+0,20142015,Waterloo,USHL,1,33,35,30,57,30,68,241.0,15.0,14.5,6.0,1.0,-1.0,,,,,,,,,,,
+0,20152016,North Dakota,NCHC,1,33,27,26,42,26,60,133.0,5.0,,5.0,1.0,45.0,,,,,,,,,,,
+0,20152016,U.S.A.,WJC-A,2,2,1,2,7,2,3,12.0,0.0,,0.0,0.0,2.0,,,,,,,,,,,
+0,20152016,Univ. of North Dakota,NCAA,11930,33,27,26,42,26,60,,,,,,45.0,,,,,,,,,,,
+0,20152016,USA U20,WJC-20,17276,2,1,2,7,2,3,,,,,,2.0,,,,,,,,,,,
+0,20162017,Vancouver Canucks,National Hockey League,1,1,4,0,9,0,5,25.0,2.0,16.0,1.0,0.0,0.0,145:55,5.0,2.0,15:54,130:01,0.0,0.0,0.0,00:00,0.0,188.0
+0,20162017,Univ. of North Dakota,NCAA,11930,18,16,24,32,24,34,,,,,,7.0,,,,,,,,,,,
+0,20172018,Vancouver Canucks,National Hockey League,1,26,29,16,62,16,55,179.0,10.0,16.2,4.0,0.0,-5.0,1084:32,29.0,23.0,181:16,900:50,25.64,0.0,0.0,02:26,24.0,1396.0
+0,20182019,Vancouver Canucks,National Hockey League,1,30,26,22,69,22,56,209.0,6.0,12.44,3.0,0.0,-2.0,1322:18,14.0,15.0,244:10,1076:17,43.33,1.0,0.0,01:51,22.0,1621.0
+0,20192020,Vancouver Canucks,National Hockey League,1,29,16,14,57,14,45,169.0,5.0,9.5,3.0,0.0,4.0,1058:36,28.0,14.0,234:51,822:29,36.67,0.0,0.0,01:16,14.0,1280.0
+0,20202021,Vancouver Canucks,National Hockey League,1,26,23,16,56,16,49,141.0,8.0,16.3,1.0,1.0,-3.0,1081:54,32.0,14.0,204:13,876:12,36.36,0.0,1.0,01:29,20.0,1308.0
+0,20212022,Vancouver Canucks,National Hockey League,1,23,23,20,71,20,46,195.0,11.0,11.8,6.0,0.0,-5.0,1320:32,35.0,17.0,219:23,1099:41,50.94,1.0,1.0,01:28,26.0,1532.0

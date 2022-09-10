@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477941,Nick Ritchie,/api/v1/people/8477941,Nick,Ritchie,12,1995-12-05,26,Orangeville,ON,CAN,CAN,"6' 3""",236,True,False,False,False,L,Y,"{'id': 53, 'name': 'Arizona Coyotes', 'link': '/api/v1/teams/53'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

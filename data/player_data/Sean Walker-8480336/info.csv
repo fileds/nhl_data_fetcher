@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480336,Sean Walker,/api/v1/people/8480336,Sean,Walker,26,1994-11-13,27,Keswick,ON,CAN,CAN,"5' 11""",195,True,False,False,False,R,I,"{'id': 26, 'name': 'Los Angeles Kings', 'link': '/api/v1/teams/26'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

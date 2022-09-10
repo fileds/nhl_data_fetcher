@@ -1,0 +1,14 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Tor. Marlboros,GTHL,1,36,33,34,37,34,69,,,,,,,,,,,,,,,,,
+0,20122013,Kingston,OHL,1,22,18,87,60,87,40,3.0,3.0,0.0,-2.0,,,,,,,,,,,,,
+0,20132014,Kingston,OHL,1,55,36,118,57,118,91,10.0,3.0,1.0,34.0,,,,,,,,,,,,,
+0,20142015,Calgary Flames,National Hockey League,1,1,0,0,1,0,1,0.0,0.0,0.0,-1.0,16:00,1.0,0.0,0.0,00:54,15:06,16.67,0.0,0.0,0.0,00:00,0.0,25.0
+0,20142015,Kingston,OHL,2,13,11,14,11,14,24,2.0,3.0,1.0,4.0,,,,,,,,,,,,,
+0,20152016,Calgary Flames,National Hockey League,1,18,18,37,77,37,36,3.0,2.0,0.0,-11.0,1166:15,136.0,110.0,8.0,150:58,1013:03,46.11,13.24,0.0,0.0,02:14,32.0,1642.0
+0,20162017,Calgary Flames,National Hockey League,1,13,13,75,81,75,26,4.0,0.0,0.0,-16.0,1213:59,122.0,127.0,4.0,99:59,1022:46,46.12,10.66,0.0,1.0,91:14,46.0,1613.0
+0,20172018,Calgary Flames,National Hockey League,1,15,11,59,82,59,26,1.0,1.0,0.0,-18.0,1180:50,157.0,140.0,3.0,111:05,1011:48,54.34,7.01,0.0,0.0,57:57,34.0,1497.0
+0,20182019,Calgary Flames,National Hockey League,1,14,13,93,71,93,27,4.0,2.0,0.0,-6.0,943:35,115.0,121.0,6.0,108:33,821:25,55.56,11.3,0.0,0.0,13:37,27.0,1276.0
+0,20192020,Calgary Flames,National Hockey League,1,4,8,36,52,36,12,0.0,0.0,0.0,-1.0,650:35,82.0,101.0,1.0,37:59,609:04,51.74,9.8,0.0,0.0,03:32,13.0,865.0
+0,20202021,Calgary Flames,National Hockey League,1,8,4,19,38,19,12,0.0,1.0,0.0,-14.0,511:39,67.0,79.0,0.0,22:12,460:57,48.59,6.0,0.0,0.0,28:30,17.0,711.0
+0,20202021,Florida Panthers,National Hockey League,2,9,6,33,10,33,15,1.0,3.0,0.0,12.0,180:35,39.0,29.0,3.0,36:15,126:59,46.22,15.4,1.0,0.0,17:21,1.0,227.0
+0,20212022,Florida Panthers,National Hockey League,1,21,28,74,71,74,49,5.0,7.0,0.0,27.0,1202:57,241.0,119.0,9.0,156:17,991:59,46.86,11.6,1.0,1.0,54:41,27.0,1494.0

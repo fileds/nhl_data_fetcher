@@ -1,0 +1,10 @@
+,season,team,league,sequenceNumber,games,savePercentage,goalAgainstAverage,timeOnIce,ot,shutouts,ties,wins,losses,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,shotsAgainst,goalsAgainst,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20142015,Burlington Eagles U16 AAA,SCTA U16,87572,2,,,,,,,,,,,,,,,,,,,,,
+0,20152016,Burlington Eagles U16 AAA,SCTA U16,87572,34,,,,,,,,,,,,,,,,,,,,,
+0,20172018,Guelph Storm,OHL,6238,14,0.88,4.06,,,,,,,,,,,,,,,,,,,
+0,20182019,Guelph Storm,OHL,6238,20,0.893,3.25,,,,,,,,,,,,,,,,,,,
+0,20192020,Guelph Storm,OHL,6238,38,0.924,2.48,,,,,,,,,,,,,,,,,,,
+0,20192020,Canada U20,WJC-20,17216,2,0.84,5.83,,,,,,,,,,,,,,,,,,,
+0,20202021,ERC Ingolstadt,DEL,4618,10,0.898,2.9,,,,,,,,,,,,,,,,,,,
+0,20212022,New Jersey Devils,National Hockey League,1,25,0.893,3.11435,1271:32,1.0,0.0,0.0,10.0,11.0,551.0,51.0,13.0,487.0,15.0,536.0,66.0,23.0,617.0,66.0,77.27272727272727,86.66666666666667,90.85820895522389
+0,20212022,Utica Comets,AHL,152247,21,0.916,2.54,,,,,,,,,,,,,,,,,,,

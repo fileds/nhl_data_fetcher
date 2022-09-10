@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8474574,Tyler Myers,/api/v1/people/8474574,Tyler,Myers,57,1990-02-01,32,Houston,TX,USA,CAN,"6' 8""",229,True,False,False,False,R,Y,"{'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

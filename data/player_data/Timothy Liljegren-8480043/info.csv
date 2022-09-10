@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480043,Timothy Liljegren,/api/v1/people/8480043,Timothy,Liljegren,37,1999-04-30,23,Kristianstad,SWE,SWE,"6' 1""",192,True,False,False,True,R,Y,"{'id': 10, 'name': 'Toronto Maple Leafs', 'link': '/api/v1/teams/10'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

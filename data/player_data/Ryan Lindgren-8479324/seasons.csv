@@ -1,0 +1,23 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Shattuck St. Mary's Bantam T1,Bantam,91025,42,15,53,59,53,0.0,57,,,,,,,,,,,,,,,,
+0,20122013,Shattuck St. Mary's Bantam T1,Bantam,91025,64,24,68,55,68,0.0,88,,,,,,,,,,,,,,,,
+0,20132014,Shattuck,High-MN,1,12,3,80,51,80,,15,,,,,,,,,,,,,,,,
+0,20142015,USNTDP,USHL,1,10,3,65,35,65,-12.0,13,50.0,2.0,6.0,0.0,0.0,,,,,,,,,,,
+0,20142015,USNTDP,U-17,2,6,0,20,20,20,,6,,,,,,,,,,,,,,,,
+0,20152016,USAHNTDP,USHL,1,8,4,16,25,16,4.0,12,,,,,,,,,,,,,,,,
+0,20152016,USAHNTDP,U-18,2,19,6,60,36,60,,25,,,,,,,,,,,,,,,,
+0,20152016,U.S.A.,WJ18-A,3,3,2,4,7,4,5.0,5,10.0,1.0,20.0,0.0,0.0,,,,,,,,,,,
+0,20152016,USA U18,WJC-18,17253,3,2,4,7,4,5.0,5,,,,,,,,,,,,,,,,
+0,20152016,U.S. National U18 Team,USDP,19564,19,6,60,61,60,,25,,,,,,,,,,,,,,,,
+0,20152016,USNTDP Juniors,USHL,52486,8,4,16,25,16,4.0,12,,,,,,,,,,,,,,,,
+0,20162017,Univ. of Minnesota,NCAA,8320,6,1,65,32,65,9.0,7,,,,,,,,,,,,,,,,
+0,20162017,USA U20,WJC-20,17276,1,0,0,7,0,4.0,1,,,,,,,,,,,,,,,,
+0,20172018,Hartford Wolf Pack,AHL,847,2,2,23,10,23,4.0,4,,,,,,,,,,,,,,,,
+0,20172018,Univ. of Minnesota,NCAA,8320,7,2,51,35,51,-3.0,9,,,,,,,,,,,,,,,,
+0,20172018,USA U20,WJC-20,17276,1,0,2,7,2,0.0,1,,,,,,,,,,,,,,,,
+0,20182019,New York Rangers,National Hockey League,1,0,0,8,5,8,-6.0,0,8.0,0.0,0.0,0.0,0.0,72:56,11.0,0.0,00:00,69:18,0.0,0.0,0.0,03:38,9.0,102.0
+0,20182019,Hartford Wolf Pack,AHL,847,12,0,94,65,94,-1.0,12,,,,,,,,,,,,,,,,
+0,20192020,New York Rangers,National Hockey League,1,13,1,47,60,47,16.0,14,47.0,0.0,2.1,0.0,0.0,994:00,94.0,0.0,01:43,862:45,0.0,0.0,0.0,129:32,70.0,1370.0
+0,20192020,Hartford Wolf Pack,AHL,847,1,1,6,9,6,8.0,2,,,,,,,,,,,,,,,,
+0,20202021,New York Rangers,National Hockey League,1,15,1,35,51,35,20.0,16,65.0,0.0,1.5,0.0,0.0,1019:44,98.0,0.0,05:06,886:48,0.0,0.0,1.0,127:50,50.0,1386.0
+0,20212022,New York Rangers,National Hockey League,1,11,4,48,78,48,18.0,15,73.0,0.0,5.5,1.0,0.0,1567:50,129.0,0.0,05:20,1388:14,0.0,0.0,0.0,174:16,141.0,2061.0

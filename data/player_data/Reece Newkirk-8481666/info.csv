@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481666,Reece Newkirk,/api/v1/people/8481666,Reece,Newkirk,57,2001-02-20,21,Moose Jaw,SK,CAN,CAN,"6' 0""",178,True,False,False,True,L,Y,"{'id': 2, 'name': 'New York Islanders', 'link': '/api/v1/teams/2'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

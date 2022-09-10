@@ -1,0 +1,23 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20072008,Augsburger EV U16,Schüler-BL,68369,14,8,16,28,16,22,,,,,,,,,,,,,,,,,
+0,20082009,Augsburger EV U16,Schüler-BL,68369,23,12,10,26,10,35,,,,,,,,,,,,,,,,,
+0,20092010,ESV Kaufbeuren U16,Schüler-BL,68969,28,26,40,30,40,54,,,,,,,,,,,,,,,,,
+0,20102011,ESV Kaufbeuren U18,Jugend-BL,34865,7,0,4,14,4,7,,,,,,,,,,,,,,,,,
+0,20102011,ESV Kaufbeuren U16,Schüler-BL,68969,39,24,26,28,26,63,,,,,,,,,,,,,,,,,
+0,20112012,ESV Kaufbeuren U18,DNL,34856,4,3,33,31,33,7,-11.0,,,,,,,,,,,,,,,,
+0,20112012,HC Landsberg U18,Jugend-BL,106885,3,8,6,4,6,11,,,,,,,,,,,,,,,,,
+0,20122013,ESV Kaufbeuren U18,DNL,34856,22,11,22,33,22,33,,,,,,,,,,,,,,,,,
+0,20132014,ESV Kaufbeuren U18,DNL,34856,21,13,20,24,20,34,,,,,,,,,,,,,,,,,
+0,20132014,Corpus Christi IceRays,NAHL,72018,2,1,2,21,2,3,-5.0,,,,,,,,,,,,,,,,
+0,20142015,Germany U20,WJC-20,16744,0,0,12,6,12,0,-8.0,,,,,,,,,,,,,,,,
+0,20142015,Austin Bruins,NAHL,72048,30,11,28,53,28,41,29.0,,,,,,,,,,,,,,,,
+0,20152016,Tri-City Storm,USHL,28026,25,14,47,57,47,39,11.0,,,,,,,,,,,,,,,,
+0,20162017,Clarkson Univ.,NCAA,7410,13,8,37,39,37,21,4.0,,,,,,,,,,,,,,,,
+0,20172018,Clarkson Univ.,NCAA,7410,23,14,14,40,14,37,20.0,,,,,,,,,,,,,,,,
+0,20182019,Minnesota Wild,National Hockey League,1,0,0,0,2,0,0,0.0,25:34,7.0,3.0,0.0,0.0,00:14,23:54,29.41,0.0,0.0,0.0,0.0,0.0,01:26,2.0,37.0
+0,20182019,Clarkson Univ.,NCAA,7410,31,14,29,39,29,45,23.0,,,,,,,,,,,,,,,,
+0,20192020,Minnesota Wild,National Hockey League,1,2,0,0,6,0,2,2.0,71:22,2.0,6.0,0.0,0.0,00:01,68:22,53.06,0.0,0.0,0.0,0.0,0.0,02:59,5.0,104.0
+0,20192020,Iowa Wild,AHL,149087,20,12,18,55,18,32,9.0,,,,,,,,,,,,,,,,
+0,20202021,Minnesota Wild,National Hockey League,1,6,11,17,50,17,17,10.0,542:17,64.0,48.0,0.0,0.0,01:47,478:58,51.49,17.2,2.0,0.0,0.0,0.0,61:32,26.0,743.0
+0,20212022,Minnesota Wild,National Hockey League,1,8,9,8,53,8,17,-5.0,612:04,73.0,61.0,1.0,1.0,02:43,524:13,52.01,12.3,0.0,0.0,1.0,1.0,85:08,22.0,866.0
+0,20212022,Colorado Avalanche,National Hockey League,2,3,0,6,21,6,3,-2.0,268:51,28.0,38.0,0.0,0.0,01:22,236:32,54.63,0.0,0.0,0.0,0.0,0.0,30:57,7.0,407.0

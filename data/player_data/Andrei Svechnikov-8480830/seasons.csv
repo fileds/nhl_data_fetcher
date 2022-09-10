@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Ak Bars Kazan Selects U13,WSI U13,206867,6,8,6,9,6,14,,,,,,,,,,,,,,,,,
+0,20142015,Ak Bars Kazan U16,Russia U16,184849,16,21,20,16,20,37,,,,,,,,,,,,,,,,,
+0,20152016,Russia U18,WJC-18,17523,0,2,2,5,2,2,-1.0,,,,,,,,,,,,,,,,
+0,20152016,Russia U17,WHC-17,61290,3,2,6,6,6,5,,,,,,,,,,,,,,,,,
+0,20152016,Russia U16,YOG,118217,4,6,31,4,31,10,6.0,,,,,,,,,,,,,,,,
+0,20152016,Ak Bars Kazan U16,Russia U16,184927,22,31,38,13,38,53,,,,,,,,,,,,,,,,,
+0,20152016,Ak Bars Kazan U18,Russia U18,201829,3,5,28,7,28,8,,,,,,,,,,,,,,,,,
+0,20162017,Muskegon Lumberjacks,USHL,6276,29,29,68,48,68,58,29.0,,,,,,,,,,,,,,,,
+0,20162017,Russia U18,WJC-18,17523,5,4,10,7,10,9,3.0,,,,,,,,,,,,,,,,
+0,20162017,Russia U17,WHC-17,61290,3,5,2,4,2,8,,,,,,,,,,,,,,,,,
+0,20162017,Russia U18 |WJAC-19|,WJAC-19,87382,4,8,8,4,8,12,,,,,,,,,,,,,,,,,
+0,20162017,Russia U18,Hlinka Gretzky Cup,158300,1,4,0,5,0,5,4.0,,,,,,,,,,,,,,,,
+0,20172018,Barrie Colts,OHL,9368,32,40,67,44,67,72,26.0,,,,,,,,,,,,,,,,
+0,20172018,Russia U20,WJC-20,17546,5,0,2,5,2,5,5.0,,,,,,,,,,,,,,,,
+0,20182019,Carolina Hurricanes,National Hockey League,1,17,20,62,82,62,37,0.0,1201:02,189.0,123.0,0.0,5.0,156:59,1042:56,14.29,10.58,3.0,1.0,0.0,0.0,01:07,26.0,1685.0
+0,20192020,Carolina Hurricanes,National Hockey League,1,37,24,54,68,54,61,9.0,1138:11,183.0,116.0,6.0,20.0,201:05,936:00,0.0,13.1,5.0,1.0,0.0,0.0,01:06,27.0,1425.0
+0,20202021,Carolina Hurricanes,National Hockey League,1,27,15,44,55,44,42,1.0,964:39,147.0,114.0,4.0,17.0,161:41,802:11,33.33,10.2,1.0,0.0,0.0,0.0,00:47,18.0,1177.0
+0,20212022,Carolina Hurricanes,National Hockey League,1,39,30,79,78,79,69,19.0,1346:16,249.0,189.0,9.0,22.0,223:51,1121:19,0.0,12.0,5.0,1.0,0.0,0.0,01:06,15.0,1626.0

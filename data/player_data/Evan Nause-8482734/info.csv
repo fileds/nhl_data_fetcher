@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8482734,Evan Nause,/api/v1/people/8482734,Evan,Nause,2003-01-20,19,White Rock,BC,CAN,CAN,"6' 2""",186,True,False,False,True,L,Y,"{'id': 13, 'name': 'Florida Panthers', 'link': '/api/v1/teams/13'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,13 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Saskatoon Blazers,SMHL,47011,5,8,30,39,30,13,,,,,,,,,,,,,,,,,
+0,20142015,Red Deer Rebels,WHL,8646,0,2,11,12,11,2,-1.0,,,,,,,,,,,,,,,,
+0,20142015,Saskatoon Blazers,SMHL,47011,15,23,68,43,68,38,,,,,,,,,,,,,,,,,
+0,20152016,Red Deer Rebels,WHL,9631,3,3,31,36,31,6,-2.0,,,,,,,,,,,,,,,,
+0,20172018,Red Deer Rebels,WHL,9631,16,23,42,72,42,39,-12.0,,,,,,,,,,,,,,,,
+0,20182019,Rockford IceHogs,AHL,8267,4,0,2,6,2,4,0.0,,,,,,,,,,,,,,,,
+0,20182019,Red Deer Rebels,WHL,9631,26,27,71,67,71,53,15.0,,,,,,,,,,,,,,,,
+0,20192020,Rockford IceHogs,AHL,8267,4,4,63,52,63,8,-7.0,,,,,,,,,,,,,,,,
+0,20202021,Chicago Blackhawks,National Hockey League,1,0,0,9,5,9,0,-2.0,39:44,4.0,22.0,0.0,0.0,00:00,39:44,0.0,0.0,0.0,0.0,0.0,0.0,00:00,2.0,53.0
+0,20202021,Rockford IceHogs,AHL,8267,4,4,40,18,40,8,4.0,,,,,,,,,,,,,,,,
+0,20212022,Chicago Blackhawks,National Hockey League,1,5,1,16,37,16,6,-13.0,393:10,24.0,141.0,0.0,0.0,00:29,348:40,50.47,4.2,0.0,0.0,0.0,0.0,44:01,14.0,580.0
+0,20212022,Rockford IceHogs,AHL,8267,2,1,0,7,0,3,0.0,,,,,,,,,,,,,,,,

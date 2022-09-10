@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475753,Justin Faulk,/api/v1/people/8475753,Justin,Faulk,72,1992-03-20,30,South St. Paul,MN,USA,USA,"6' 0""",214,True,False,False,False,R,Y,"{'id': 19, 'name': 'St. Louis Blues', 'link': '/api/v1/teams/19'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

@@ -1,0 +1,22 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20042005,Little Caesars Bantam Minor AAA,T1EMBHL,142440,12,8,6,26,6,0.0,20,,,,,,,,,,,,,,,,
+0,20052006,Little Caesars Bantam Minor AAA,T1EMBHL,142440,11,1,30,26,30,0.0,12,,,,,,,,,,,,,,,,
+0,20092010,Cranbrook Cranes,High-MI,1,25,23,14,30,14,,48,,,,,,,,,,,,,,,,
+0,20102011,Boston College,H-East,1,1,0,8,29,8,,1,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20112012,Boston College,H-East,1,0,1,6,13,6,,1,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20122013,Boston College,H-East,1,6,5,14,38,14,,11,0.0,2.0,0.0,,,,,,,,,,,,,
+0,20132014,Boston College,H-East,1,15,15,30,40,30,,30,6.0,4.0,2.0,,,,,,,,,,,,,
+0,20142015,Carolina Hurricanes,National Hockey League,1,0,0,4,7,4,-4.0,0,0.0,0.0,0.0,62:10,4.0,11.0,0.0,00:24,59:55,0.0,0.0,0.0,0.0,01:51,2.0,91.0
+0,20142015,Charlotte,AHL,2,8,2,34,60,34,-11.0,10,0.0,1.0,0.0,,69.0,,,,,,2.9,,,,,
+0,20152016,Carolina Hurricanes,National Hockey League,1,1,1,4,7,4,4.0,2,0.0,0.0,0.0,88:14,8.0,11.0,0.0,00:40,87:34,0.0,12.5,0.0,0.0,00:00,6.0,127.0
+0,20152016,Charlotte,AHL,2,12,13,29,70,29,-3.0,25,0.0,1.0,1.0,,94.0,,,,,,13.8,,,,,
+0,20152016,Charlotte Checkers,AHL,2357,12,13,29,70,29,-3.0,25,,,,,,,,,,,,,,,,
+0,20162017,Carolina Hurricanes,National Hockey League,1,0,0,0,14,0,-6.0,0,0.0,0.0,0.0,136:00,12.0,30.0,0.0,00:19,134:23,60.0,0.0,0.0,0.0,01:18,5.0,189.0
+0,20162017,Charlotte Checkers,AHL,2357,16,12,45,66,45,-5.0,28,,,,,,,,,,,,,,,,
+0,20172018,Charlotte Checkers,AHL,2357,20,7,61,68,61,18.0,27,,,,,,,,,,,,,,,,
+0,20182019,Charlotte Checkers,AHL,2357,16,19,32,70,32,16.0,35,,,,,,,,,,,,,,,,
+0,20192020,Vegas Golden Knights,National Hockey League,1,0,1,0,1,0,0.0,1,0.0,0.0,0.0,10:04,2.0,6.0,0.0,00:00,10:04,0.0,50.0,0.0,0.0,00:00,0.0,14.0
+0,20192020,Chicago Wolves,AHL,957,14,7,26,60,26,-6.0,21,,,,,,,,,,,,,,,,
+0,20202021,Vegas Golden Knights,National Hockey League,1,0,0,2,4,2,0.0,0,0.0,0.0,0.0,36:23,5.0,7.0,0.0,00:00,36:20,69.57,0.0,0.0,0.0,00:03,2.0,51.0
+0,20202021,Henderson Silver Knights,AHL,307807,5,3,4,9,4,10.0,8,,,,,,,,,,,,,,,,
+0,20212022,Philadelphia Flyers,National Hockey League,1,5,4,11,44,11,-16.0,9,0.0,0.0,0.0,547:05,51.0,100.0,0.0,02:36,468:47,58.45,7.8,0.0,0.0,75:42,36.0,852.0

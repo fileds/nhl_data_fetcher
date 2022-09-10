@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Jokerit U16,Jr. C SM-sarja,80132,17,6,14,32,14,0.0,23,,,,,,,,,,,,,,,,
+0,20142015,Jokerit U18,Jr. B SM-sarja,25059,22,8,6,37,6,0.0,30,,,,,,,,,,,,,,,,
+0,20152016,Finland U18,WJC-18,17093,3,0,10,7,10,3.0,3,,,,,,,,,,,,,,,,
+0,20152016,Tappara U20,U20 SM-sarja,18680,20,9,20,47,20,17.0,29,,,,,,,,,,,,,,,,
+0,20152016,Finland U17,WHC-17,61280,0,1,2,5,2,,1,,,,,,,,,,,,,,,,
+0,20152016,Finland U18,Hlinka Gretzky Cup,158280,2,0,0,5,0,2.0,2,,,,,,,,,,,,,,,,
+0,20162017,Portland Winterhawks,WHL,8511,39,9,38,71,38,14.0,48,,,,,,,,,,,,,,,,
+0,20172018,Portland Winterhawks,WHL,8511,59,12,14,63,14,47.0,71,,,,,,,,,,,,,,,,
+0,20172018,Finland U20,WJC-20,17116,2,2,2,5,2,2.0,4,,,,,,,,,,,,,,,,
+0,20172018,Finland,EHT,68516,1,2,2,6,2,-1.0,3,,,,,,,,,,,,,,,,
+0,20182019,Chicago Blackhawks,National Hockey League,1,12,0,16,38,16,-7.0,12,721:15,62.0,48.0,0.0,1.0,37:54,652:40,0.0,0.0,0.0,0.0,0.0,0.0,30:41,37.0,946.0
+0,20182019,Rockford IceHogs,AHL,8267,15,2,14,30,14,7.0,17,,,,,,,,,,,,,,,,
+0,20182019,Finland,WC,17055,3,0,2,10,2,1.0,3,,,,,,,,,,,,,,,,
+0,20182019,Finland U20,WJC-20,17116,3,2,2,7,2,6.0,5,,,,,,,,,,,,,,,,
+0,20182019,Finland,EHT,68516,1,0,16,3,16,1.0,1,,,,,,,,,,,,,,,,
+0,20192020,Buffalo Sabres,National Hockey League,1,11,4,32,69,32,-6.0,15,1187:58,78.0,74.0,1.0,2.0,12:57,1099:47,0.0,5.1,0.0,0.0,0.0,0.0,75:14,63.0,1524.0
+0,20202021,Buffalo Sabres,National Hockey League,1,5,3,4,46,4,-11.0,8,845:30,50.0,47.0,0.0,0.0,05:13,794:56,0.0,6.0,0.0,0.0,0.0,0.0,45:21,53.0,974.0
+0,20212022,Buffalo Sabres,National Hockey League,1,16,3,20,60,20,-8.0,19,1312:46,83.0,73.0,0.0,4.0,67:01,1124:14,0.0,3.6,0.0,0.0,0.0,0.0,121:31,60.0,1720.0

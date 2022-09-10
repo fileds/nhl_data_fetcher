@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Kitchener Jr. Rangers Mn Mgt AAA,AHMMPL,76528,0,0,0,2,0,0.0,0,,,,,,,,,,,,,,,,
+0,20132014,Kitchener Jr. Rangers Mn Mgt AAA,AHMMPL,76528,13,3,44,31,44,0.0,16,,,,,,,,,,,,,,,,
+0,20142015,Ayr Centennials,GOJHL,55472,8,3,70,43,70,,11,,,,,,,,,,,,,,,,
+0,20142015,Canada White U17,WHC-17,163790,0,2,4,5,4,,2,,,,,,,,,,,,,,,,
+0,20142015,Team Black,U17-Dev,178209,0,1,4,3,4,,1,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,WJC-18,17193,2,0,4,7,4,3.0,2,,,,,,,,,,,,,,,,
+0,20152016,Mississauga Steelheads,OHL,126668,10,14,84,66,84,4.0,24,,,,,,,,,,,,,,,,
+0,20152016,Team Red,U18-Dev,178681,0,0,4,3,4,,0,,,,,,,,,,,,,,,,
+0,20162017,Mississauga Steelheads,OHL,126668,28,18,107,65,107,22.0,46,,,,,,,,,,,,,,,,
+0,20172018,Chicago Wolves,AHL,957,1,0,7,5,7,1.0,1,,,,,,,,,,,,,,,,
+0,20172018,Mississauga Steelheads,OHL,126668,43,35,105,67,105,2.0,78,,,,,,,,,,,,,,,,
+0,20182019,Chicago Wolves,AHL,957,19,13,38,75,38,31.0,32,,,,,,,,,,,,,,,,
+0,20182019,Urdorf U15,U15-Top,85620,0,0,0,2,0,,0,,,,,,,,,,,,,,,,
+0,20192020,Vegas Golden Knights,National Hockey League,1,10,1,32,38,32,0.0,11,611:24,54.0,69.0,1.0,4.0,34:44,575:43,0.0,1.9,0.0,0.0,0.0,0.0,00:57,26.0,802.0
+0,20192020,Chicago Wolves,AHL,957,9,1,12,21,12,-5.0,10,,,,,,,,,,,,,,,,
+0,20202021,Vegas Golden Knights,National Hockey League,1,12,5,31,52,31,14.0,17,831:45,78.0,94.0,0.0,0.0,17:21,766:31,0.0,6.4,0.0,0.0,0.0,0.0,47:53,65.0,1058.0
+0,20212022,Vegas Golden Knights,National Hockey League,1,10,4,38,52,38,6.0,14,970:23,116.0,57.0,0.0,0.0,19:44,870:55,0.0,3.4,0.0,0.0,0.0,0.0,79:44,80.0,1233.0

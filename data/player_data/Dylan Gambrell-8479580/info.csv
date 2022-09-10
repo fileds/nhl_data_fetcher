@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479580,Dylan Gambrell,/api/v1/people/8479580,Dylan,Gambrell,27,1996-08-26,26,Bonney Lake,WA,USA,USA,"6' 0""",185,True,False,False,False,R,Y,"{'id': 9, 'name': 'Ottawa Senators', 'link': '/api/v1/teams/9'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

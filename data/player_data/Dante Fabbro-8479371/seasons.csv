@@ -1,0 +1,23 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,shortHandedGoals,shots,shotPct,gameWinningGoals,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Burnaby Winter Club U15 A1,PCBHL,138544,53,25,48,58,48,78,,,,,,,,,,,,,,,,,
+0,20132014,Van. NW Giants,BCMML,1,39,22,44,38,44,61,,,,,,,,,,,,,,,,,
+0,20132014,Langley,BCHL,2,0,0,0,2,0,0,0.0,0.0,,,,,,,,,,,,,,,
+0,20142015,Penticton,BCHL,1,29,4,16,44,16,33,3.0,0.0,,,,,,,,,,,,,,,
+0,20152016,Penticton,BCHL,1,53,14,30,45,30,67,8.0,0.0,,,,,,,,,,,,,,,
+0,20152016,Canada,WJ18-A,3,8,0,16,7,16,8,0.0,0.0,18.0,0.0,0.0,5.0,,,,,,,,,,,
+0,20152016,Canada U18,WJC-18,17193,8,0,16,7,16,8,,,,,,5.0,,,,,,,,,,,
+0,20152016,Penticton Vees,BCHL,21824,53,14,30,45,30,67,,,,,,0.0,,,,,,,,,,,
+0,20152016,Canada West U19,WJAC-19,87372,3,0,4,4,4,3,,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,Hlinka Gretzky Cup,144760,0,0,0,4,0,0,,,,,,2.0,,,,,,,,,,,
+0,20152016,Team Red,U18-Dev,178681,1,1,0,3,0,2,,,,,,,,,,,,,,,,,
+0,20162017,Boston Univ.,NCAA,6890,12,6,16,36,16,18,,,,,,6.0,,,,,,,,,,,
+0,20162017,Canada U20,WJC-20,17216,1,0,0,7,0,1,,,,,,3.0,,,,,,,,,,,
+0,20172018,Boston Univ.,NCAA,6890,20,9,22,38,22,29,,,,,,4.0,,,,,,,,,,,
+0,20172018,Canada U20,WJC-20,17216,0,0,0,7,0,0,,,,,,1.0,,,,,,,,,,,
+0,20182019,Nashville Predators,National Hockey League,1,0,1,0,4,0,1,0.0,0.0,5.0,20.0,0.0,-1.0,50:57,3.0,0.0,00:00,50:04,0.0,0.0,0.0,00:53,6.0,67.0
+0,20182019,Boston Univ.,NCAA,6890,26,7,39,38,39,33,,,,,,-3.0,,,,,,,,,,,
+0,20182019,Canada,WC,17155,2,1,0,9,0,3,,,,,,10.0,,,,,,,,,,,
+0,20182019,Team Canada,Spengler Cup,250335,1,2,0,4,0,3,,,,,,3.0,,,,,,,,,,,
+0,20192020,Nashville Predators,National Hockey League,1,6,5,38,64,38,11,1.0,0.0,92.0,5.4,0.0,-7.0,1217:37,54.0,1.0,22:53,1162:55,0.0,0.0,0.0,31:49,85.0,1497.0
+0,20202021,Nashville Predators,National Hockey League,1,10,2,23,40,23,12,1.0,0.0,59.0,3.4,1.0,-1.0,772:36,32.0,2.0,14:49,699:48,0.0,0.0,0.0,57:59,57.0,964.0
+0,20212022,Nashville Predators,National Hockey League,1,21,3,24,66,24,24,0.0,0.0,88.0,3.4,0.0,13.0,1257:27,69.0,0.0,09:52,1183:22,0.0,0.0,0.0,64:13,105.0,1606.0

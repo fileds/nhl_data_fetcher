@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8471214,Alex Ovechkin,/api/v1/people/8471214,Alex,Ovechkin,8,1985-09-17,36,Moscow,RUS,RUS,"6' 3""",238,True,False,True,False,R,Y,"{'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

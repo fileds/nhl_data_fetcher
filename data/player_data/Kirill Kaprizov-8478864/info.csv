@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478864,Kirill Kaprizov,/api/v1/people/8478864,Kirill,Kaprizov,97,1997-04-26,25,Novokuznetsk,RUS,RUS,"5' 10""",202,True,False,False,False,L,Y,"{'id': 30, 'name': 'Minnesota Wild', 'link': '/api/v1/teams/30'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

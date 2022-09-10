@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,St. Louis AAA Blues  U16,T1EHL U16,96448,38,30,18,34,18,0.0,68,,,,,,,,,,,,,,,,
+0,20132014,USNTDP,USHL,1,12,11,27,32,27,,23,,,,,,,,,,,,,,,,
+0,20132014,USNTDP,U-17,2,7,9,8,20,8,,16,,,,,,,,,,,,,,,,
+0,20142015,USNTDP,USHL,1,4,10,12,20,12,9.0,14,55.0,2.0,18.2,1.0,0.0,,,,,,,,,,,
+0,20142015,USNTDP,U-18,2,11,17,22,41,22,,28,,,,,,,,,,,,,,,,
+0,20152016,U. of Wisconsin,Big Ten,1,13,19,34,34,34,-9.0,32,127.0,5.0,15.0,1.0,1.0,,,,,,,,,,,
+0,20152016,Univ. of Wisconsin,NCAA,5080,13,19,34,34,34,-9.0,32,,,,,,,,,,,,,,,,
+0,20162017,Univ. of Wisconsin,NCAA,5080,16,22,30,35,30,-2.0,38,,,,,,,,,,,,,,,,
+0,20162017,USA U20,WJC-20,17276,2,2,25,7,25,3.0,4,,,,,,,,,,,,,,,,
+0,20162017,Iowa Wild,AHL,149087,3,5,16,12,16,2.0,8,,,,,,,,,,,,,,,,
+0,20172018,Minnesota Wild,National Hockey League,1,2,2,13,19,13,-3.0,4,32.0,0.0,6.25,0.0,1.0,246:35,34.0,0.0,00:59,227:56,44.44,0.0,1.0,17:40,8.0,336.0
+0,20172018,Iowa Wild,AHL,149087,9,10,34,36,34,-6.0,19,,,,,,,,,,,,,,,,
+0,20182019,Minnesota Wild,National Hockey League,1,11,6,27,49,27,-9.0,17,88.0,0.0,6.82,1.0,0.0,778:23,67.0,1.0,62:45,644:38,44.0,0.0,0.0,71:00,34.0,1014.0
+0,20182019,USA,WC,17215,0,0,0,3,0,0.0,0,,,,,,,,,,,,,,,,
+0,20182019,Iowa Wild,AHL,149087,8,12,30,28,30,2.0,20,,,,,,,,,,,,,,,,
+0,20192020,Minnesota Wild,National Hockey League,1,16,15,55,63,55,-10.0,31,128.0,0.0,11.7,1.0,1.0,974:20,64.0,2.0,50:11,836:53,44.49,0.0,1.0,87:16,54.0,1272.0
+0,20202021,Nashville Predators,National Hockey League,1,9,10,13,38,13,3.0,19,71.0,0.0,14.1,2.0,0.0,531:40,84.0,0.0,24:37,492:50,33.33,0.0,0.0,14:13,20.0,703.0
+0,20212022,Nashville Predators,National Hockey League,1,9,13,99,82,99,-11.0,22,125.0,0.0,10.4,0.0,0.0,1134:02,223.0,2.0,77:30,996:37,44.04,0.0,0.0,59:55,51.0,1568.0

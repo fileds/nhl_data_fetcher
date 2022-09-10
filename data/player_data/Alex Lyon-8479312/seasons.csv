@@ -1,0 +1,23 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,shutouts,ties,wins,losses,goalsAgainst,ot,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,shotsAgainst,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20072008,Lake of the Woods High,USHS-MN,70002,0.847,6.86,4,,,,,,,,,,,,,,,,,,,
+0,20082009,Lake of the Woods High,USHS-MN,70002,0.909,3.44,17,,,,,,,,,,,,,,,,,,,
+0,20092010,Lake of the Woods High,USHS-MN,70002,0.919,2.8,25,,,,,,,,,,,,,,,,,,,
+0,20102011,Lake of the Woods High,USHS-MN,70002,0.948,1.48,25,,,,,,,,,,,,,,,,,,,
+0,20112012,Omaha,USHL,1,,2.76,48,2762:00,4.0,3.0,28.0,15.0,127.0,,,,,,,,,,,,,
+0,20122013,Omaha,USHL,1,,2.65,50,2894:00,1.0,1.0,26.0,21.0,128.0,,,,,,,,,,,,,
+0,20132014,Yale,ECAC,1,,2.41,30,1764:00,3.0,5.0,14.0,11.0,71.0,,,,,,,,,,,,,
+0,20142015,Yale,ECAC,1,,1.62,32,1925:00,7.0,5.0,17.0,10.0,52.0,,,,,,,,,,,,,
+0,20142015,Yale Univ.,NCAA,8420,0.939,1.62,32,,,,,,,,,,,,,,,,,,,
+0,20152016,Yale,ECAC,1,,1.64,31,1906:00,5.0,4.0,19.0,8.0,52.0,,,,,,,,,,,,,
+0,20152016,Yale Univ.,NCAA,8420,0.936,1.64,31,,,,,,,,,,,,,,,,,,,
+0,20162017,Lehigh Valley Phantoms,AHL,173347,0.912,2.74,47,,,,,,,,,,,,,,,,,,,
+0,20172018,Philadelphia Flyers,National Hockey League,1,0.905172,2.751146,11,479:48,0.0,0.0,4.0,2.0,22.0,1.0,210.0,19.0,6.0,185.0,6.0,204.0,22.0,7.0,232.0,86.36363636363636,100.0,90.68627450980392
+0,20172018,Lehigh Valley Phantoms,AHL,173347,0.913,2.75,27,,,,,,,,,,,,,,,,,,,
+0,20182019,Philadelphia Flyers,National Hockey League,1,0.806452,5.083549,2,70:49,0.0,0.0,0.0,1.0,6.0,0.0,25.0,4.0,3.0,18.0,3.0,23.0,5.0,1.0,31.0,80.0,100.0,78.26086956521739
+0,20182019,Lehigh Valley Phantoms,AHL,173347,0.916,2.74,39,,,,,,,,,,,,,,,,,,,
+0,20192020,Philadelphia Flyers,National Hockey League,1,0.89,3.5472,3,135:19,0.0,0.0,1.0,1.0,8.0,0.0,65.0,7.0,1.0,57.0,1.0,63.0,9.0,2.0,73.0,77.77777777777779,100.0,90.47619047619048
+0,20192020,Lehigh Valley Phantoms,AHL,173347,0.913,2.69,32,,,,,,,,,,,,,,,,,,,
+0,20202021,Philadelphia Flyers,National Hockey League,1,0.893,3.3318,6,324:09,0.0,0.0,1.0,3.0,18.0,1.0,151.0,20.0,5.0,126.0,6.0,136.0,27.0,5.0,169.0,74.07407407407408,83.33333333333334,92.64705882352942
+0,20202021,Lehigh Valley Phantoms,AHL,173347,0.874,3.4,4,,,,,,,,,,,,,,,,,,,
+0,20212022,Carolina Hurricanes,National Hockey League,1,0.908,2.9312,2,122:49,0.0,0.0,1.0,0.0,6.0,1.0,59.0,10.0,2.0,47.0,2.0,52.0,11.0,2.0,65.0,90.9090909090909,100.0,90.38461538461539
+0,20212022,Chicago Wolves,AHL,957,0.912,2.16,30,,,,,,,,,,,,,,,,,,,

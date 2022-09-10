@@ -1,0 +1,26 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20052006,Chicago Mission Bantam Minor AAA,T1EMBHL,141690,2,4,4,5,4,0.0,6,,,,,,,,,,,,,,,,
+0,20062007,Chicago Mission Bantam Major AAA,T1EBHL,141299,4,1,2,27,2,0.0,5,,,,,,,,,,,,,,,,
+0,20072008,Team Illinois U16,T1EHL U16,96458,4,1,2,31,2,0.0,5,,,,,,,,,,,,,,,,
+0,20082009,Tabor Academy,USHS-Prep,11468,2,0,0,25,0,0.0,2,,,,,,,,,,,,,,,,
+0,20092010,Team Illinois,T1EHL,1,12,1,8,48,8,,13,,,,,,,,,,,,,,,,
+0,20092010,Illinois,Exhib.,2,19,1,4,25,4,,20,,,,,,,,,,,,,,,,
+0,20102011,Muskegon,USHL,1,17,1,24,55,24,-11.0,18,55.0,0.0,1.82,0.0,0.0,,,,,,,,,,,
+0,20112012,Nebraska-Omaha,WCHA,1,3,2,8,35,8,,5,,0.0,,0.0,0.0,,,,,,,,,,,
+0,20122013,Nebraska-Omaha,WCHA,1,5,2,14,38,14,,7,,1.0,,0.0,0.0,,,,,,,,,,,
+0,20132014,Nebraska-Omaha,NCHC,1,10,0,18,32,18,,10,,0.0,,0.0,0.0,,,,,,,,,,,
+0,20132014,Norfolk,AHL,2,0,0,2,2,2,0.0,0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,
+0,20142015,Norfolk,AHL,1,4,1,4,32,4,-1.0,5,34.0,0.0,2.9,0.0,0.0,,,,,,,,,,,
+0,20152016,San Diego,AHL,1,12,0,14,67,14,23.0,12,56.0,0.0,0.0,0.0,0.0,,,,,,,,,,,
+0,20152016,San Diego Gulls,AHL,85177,12,0,14,67,14,23.0,12,,,,,,,,,,,,,,,,
+0,20162017,Anaheim Ducks,National Hockey League,1,0,0,0,1,0,1.0,0,0.0,0.0,0.0,0.0,0.0,15:20,0.0,0.0,00:00,14:21,0.0,0.0,0.0,00:59,0.0,18.0
+0,20162017,San Diego Gulls,AHL,85177,22,5,37,62,37,33.0,27,,,,,,,,,,,,,,,,
+0,20172018,Anaheim Ducks,National Hockey League,1,1,0,2,14,2,-4.0,1,7.0,0.0,0.0,0.0,0.0,219:59,6.0,0.0,02:39,188:33,0.0,0.0,0.0,28:47,30.0,285.0
+0,20172018,San Diego Gulls,AHL,85177,10,2,25,49,25,-2.0,12,,,,,,,,,,,,,,,,
+0,20182019,Anaheim Ducks,National Hockey League,1,3,1,12,28,12,-1.0,4,31.0,0.0,3.23,0.0,0.0,406:54,32.0,0.0,00:12,350:34,0.0,0.0,0.0,56:08,29.0,599.0
+0,20182019,San Diego Gulls,AHL,85177,11,2,20,38,20,8.0,13,,,,,,,,,,,,,,,,
+0,20192020,Chicago Wolves,AHL,957,7,3,40,60,40,12.0,10,,,,,,,,,,,,,,,,
+0,20202021,San Jose Barracuda,AHL,187427,6,2,22,36,22,8.0,8,,,,,,,,,,,,,,,,
+0,20212022,San Jose Sharks,National Hockey League,1,6,2,16,44,16,-1.0,8,40.0,0.0,5.0,0.0,0.0,841:18,71.0,0.0,01:35,755:22,0.0,0.0,0.0,84:21,92.0,1142.0
+0,20212022,USA,WC,17215,2,0,4,8,4,2.0,2,,,,,,,,,,,,,,,,
+0,20212022,San Jose Barracuda,AHL,187427,8,2,10,22,10,0.0,10,,,,,,,,,,,,,,,,

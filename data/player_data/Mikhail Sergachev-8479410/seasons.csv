@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,shots,games,powerPlayGoals,penaltyMinutes,shotPct,gameWinningGoals,shortHandedGoals,plusMinus,points,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,Irbis Kazan Jr.,Russia-Jr.,1,6,2,18,48.0,25,2.0,18,4.2,0.0,0.0,0,8,,,,,,,,,,,
+0,20152016,Windsor,OHL,1,40,17,56,156.0,67,8.0,56,10.9,5.0,0.0,15,57,,,,,,,,,,,
+0,20152016,Windsor Spitfires,OHL,9508,40,17,56,,67,,56,,,,15,57,,,,,,,,,,,
+0,20152016,Russia U18,WJC-18,17523,0,0,8,,5,,8,,,,0,0,,,,,,,,,,,
+0,20162017,Montréal Canadiens,National Hockey League,1,0,0,0,2.0,4,0.0,0,0.0,0.0,0.0,1,0,48:30,10.0,0.0,01:23,47:07,0.0,0.0,0.0,00:00,3.0,68.0
+0,20162017,Windsor Spitfires,M-Cup,9291,3,1,2,,4,,2,,,,3,4,,,,,,,,,,,
+0,20162017,Windsor Spitfires,OHL,9508,33,10,71,,50,,71,,,,22,43,,,,,,,,,,,
+0,20162017,Russia U20,WJC-20,17546,0,1,4,,7,,4,,,,4,1,,,,,,,,,,,
+0,20172018,Tampa Bay Lightning,National Hockey League,1,31,9,38,141.0,79,3.0,38,6.38,5.0,0.0,11,40,1213:28,90.0,16.0,146:09,1066:11,0.0,0.0,0.0,01:08,64.0,1528.0
+0,20182019,Tampa Bay Lightning,National Hockey League,1,26,6,28,128.0,75,0.0,28,4.69,0.0,0.0,12,32,1344:15,97.0,6.0,113:20,1214:24,50.0,0.0,0.0,16:31,93.0,1603.0
+0,20182019,Russia,WC,17485,6,1,0,,10,,0,,,,11,7,,,,,,,,,,,
+0,20182019,Russia,EHT,64546,1,0,0,,3,,0,,,,-3,1,,,,,,,,,,,
+0,20192020,Tampa Bay Lightning,National Hockey League,1,24,10,58,118.0,70,5.0,58,8.5,0.0,1.0,15,34,1425:43,106.0,13.0,131:15,1213:10,0.0,0.0,1.0,81:18,99.0,1648.0
+0,20202021,Tampa Bay Lightning,National Hockey League,1,26,4,30,108.0,56,0.0,30,3.7,1.0,0.0,5,30,1230:20,66.0,8.0,116:06,1017:35,0.0,0.0,0.0,96:39,73.0,1502.0
+0,20212022,Tampa Bay Lightning,National Hockey League,1,31,7,59,149.0,78,1.0,59,4.7,1.0,0.0,6,38,1752:34,139.0,7.0,118:41,1470:32,0.0,0.0,1.0,163:21,123.0,2073.0

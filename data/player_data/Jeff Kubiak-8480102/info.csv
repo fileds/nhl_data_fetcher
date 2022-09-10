@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480102,Jeff Kubiak,/api/v1/people/8480102,Jeff,Kubiak,1994-01-18,28,Tinley Park,IL,USA,USA,"6' 4""",210,True,False,False,False,L,Y,"{'id': 2, 'name': 'New York Islanders', 'link': '/api/v1/teams/2'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

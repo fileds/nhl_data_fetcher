@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Lac St-Louis Lions U15 AAA,QBAAA,161726,7,10,12,25,12,17,,,,,,,,,,,,,,,,,
+0,20142015,Lac St-Louis Lions Bantam AAA,QBAAA,161622,20,29,32,24,32,49,,,,,,,,,,,,,,,,,
+0,20152016,Lac St-Louis Lions,QM18AAA,39204,29,18,26,41,26,47,7.0,,,,,,,,,,,,,,,,
+0,20152016,Canada U16,YOG,118187,1,1,0,6,0,2,1.0,,,,,,,,,,,,,,,,
+0,20162017,Baie-Comeau Drakkar,QMJHL,9580,6,11,4,25,4,17,-2.0,,,,,,,,,,,,,,,,
+0,20172018,Baie-Comeau Drakkar,QMJHL,9580,33,26,59,66,59,59,-11.0,,,,,,,,,,,,,,,,
+0,20172018,Canada U18,Hlinka Gretzky Cup,144760,0,2,0,5,0,2,,,,,,,,,,,,,,,,,
+0,20182019,Syracuse Crunch,AHL,1057,0,0,0,4,0,0,0.0,,,,,,,,,,,,,,,,
+0,20182019,Baie-Comeau Drakkar,QMJHL,9580,48,35,27,68,27,83,41.0,,,,,,,,,,,,,,,,
+0,20192020,Baie-Comeau Drakkar,QMJHL,9580,15,17,16,36,16,32,0.0,,,,,,,,,,,,,,,,
+0,20192020,Moncton Wildcats,QMJHL,9630,16,15,10,28,10,31,22.0,,,,,,,,,,,,,,,,
+0,20202021,Syracuse Crunch,AHL,1057,4,6,2,30,2,10,3.0,,,,,,,,,,,,,,,,
+0,20202021,Moncton Wildcats,QMJHL,9630,2,6,6,13,6,8,-3.0,,,,,,,,,,,,,,,,
+0,20212022,Tampa Bay Lightning,National Hockey League,1,0,1,4,10,4,1,-2.0,92:49,14.0,24.0,0.0,0.0,00:02,92:47,100.0,7.1,0.0,0.0,0.0,0.0,00:00,5.0,139.0
+0,20212022,Syracuse Crunch,AHL,1057,21,14,33,72,33,35,7.0,,,,,,,,,,,,,,,,

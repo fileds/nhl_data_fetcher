@@ -1,0 +1,27 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus
+0,20132014,Jukurit U16,Jr. C Suomi-sarja,80816,0,1,0,3,0,1,
+0,20142015,Jukurit U18,Jr. B Mestis,52422,0,0,0,4,0,0,
+0,20142015,Jukurit U16,Jr. C Suomi-sarja,80816,1,3,0,1,0,4,
+0,20152016,Jukurit U20,U20 Mestis,30789,2,2,2,4,2,4,
+0,20152016,Jukurit U18,U18 Mestis,52980,19,16,12,26,12,35,
+0,20162017,Jukurit,Liiga,4659,0,0,0,1,0,0,-1.0
+0,20162017,IPK,Mestis,24767,1,0,0,3,0,1,1.0
+0,20162017,Jukurit U20,U20 SM-sarja,30790,20,6,20,38,20,26,-2.0
+0,20162017,Finland U17,WHC-17,61280,0,0,2,5,2,0,
+0,20172018,Jukurit,Liiga,4659,0,0,4,12,4,0,-2.0
+0,20172018,Ketterä,Mestis,11437,9,0,6,29,6,9,3.0
+0,20172018,Finland U18,WJC-18,17093,3,0,0,7,0,3,7.0
+0,20172018,Jukurit U20,U20 SM-sarja,30790,7,0,4,14,4,7,-10.0
+0,20172018,Finland U18,Hlinka Gretzky Cup,158280,0,1,4,4,4,1,
+0,20182019,Jukurit,Liiga,4659,16,3,20,56,20,19,-16.0
+0,20182019,Finland U18,WJC-18,17093,1,0,4,5,4,1,1.0
+0,20182019,Jukurit U18,U18 SM-sarja,52981,1,2,0,1,0,3,
+0,20182019,Finland U18,Hlinka Gretzky Cup,158280,1,2,6,4,6,3,
+0,20192020,Jukurit,Liiga,4659,7,3,10,39,10,10,-6.0
+0,20192020,Finland U20,WJC-20,17116,0,2,4,7,4,2,-1.0
+0,20192020,Jukurit U20,U20 SM-sarja,30790,1,2,4,10,4,3,-6.0
+0,20202021,Jukurit,Liiga,4659,9,1,20,50,20,10,-17.0
+0,20202021,Toronto Marlies,AHL,13377,6,1,0,11,0,7,-2.0
+0,20202021,Finland U20,WJC-20,17116,1,0,0,7,0,1,0.0
+0,20202021,Jukurit U20,U20 SM-sarja,30790,2,0,0,2,0,2,1.0
+0,20212022,Pelicans,Liiga,929,14,1,20,58,20,15,-7.0

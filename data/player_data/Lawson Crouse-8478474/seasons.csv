@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Elgin Middlesex Chi. Mn Mdgt AAA,AHMMPL,70728,0,1,0,1,0,0.0,1,,,,,,,,,,,,,,,,
+0,20122013,Elgin-Mid. Chiefs,Minor-ON,1,28,22,51,27,51,,50,,,,,,,,,,,,,,,,
+0,20122013,St. Thomas,ON-Jr.B,2,1,0,0,5,0,,1,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20132014,Kingston,OHL,1,12,15,64,63,64,10.0,27,3.0,3.0,0.0,,,,,,,,,,,,,
+0,20132014,Canada,WJ18-A,2,0,1,0,7,0,-1.0,1,0.0,1.0,0.0,4.0,,,,,,,,,,,,
+0,20142015,Kingston,OHL,1,22,29,70,56,70,10.0,51,7.0,3.0,2.0,,,,,,,,,,,,,
+0,20142015,Canada,WJC-A,2,2,1,0,7,0,-1.0,3,0.0,0.0,0.0,14.0,,,,,,,,,,,,
+0,20152016,Kingston,OHL,1,39,23,56,49,56,,62,,,,,,,,,,,,,,,,
+0,20152016,Canada,WJC-A,2,3,2,2,5,2,1.0,5,0.0,0.0,0.0,11.0,,,,,,,,,,,,
+0,20152016,Portland,AHL,3,0,0,0,2,0,1.0,0,0.0,0.0,0.0,2.0,0.0,,,,,,,,,,,
+0,20152016,Portland Pirates,AHL,887,0,0,0,2,0,1.0,0,,,,,,,,,,,,,,,,
+0,20152016,Kingston Frontenacs,OHL,9408,39,23,56,49,56,13.0,62,,,,,,,,,,,,,,,,
+0,20152016,Canada U20,WJC-20,17216,3,2,2,5,2,1.0,5,,,,,,,,,,,,,,,,
+0,20162017,Arizona Coyotes,National Hockey League,1,7,5,48,72,48,-20.0,12,0.0,2.0,1.0,84.0,5.95,855:58,160.0,0.0,01:51,747:29,50.0,0.0,1.0,106:38,29.0,1212.0
+0,20172018,Arizona Coyotes,National Hockey League,1,0,1,7,11,7,-6.0,1,0.0,0.0,0.0,13.0,7.69,120:20,29.0,0.0,00:32,116:11,27.27,0.0,0.0,03:37,6.0,194.0
+0,20172018,Tucson Roadrunners,AHL,218897,17,15,70,56,70,3.0,32,,,,,,,,,,,,,,,,
+0,20182019,Arizona Coyotes,National Hockey League,1,14,11,67,81,67,5.0,25,0.0,1.0,2.0,131.0,8.4,1048:45,288.0,0.0,06:42,937:16,41.38,0.0,2.0,104:47,44.0,1603.0
+0,20192020,Arizona Coyotes,National Hockey League,1,10,15,33,66,33,0.0,25,0.0,3.0,1.0,109.0,13.8,896:23,201.0,0.0,01:41,801:16,51.06,0.0,1.0,93:26,29.0,1280.0
+0,20202021,Arizona Coyotes,National Hockey League,1,9,4,46,51,46,-10.0,13,0.0,0.0,0.0,70.0,5.7,729:09,155.0,2.0,14:02,613:06,46.51,0.0,0.0,102:01,30.0,1058.0
+0,20212022,Arizona Coyotes,National Hockey League,1,14,20,52,65,52,-9.0,34,3.0,4.0,1.0,131.0,15.3,1132:56,181.0,7.0,124:46,894:44,33.33,0.0,1.0,113:26,36.0,1531.0

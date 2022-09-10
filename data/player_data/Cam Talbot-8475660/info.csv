@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475660,Cam Talbot,/api/v1/people/8475660,Cam,Talbot,33,1987-07-05,35,Caledonia,ON,CAN,CAN,"6' 4""",196,True,False,False,False,L,Y,"{'id': 9, 'name': 'Ottawa Senators', 'link': '/api/v1/teams/9'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

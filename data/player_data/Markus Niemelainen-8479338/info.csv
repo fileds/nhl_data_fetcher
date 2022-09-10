@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479338,Markus Niemelainen,/api/v1/people/8479338,Markus,Niemelainen,80,1998-06-08,24,Kuopio,FIN,FIN,"6' 6""",190,True,False,False,True,L,Y,"{'id': 22, 'name': 'Edmonton Oilers', 'link': '/api/v1/teams/22'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

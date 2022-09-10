@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,ot,shutouts,ties,wins,losses,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,shotsAgainst,goalsAgainst,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20062007,Berwick Academy,USHS-Prep,31242,0.901,3.15,6,,,,,,,,,,,,,,,,,,,
+0,20072008,Berwick Academy,USHS-Prep,31242,0.91,2.76,24,,,,,,,,,,,,,,,,,,,
+0,20082009,Deerfield Academy,USHS-Prep,23192,0.918,2.72,20,,,,,,,,,,,,,,,,,,,
+0,20092010,Indiana Ice,USHL,21748,0.897,3.18,27,,,,,,,,,,,,,,,,,,,
+0,20102011,Indiana Ice,USHL,21748,0.92,2.54,37,,,,,,,,,,,,,,,,,,,
+0,20112012,Univ. of New Hampshire,NCAA,11430,0.926,2.33,22,,,,,,,,,,,,,,,,,,,
+0,20122013,Univ. of New Hampshire,NCAA,11430,0.924,2.23,38,,,,,,,,,,,,,,,,,,,
+0,20132014,Univ. of New Hampshire,NCAA,11430,0.92,2.4,37,,,,,,,,,,,,,,,,,,,
+0,20152016,Wilkes-Barre/Scranton Penguins,AHL,1077,0.925,1.94,6,,,,,,,,,,,,,,,,,,,
+0,20152016,Wheeling Nailers,ECHL,2765,0.915,2.55,13,,,,,,,,,,,,,,,,,,,
+0,20162017,Wilkes-Barre/Scranton Penguins,AHL,1077,0.926,2.01,29,,,,,,,,,,,,,,,,,,,
+0,20172018,Pittsburgh Penguins,National Hockey League,1,0.921348,2.399486,14,700:09,1.0,1.0,0.0,6.0,4.0,328.0,40.0,23.0,265.0,24.0,284.0,48.0,11.0,356.0,28.0,83.33333333333334,95.83333333333334,93.30985915492957
+0,20172018,Wilkes-Barre/Scranton Penguins,AHL,1077,0.91,2.73,27,,,,,,,,,,,,,,,,,,,
+0,20182019,Pittsburgh Penguins,National Hockey League,1,0.916038,2.74755,36,1943:33,5.0,3.0,0.0,15.0,11.0,971.0,116.0,26.0,829.0,34.0,893.0,133.0,30.0,1060.0,89.0,87.21804511278195,76.47058823529412,92.83314669652856
+0,20192020,Wilkes-Barre/Scranton Penguins,AHL,1077,0.905,2.92,41,,,,,,,,,,,,,,,,,,,
+0,20202021,Pittsburgh Penguins,National Hockey League,1,0.912,2.5435,20,1132:19,0.0,2.0,0.0,11.0,7.0,495.0,62.0,13.0,420.0,15.0,454.0,74.0,17.0,543.0,48.0,83.78378378378379,86.66666666666667,92.51101321585902
+0,20212022,Pittsburgh Penguins,National Hockey League,1,0.914,2.79237,26,1418:09,5.0,3.0,0.0,11.0,6.0,703.0,86.0,24.0,593.0,26.0,643.0,100.0,24.0,769.0,66.0,86.0,92.3076923076923,92.2239502332815

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8477384,Josh Brown,/api/v1/people/8477384,Josh,Brown,3,1994-01-21,28,London,ON,CAN,CAN,"6' 5""",220,True,False,False,False,R,Y,"{'id': 53, 'name': 'Arizona Coyotes', 'link': '/api/v1/teams/53'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

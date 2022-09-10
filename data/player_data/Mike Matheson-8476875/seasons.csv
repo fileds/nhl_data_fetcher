@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Lac St-Louis,QAAA,1,6,5,33,30,33,11,,,,,,,,,,,,,,,,,
+0,20102011,Lac St-Louis,QAAA,1,24,14,72,35,72,38,,,,,,,,,,,,,,,,,
+0,20112012,Dubuque,USHL,1,16,11,84,53,84,27,3.0,3.0,1.0,0.0,,,,,,,,,,,,,
+0,20122013,Boston College,H-East,1,17,8,78,36,78,25,6.0,1.0,0.0,,,,,,,,,,,,,,
+0,20132014,Boston College,H-East,1,18,3,49,38,49,21,0.0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,Boston College,H-East,1,22,3,26,38,26,25,0.0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,San Antonio,AHL,2,2,0,8,5,8,2,0.0,0.0,0.0,1.0,8.0,0.0,,,,,,,,,,,
+0,20152016,Florida Panthers,National Hockey League,1,0,0,2,3,2,0,0.0,0.0,0.0,1.0,4.0,0.0,52:36,1.0,0.0,00:03,52:09,0.0,0.0,0.0,00:24,1.0,63.0
+0,20152016,Portland,AHL,2,12,8,30,54,30,20,2.0,2.0,0.0,14.0,108.0,7.4,,,,,,,,,,,
+0,20152016,Canada,WC-A,3,4,2,0,10,0,6,1.0,0.0,0.0,11.0,12.0,,,,,,,,,,,,
+0,20152016,Portland Pirates,AHL,887,12,8,30,54,30,20,,,,14.0,,,,,,,,,,,,,
+0,20152016,Canada,WC,17155,4,2,0,10,0,6,,,,11.0,,,,,,,,,,,,,
+0,20162017,Florida Panthers,National Hockey League,1,10,7,36,81,36,17,0.0,0.0,0.0,-5.0,179.0,3.91,1705:17,69.0,1.0,41:05,1453:51,100.0,0.0,1.0,210:21,118.0,1952.0
+0,20162017,Canada,WC,17155,6,1,10,10,10,7,,,,8.0,,,,,,,,,,,,,
+0,20172018,Florida Panthers,National Hockey League,1,17,10,61,81,61,27,1.0,2.0,0.0,-1.0,167.0,5.99,1728:19,53.0,4.0,90:11,1492:59,0.0,1.0,1.0,145:09,137.0,2182.0
+0,20182019,Florida Panthers,National Hockey League,1,19,8,44,75,44,27,0.0,2.0,0.0,-24.0,129.0,6.2,1673:51,63.0,6.0,59:56,1434:12,0.0,1.0,2.0,179:43,132.0,2126.0
+0,20192020,Florida Panthers,National Hockey League,1,12,8,14,59,14,20,1.0,1.0,0.0,-1.0,104.0,7.7,1064:06,44.0,2.0,12:24,980:02,0.0,0.0,0.0,71:40,53.0,1268.0
+0,20202021,Pittsburgh Penguins,National Hockey League,1,11,5,28,44,28,16,0.0,1.0,0.0,9.0,86.0,5.8,820:06,41.0,1.0,42:22,773:21,0.0,0.0,0.0,04:23,40.0,1008.0
+0,20212022,Pittsburgh Penguins,National Hockey League,1,20,11,33,74,33,31,0.0,5.0,0.0,12.0,140.0,7.9,1391:08,97.0,2.0,52:33,1320:52,0.0,0.0,0.0,17:43,81.0,1716.0

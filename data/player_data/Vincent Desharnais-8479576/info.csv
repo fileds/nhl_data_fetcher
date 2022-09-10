@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479576,Vincent Desharnais,/api/v1/people/8479576,Vincent,Desharnais,73,1996-05-29,26,Laval,QC,CAN,CAN,"6' 6""",215,True,False,False,True,R,Y,"{'id': 22, 'name': 'Edmonton Oilers', 'link': '/api/v1/teams/22'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

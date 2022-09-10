@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Okanagan Hockey Academy Btm Prep,OMAHA,135031,46,41,123,59,123,0.0,87,,,,,,,,,,,,,,,,
+0,20142015,Tri-City Americans,WHL,9481,0,0,2,1,2,0.0,0,,,,,,,,,,,,,,,,
+0,20142015,Penticton Vees,BCHL,21824,0,0,0,1,0,,0,,,,,,,,,,,,,,,,
+0,20142015,Okanagan HA White U18 Prep,CSSHL U18,47046,23,27,36,28,36,,50,,,,,,,,,,,,,,,,
+0,20142015,Team British Columbia,CWG,90795,1,1,4,6,4,,2,,,,,,,,,,,,,,,,
+0,20152016,Tri-City Americans,WHL,9481,25,18,37,63,37,4.0,43,,,,,,,,,,,,,,,,
+0,20152016,Canada Black U17,WHC-17,163780,1,2,16,5,16,,3,,,,,,,,,,,,,,,,
+0,20152016,Team White,U17-Dev,178269,1,0,8,3,8,,1,,,,,,,,,,,,,,,,
+0,20162017,Tri-City Americans,WHL,9481,23,32,50,50,50,-13.0,55,,,,,,,,,,,,,,,,
+0,20162017,Canada U18,Hlinka Gretzky Cup,144760,3,1,8,4,8,1.0,4,,,,,,,,,,,,,,,,
+0,20172018,Tri-City Americans,WHL,9481,28,31,40,47,40,17.0,59,,,,,,,,,,,,,,,,
+0,20182019,Detroit Red Wings,National Hockey League,1,10,8,29,62,29,-8.0,18,748:43,74.0,84.0,4.0,4.0,111:21,636:59,35.94,10.81,0.0,0.0,0.0,0.0,00:23,28.0,1014.0
+0,20182019,Grand Rapids Griffins,AHL,987,0,2,0,3,0,0.0,2,,,,,,,,,,,,,,,,
+0,20192020,Grand Rapids Griffins,AHL,987,15,7,20,35,20,-7.0,22,,,,,,,,,,,,,,,,
+0,20202021,Detroit Red Wings,National Hockey League,1,9,3,26,40,26,-5.0,12,591:57,62.0,72.0,0.0,2.0,90:42,477:45,44.37,4.8,1.0,0.0,0.0,0.0,23:30,28.0,774.0
+0,20202021,Grand Rapids Griffins,AHL,987,4,2,6,7,6,-2.0,6,,,,,,,,,,,,,,,,
+0,20202021,Graz99ers,ICEHL,2588,11,5,42,18,42,-1.0,16,,,,,,,,,,,,,,,,
+0,20212022,Detroit Red Wings,National Hockey League,1,12,15,66,80,66,-25.0,27,1161:27,128.0,142.0,0.0,2.0,70:47,991:46,50.06,11.7,2.0,0.0,0.0,0.0,98:54,65.0,1588.0

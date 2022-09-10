@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,faceOffPct,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20072008,Minnetonka,High-MN,1,1,0,0,24,0,0.0,1,,,,,,,,,,,,,,,,
+0,20082009,Minnetonka,High-MN,1,6,1,4,28,4,0.0,7,,,,,,,,,,,,,,,,
+0,20092010,Minnetonka,High-MN,2,14,17,8,25,8,0.0,31,,,,,,,,,,,,,,,,
+0,20102011,U. of Minnesota,WCHA,1,6,1,12,25,12,,7,0.0,1.0,0.0,,,,,,,,,,,,,
+0,20112012,U. of Minnesota,WCHA,1,8,3,34,43,34,,11,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20122013,U. of Minnesota,WCHA,1,4,3,10,35,10,,7,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20132014,U. of Minnesota,Big Ten,1,12,1,20,39,20,,13,0.0,1.0,1.0,,,,,,,,,,,,,
+0,20142015,Indy,ECHL,1,27,7,39,66,39,,34,4.0,,0.0,119.0,5.9,-4.0,,,,,,,,,,
+0,20142015,Rockford,AHL,2,0,0,0,2,0,,0,0.0,0.0,0.0,0.0,0.0,-1.0,,,,,,,,,,
+0,20152016,Toronto,AHL,1,16,5,15,60,15,,21,0.0,1.0,0.0,93.0,5.4,32.0,,,,,,,,,,
+0,20152016,Toronto Marlies,AHL,13377,16,5,15,60,15,,21,,,,,,32.0,,,,,,,,,,
+0,20162017,Toronto Marlies,AHL,13377,11,8,30,72,30,,19,,,,,,5.0,,,,,,,,,,
+0,20172018,Toronto Maple Leafs,National Hockey League,1,0,2,0,2,0,0.0,2,0.0,1.0,0.0,2.0,100.0,5.0,34:43,2.0,0.0,00:00,32:11,0.0,0.0,02:32,3.0,53.0
+0,20172018,Toronto Marlies,AHL,13377,21,7,34,60,34,,28,,,,,,23.0,,,,,,,,,,
+0,20182019,Toronto Maple Leafs,National Hockey League,1,1,0,2,11,2,0.0,1,0.0,0.0,0.0,6.0,0.0,-5.0,137:18,9.0,0.0,00:28,136:50,0.0,0.0,00:00,5.0,191.0
+0,20192020,Toronto Maple Leafs,National Hockey League,1,16,2,43,68,43,0.0,18,0.0,0.0,0.0,89.0,2.2,13.0,1258:37,89.0,0.0,02:47,1121:16,0.0,0.0,134:34,83.0,1603.0
+0,20202021,Toronto Maple Leafs,National Hockey League,1,18,2,25,55,25,0.0,20,0.0,1.0,0.0,57.0,3.5,16.0,1158:28,82.0,0.0,08:50,1009:40,1.0,1.0,139:58,84.0,1407.0
+0,20212022,Toronto Maple Leafs,National Hockey League,1,20,3,41,69,41,0.0,23,0.0,1.0,1.0,64.0,4.7,14.0,1394:22,129.0,0.0,04:54,1219:18,0.0,3.0,170:10,104.0,1764.0

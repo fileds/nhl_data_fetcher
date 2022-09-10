@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480293,Wyatt Kalynuk,/api/v1/people/8480293,Wyatt,Kalynuk,48,1997-04-14,25,Brandon,MB,CAN,CAN,"6' 1""",180,True,False,False,True,L,Y,"{'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

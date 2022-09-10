@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479292,Charlie Lindgren,/api/v1/people/8479292,Charlie,Lindgren,79,1993-12-18,28,Lakeville,MN,USA,USA,"6' 2""",179,True,False,False,False,R,Y,"{'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

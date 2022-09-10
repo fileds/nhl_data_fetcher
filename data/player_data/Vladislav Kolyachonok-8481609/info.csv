@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8481609,Vladislav Kolyachonok,/api/v1/people/8481609,Vladislav,Kolyachonok,92,2001-05-26,21,Minsk,BLR,BLR,"6' 1""",193,True,False,False,True,L,Y,"{'id': 53, 'name': 'Arizona Coyotes', 'link': '/api/v1/teams/53'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

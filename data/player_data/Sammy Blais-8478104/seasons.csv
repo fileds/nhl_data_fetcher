@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20052006,Montréal Ice Storm,Brick Invitational,128796,6,5,4.0,7,4,11,,,,,,,,,,,,,,,,,
+0,20102011,Rive-Sud Bantam,Minor-QC,1,18,20,,29,,38,,,,,,,,,,,,,,,,,
+0,20102011,Rive-Sud,Minor-QC,2,1,1,,3,,2,,,,,,,,,,,,,,,,,
+0,20112012,Rive-Sud,Minor-QC,1,16,10,18.0,23,18,26,,,,,,,,,,,,,,,,,
+0,20122013,Trois-Rivieres,QAAA,1,24,16,18.0,42,18,40,,,,,,,,,,,,,,,,,
+0,20132014,Levis,QAAA,1,23,12,12.0,21,12,35,,,,,,,,,,,,,,,,,
+0,20132014,Victoriaville,QMJHL,2,10,4,0.0,25,0,14,26.0,1.0,15.4,2.0,0.0,4.0,,,,,,,,,,,
+0,20142015,Victoriaville,QMJHL,1,48,34,50.0,61,50,82,169.0,13.0,20.1,4.0,0.0,-4.0,,,,,,,,,,,
+0,20152016,Victoriaville,QMJHL,1,23,17,19.0,30,19,40,,8.0,,3.0,0.0,-7.0,,,,,,,,,,,
+0,20152016,Charlottetown,QMJHL,2,26,16,14.0,33,14,42,,7.0,,0.0,1.0,3.0,,,,,,,,,,,
+0,20152016,Victoriaville Tigres,QMJHL,7520,23,17,19.0,30,19,40,,,,,,-7.0,,,,,,,,,,,
+0,20152016,Charlottetown Islanders,QMJHL,46620,26,16,14.0,33,14,42,,,,,,3.0,,,,,,,,,,,
+0,20162017,Chicago Wolves,AHL,957,17,26,58.0,75,58,43,,,,,,11.0,,,,,,,,,,,
+0,20172018,St. Louis Blues,National Hockey League,1,2,1,6.0,11,6,3,9.0,1.0,11.11,0.0,0.0,1.0,118:30,15.0,1.0,14:48,103:42,0.0,0.0,0.0,00:00,2.0,154.0
+0,20172018,San Antonio Rampage,AHL,8497,23,17,38.0,42,38,40,,,,,,-10.0,,,,,,,,,,,
+0,20182019,St. Louis Blues,National Hockey League,1,2,2,6.0,32,6,4,27.0,0.0,7.41,0.0,0.0,-1.0,315:18,93.0,0.0,06:14,309:04,50.0,0.0,0.0,00:00,12.0,429.0
+0,20182019,San Antonio Rampage,AHL,8497,10,8,55.0,26,55,18,,,,,,-8.0,,,,,,,,,,,
+0,20192020,St. Louis Blues,National Hockey League,1,7,6,20.0,40,20,13,56.0,0.0,10.7,1.0,0.0,-2.0,503:06,155.0,0.0,30:34,472:32,0.0,0.0,0.0,00:00,15.0,625.0
+0,20202021,St. Louis Blues,National Hockey League,1,7,8,12.0,36,12,15,31.0,0.0,25.8,2.0,0.0,0.0,434:19,103.0,0.0,01:12,432:19,75.0,0.0,0.0,00:48,10.0,560.0
+0,20212022,New York Rangers,National Hockey League,1,4,0,17.0,14,17,4,17.0,0.0,0.0,0.0,0.0,3.0,188:25,37.0,0.0,16:08,172:17,20.0,0.0,0.0,00:00,8.0,233.0

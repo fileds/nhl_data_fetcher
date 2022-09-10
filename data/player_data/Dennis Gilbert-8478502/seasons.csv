@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,St. Joseph's,High-NY,1,5,4,2,27,2,9,,,,,,,,,,,,,,,,,
+0,20122013,St. Joseph's,High-NY,1,8,12,21,28,21,20,,,,,,,,,,,,,,,,,
+0,20132014,Buffalo,ON-Jr.A,1,13,4,36,35,36,17,1.0,1.0,0.0,,,,,,,,,,,,,,
+0,20142015,Chicago,USHL,1,23,4,89,59,89,27,4.0,0.0,0.0,102.0,3.9,2.0,,,,,,,,,,,
+0,20152016,U. of Notre Dame,H-East,1,8,2,34,37,34,10,1.0,1.0,0.0,54.0,,5.0,,,,,,,,,,,
+0,20152016,Univ. of Notre Dame,NCAA,16100,8,2,34,37,34,10,,,,,,5.0,,,,,,,,,,,
+0,20162017,Univ. of Notre Dame,NCAA,16100,22,0,22,40,22,22,,,,,,27.0,,,,,,,,,,,
+0,20172018,Univ. of Notre Dame,NCAA,16100,6,4,16,39,16,10,,,,,,3.0,,,,,,,,,,,
+0,20182019,Chicago Blackhawks,National Hockey League,1,0,0,2,1,2,0,0.0,0.0,0.0,0.0,0.0,0.0,12:46,6.0,0.0,00:00,12:46,0.0,0.0,0.0,00:00,1.0,17.0
+0,20182019,Rockford IceHogs,AHL,8267,9,5,67,63,67,14,,,,,,-8.0,,,,,,,,,,,
+0,20192020,Chicago Blackhawks,National Hockey League,1,2,1,38,21,38,3,0.0,0.0,0.0,12.0,8.3,-8.0,329:49,74.0,0.0,01:58,302:02,0.0,0.0,0.0,25:49,33.0,428.0
+0,20192020,Rockford IceHogs,AHL,8267,6,1,46,30,46,7,,,,,,-1.0,,,,,,,,,,,
+0,20202021,Colorado Avalanche,National Hockey League,1,0,0,5,3,5,0,0.0,0.0,0.0,0.0,0.0,0.0,20:09,2.0,0.0,00:00,18:00,0.0,0.0,0.0,02:09,1.0,33.0
+0,20202021,Colorado Eagles,AHL,8957,7,1,4,17,4,8,,,,,,-1.0,,,,,,,,,,,
+0,20212022,Colorado Eagles,AHL,8957,17,6,41,52,41,23,,,,,,1.0,,,,,,,,,,,

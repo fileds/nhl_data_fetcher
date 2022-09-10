@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8479404,Henrik Borgstrom,/api/v1/people/8479404,Henrik,Borgstrom,13,1997-08-06,25,Helsinki,FIN,FIN,"6' 3""",199,True,False,False,False,L,Y,"{'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

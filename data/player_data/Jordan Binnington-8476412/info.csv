@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476412,Jordan Binnington,/api/v1/people/8476412,Jordan,Binnington,50,1993-07-11,29,Richmond Hill,ON,CAN,CAN,"6' 2""",172,True,False,False,False,L,Y,"{'id': 19, 'name': 'St. Louis Blues', 'link': '/api/v1/teams/19'}","{'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}"

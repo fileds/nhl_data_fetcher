@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Virtua Hockey Bantam Minor AAA,AYMBHL,222041,10,1,8.0,31,8,11,,,,,,,,,,,,,,,,,
+0,20132014,Virtua Hockey Bantam Major AAA,AYBHL,142225,19,6,10.0,23,10,25,,,,,,,,,,,,,,,,,
+0,20142015,Northwood School Prep,EJEPL 18U,28242,1,1,0.0,19,0,2,,,,,,,,,,,,,,,,,
+0,20152016,USA U16,YOG,118227,2,0,0.0,6,0,2,6.0,,,,,,,,,,,,,,,,
+0,20152016,Northwood School,USHS-Prep,164792,15,14,,47,,29,,,,,,,,,,,,,,,,,
+0,20152016,Team Grey,USA-S15,178273,0,3,,5,,3,,,,,,,,,,,,,,,,,
+0,20162017,U.S. National U18 Team,USDP,19564,2,0,6.0,10,6,2,,,,,,,,,,,,,,,,,
+0,20162017,U.S. National U17 Team,USDP,19734,8,6,38.0,37,38,14,,,,,,,,,,,,,,,,,
+0,20162017,USNTDP Juniors,USHL,52486,5,5,26.0,30,26,10,0.0,,,,,,,,,,,,,,,,
+0,20172018,USA U18,WJC-18,17253,1,1,6.0,7,6,2,2.0,,,,,,,,,,,,,,,,
+0,20172018,U.S. National U18 Team,USDP,19564,20,11,113.0,58,113,31,,,,,,,,,,,,,,,,,
+0,20172018,USNTDP Juniors,USHL,52486,10,4,64.0,23,64,14,16.0,,,,,,,,,,,,,,,,
+0,20182019,Western Michigan Univ.,NCAA,13060,7,5,37.0,35,37,12,3.0,,,,,,,,,,,,,,,,
+0,20182019,USA U20,WJC-20,17276,0,0,0.0,7,0,0,3.0,,,,,,,,,,,,,,,,
+0,20192020,Western Michigan Univ.,NCAA,13060,12,2,41.0,30,41,14,17.0,,,,,,,,,,,,,,,,
+0,20192020,USA U20,WJC-20,17276,0,0,6.0,5,6,0,3.0,,,,,,,,,,,,,,,,
+0,20202021,Buffalo Sabres,National Hockey League,1,2,0,4.0,12,4,2,-8.0,216:22,10.0,20.0,0.0,0.0,00:00,194:45,0.0,0.0,0.0,0.0,0.0,0.0,21:37,10.0,249.0
+0,20202021,Rochester Americans,AHL,1047,10,3,12.0,23,12,13,-8.0,,,,,,,,,,,,,,,,
+0,20212022,Buffalo Sabres,National Hockey League,1,10,0,16.0,42,16,10,-10.0,839:39,44.0,100.0,0.0,0.0,02:03,741:07,0.0,0.0,0.0,0.0,0.0,0.0,96:29,60.0,1132.0
+0,20212022,Rochester Americans,AHL,1047,13,2,16.0,22,16,15,-11.0,,,,,,,,,,,,,,,,

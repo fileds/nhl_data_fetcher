@@ -1,0 +1,25 @@
+{
+    "id": 8465009,
+    "fullName": "Zdeno Chara",
+    "link": "/api/v1/people/8465009",
+    "firstName": "Zdeno",
+    "lastName": "Chara",
+    "primaryNumber": "33",
+    "birthDate": "1977-03-18",
+    "birthCity": "Trencin",
+    "birthCountry": "SVK",
+    "nationality": "SVK",
+    "height": "6' 9\"",
+    "weight": 250,
+    "active": false,
+    "rookie": false,
+    "shootsCatches": "L",
+    "rosterStatus": "Y",
+    "primaryPosition": {
+        "code": "D",
+        "name": "Defenseman",
+        "type": "Defenseman",
+        "abbreviation": "D"
+    },
+    "last_update": "06/10/2021"
+}

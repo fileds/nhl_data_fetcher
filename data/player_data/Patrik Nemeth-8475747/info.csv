@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475747,Patrik Nemeth,/api/v1/people/8475747,Patrik,Nemeth,2,1992-02-08,30,Stockholm,SWE,SWE,"6' 4""",230,True,False,False,False,L,Y,"{'id': 53, 'name': 'Arizona Coyotes', 'link': '/api/v1/teams/53'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

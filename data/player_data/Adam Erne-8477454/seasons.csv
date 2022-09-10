@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,powerPlayGoals,penaltyMinutes,gameWinningGoals,shortHandedGoals,plusMinus,points,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Indiana,USHL,1,8,10,49,45,3.0,49,2.0,0.0,-18,18,,,,,,,,,,,,,
+0,20112012,Quebec,QMJHL,1,27,28,32,64,11.0,32,2.0,0.0,6,55,,,,,,,,,,,,,
+0,20122013,Quebec,QMJHL,1,44,28,67,68,9.0,67,6.0,0.0,11,72,221.0,12.67,,,,,,,,,,,
+0,20132014,U.S.A.,WJC-A,1,1,0,0,5,0.0,0,0.0,0.0,-1,1,13.0,,,,,,,,,,,,
+0,20132014,Syracuse,AHL,2,3,1,2,8,0.0,2,0.0,0.0,-1,4,11.0,9.1,,,,,,,,,,,
+0,20132014,Quebec,QMJHL,3,41,21,65,48,6.0,65,6.0,0.0,-3,62,194.0,10.8,,,,,,,,,,,
+0,20142015,Quebec,QMJHL,1,45,41,102,60,12.0,102,5.0,2.0,21,86,260.0,15.8,,,,,,,,,,,
+0,20152016,Syracuse,AHL,1,15,14,74,59,6.0,74,2.0,1.0,-18,29,114.0,12.3,,,,,,,,,,,
+0,20152016,Syracuse Crunch,AHL,1057,15,14,74,59,,74,,,-18,29,,,,,,,,,,,,,
+0,20162017,Tampa Bay Lightning,National Hockey League,1,0,3,11,26,0.0,11,0.0,0.0,-9,3,40.0,7.5,306:59,71.0,0.0,26:38,280:21,0.0,0.0,0.0,00:00,13.0,441.0
+0,20162017,Syracuse Crunch,AHL,1057,15,14,42,42,,42,,,-3,29,,,,,,,,,,,,,
+0,20172018,Tampa Bay Lightning,National Hockey League,1,1,3,11,23,0.0,11,1.0,0.0,-1,4,29.0,10.34,232:44,37.0,0.0,01:46,230:34,62.5,0.0,0.0,00:24,8.0,335.0
+0,20172018,Syracuse Crunch,AHL,1057,14,12,38,41,,38,,,4,26,,,,,,,,,,,,,
+0,20182019,Tampa Bay Lightning,National Hockey League,1,13,7,40,65,2.0,40,3.0,0.0,10,20,70.0,10.0,685:38,159.0,2.0,33:01,633:22,47.83,0.0,0.0,19:15,26.0,976.0
+0,20192020,Detroit Red Wings,National Hockey League,1,3,2,28,56,0.0,28,0.0,0.0,-24,5,63.0,3.2,661:41,142.0,0.0,48:37,610:26,60.61,0.0,0.0,02:38,25.0,902.0
+0,20202021,Detroit Red Wings,National Hockey League,1,9,11,26,45,3.0,26,0.0,0.0,-1,20,71.0,15.5,626:27,82.0,6.0,70:05,556:18,58.82,0.0,0.0,00:04,16.0,803.0
+0,20212022,Detroit Red Wings,National Hockey League,1,13,6,34,79,0.0,34,1.0,0.0,-22,19,108.0,5.6,1057:17,161.0,0.0,72:08,979:48,52.31,0.0,0.0,05:21,43.0,1407.0

@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Notre Dame Argos Midget AAA,SMHL,43761,1,0,2,4,2,0,1,,,,,,,,,,,,,,,,
+0,20102011,Trail Smoke Eaters,BCHL,18222,0,0,0,4,0,0,0,,,,,,,,,,,,,,,,
+0,20112012,Regina Pats,WHL,8656,5,5,28,62,28,-3,10,,,,,,,,,,,,,,,,
+0,20122013,Regina Pats,WHL,8656,0,0,0,2,0,0,0,,,,,,,,,,,,,,,,
+0,20132014,Regina,WHL,1,19,21,64,62,64,-3,40,5.0,1.0,0.0,,,,,,,,,,,,,
+0,20142015,Regina,WHL,1,33,14,32,37,32,14,47,4.0,1.0,0.0,,,,,,,,,,,,,
+0,20142015,Medicine Hat,WHL,2,17,19,18,34,18,-6,36,7.0,3.0,0.0,,,,,,,,,,,,,
+0,20152016,Moose Jaw,WHL,1,58,58,48,72,48,12,116,15.0,,0.0,,,,,,,,,,,,,
+0,20152016,Moose Jaw Warriors,WHL,7741,58,58,48,72,48,12,116,,,,,,,,,,,,,,,,
+0,20162017,Manchester Monarchs,ECHL,1055,0,2,0,2,0,-1,2,,,,,,,,,,,,,,,,
+0,20162017,Springfield Thunderbirds,AHL,39667,18,13,65,70,65,3,31,,,,,,,,,,,,,,,,
+0,20172018,Florida Panthers,National Hockey League,1,1,0,2,11,2,-5,1,0.0,0.0,0.0,116:11,12.0,22.0,0.0,00:50,115:15,25.0,0.0,0.0,0.0,00:06,4.0,177.0
+0,20172018,Springfield Thunderbirds,AHL,39667,23,23,37,58,37,4,46,,,,,,,,,,,,,,,,
+0,20182019,Florida Panthers,National Hockey League,1,7,3,8,31,8,0,10,0.0,0.0,0.0,342:56,53.0,65.0,0.0,02:00,340:27,0.0,5.66,0.0,0.0,00:29,9.0,469.0
+0,20182019,Springfield Thunderbirds,AHL,39667,21,23,45,51,45,1,44,,,,,,,,,,,,,,,,
+0,20192020,Florida Panthers,National Hockey League,1,4,0,24,21,24,0,4,0.0,0.0,0.0,220:21,33.0,37.0,0.0,01:36,218:45,0.0,0.0,0.0,0.0,00:00,7.0,308.0
+0,20192020,Springfield Thunderbirds,AHL,39667,16,13,22,35,22,3,29,,,,,,,,,,,,,,,,
+0,20202021,Arizona Coyotes,National Hockey League,1,5,3,4,26,4,-6,8,0.0,0.0,0.0,311:17,39.0,94.0,0.0,03:46,307:31,30.77,7.7,0.0,0.0,00:00,5.0,444.0
+0,20212022,New York Rangers,National Hockey League,1,11,6,52,76,52,-10,17,0.0,2.0,0.0,933:49,94.0,153.0,0.0,14:56,916:53,25.0,6.4,0.0,0.0,02:00,17.0,1166.0

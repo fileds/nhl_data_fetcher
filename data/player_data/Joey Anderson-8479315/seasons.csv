@@ -1,0 +1,24 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Hill-Murray School,USHS-MN,23042,9,14,2,12,2,0.0,23,,,,,,,,,,,,,,,,
+0,20132014,Northeast,UMHSEL,1,10,13,6,20,6,,23,,,,,,,,,,,,,,,,
+0,20132014,Hill-Murray,High-MN,2,29,21,16,25,16,,50,,,,,,,,,,,,,,,,
+0,20142015,USNTDP,USHL,1,10,14,6,35,6,-8.0,24,87.0,5.0,16.1,2.0,0.0,,,,,,,,,,,
+0,20142015,USNTDP,U-17,2,11,7,2,20,2,,18,,,,,,,,,,,,,,,,
+0,20152016,USAHNTDP,USHL,1,10,10,14,25,14,14.0,20,84.0,4.0,11.9,1.0,0.0,,,,,,,,,,,
+0,20152016,USAHNTDP,U-18,2,20,17,6,39,6,,37,,,,,,,,,,,,,,,,
+0,20152016,U.S.A.,WJ18-A,3,2,7,2,7,2,12.0,9,18.0,4.0,,1.0,2.0,,,,,,,,,,,
+0,20152016,USA U18,WJC-18,17253,2,7,2,7,2,12.0,9,,,,,,,,,,,,,,,,
+0,20152016,U.S. National U18 Team,USDP,19564,30,27,20,64,20,,57,,,,,,,,,,,,,,,,
+0,20152016,USNTDP Juniors,USHL,52486,10,10,14,25,14,14.0,20,,,,,,,,,,,,,,,,
+0,20162017,USA U20,WJC-20,17276,2,0,0,7,0,1.0,2,,,,,,,,,,,,,,,,
+0,20162017,Univ. of Minnesota-Duluth,NCAA,18500,25,12,8,39,8,11.0,37,,,,,,,,,,,,,,,,
+0,20172018,USA U20,WJC-20,17276,3,4,0,7,0,4.0,7,,,,,,,,,,,,,,,,
+0,20172018,Univ. of Minnesota-Duluth,NCAA,18500,16,11,20,36,20,14.0,27,,,,,,,,,,,,,,,,
+0,20182019,New Jersey Devils,National Hockey League,1,3,4,6,34,6,-7.0,7,49.0,0.0,8.16,1.0,1.0,438:39,42.0,0.0,06:55,388:19,52.94,0.0,1.0,43:25,11.0,582.0
+0,20182019,Binghamton Devils,AHL,233827,4,2,5,13,5,-2.0,6,,,,,,,,,,,,,,,,
+0,20192020,New Jersey Devils,National Hockey League,1,2,4,2,18,2,1.0,6,21.0,0.0,19.0,0.0,0.0,237:54,16.0,0.0,01:13,201:18,50.0,0.0,0.0,35:23,6.0,320.0
+0,20192020,Binghamton Devils,AHL,233827,19,15,2,44,2,0.0,34,,,,,,,,,,,,,,,,
+0,20202021,Toronto Maple Leafs,National Hockey League,1,0,0,2,1,2,1.0,0,0.0,0.0,0.0,0.0,0.0,09:36,0.0,0.0,00:00,09:36,0.0,0.0,0.0,00:00,3.0,13.0
+0,20202021,Toronto Marlies,AHL,13377,4,7,10,20,10,-1.0,11,,,,,,,,,,,,,,,,
+0,20212022,Toronto Maple Leafs,National Hockey League,1,0,0,0,5,0,0.0,0,10.0,0.0,0.0,0.0,0.0,43:52,3.0,0.0,00:00,43:37,0.0,0.0,0.0,00:15,0.0,66.0
+0,20212022,Toronto Marlies,AHL,13377,16,26,19,56,19,8.0,42,,,,,,,,,,,,,,,,

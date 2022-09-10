@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Team PEI U14 (ACC),ACC-U14,163940,1,1,2,4,2,2,,,,,,,,,,,,,,,,,
+0,20132014,Summerside Capitals Bantam AAA,PEIBAAA,165561,17,14,6,29,6,31,,,,,,,,,,,,,,,,,
+0,20142015,Team PEI,CWG,91765,4,4,6,6,6,8,,,,,,,,,,,,,,,,,
+0,20142015,Team PEI U15 (ACC),ACC-U15,163901,1,1,10,5,10,2,,,,,,,,,,,,,,,,,
+0,20152016,Team Prince Edward Island,QGC-16,154205,0,0,2,5,2,0,,,,,,,,,,,,,,,,,
+0,20162017,Acadie-Bathurst Titan,QMJHL,9570,19,7,40,63,40,26,34.0,,,,,,,,,,,,,,,,
+0,20162017,Canada Red U17,WHC-17,163770,0,0,2,5,2,0,,,,,,,,,,,,,,,,,
+0,20172018,Acadie-Bathurst Titan,M-Cup,9311,5,2,4,4,4,7,5.0,,,,,,,,,,,,,,,,
+0,20172018,Acadie-Bathurst Titan,QMJHL,9570,52,17,52,67,52,69,33.0,,,,,,,,,,,,,,,,
+0,20172018,Canada U18,Hlinka Gretzky Cup,144760,3,0,0,5,0,3,,,,,,,,,,,,,,,,,
+0,20182019,Rouyn-Noranda Huskies,M-Cup,9401,2,1,4,5,4,3,4.0,,,,,,,,,,,,,,,,
+0,20182019,Acadie-Bathurst Titan,QMJHL,9570,7,9,36,28,36,16,-30.0,,,,,,,,,,,,,,,,
+0,20182019,Rouyn-Noranda Huskies,QMJHL,9660,30,6,24,28,24,36,40.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U20,WJC-20,17216,0,1,2,5,2,1,4.0,,,,,,,,,,,,,,,,
+0,20192020,New York Islanders,National Hockey League,1,6,1,8,34,8,7,-1.0,451:25,37.0,25.0,0.0,1.0,30:27,419:01,0.0,2.7,0.0,0.0,0.0,0.0,01:57,31.0,589.0
+0,20202021,New York Islanders,National Hockey League,1,11,3,8,46,8,14,1.0,754:07,69.0,40.0,0.0,5.0,85:11,666:01,0.0,4.3,0.0,0.0,0.0,0.0,02:55,59.0,954.0
+0,20212022,New York Islanders,National Hockey League,1,38,13,18,80,18,51,-3.0,1716:52,190.0,78.0,3.0,22.0,209:26,1453:18,0.0,6.8,4.0,1.0,0.0,0.0,54:08,154.0,1980.0

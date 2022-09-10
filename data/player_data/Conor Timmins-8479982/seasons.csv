@@ -1,0 +1,12 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Sthrn Tier Admirals Mn Mdgt AAA,SCTAMM,123724,18,4,39,38,39,0,22,,,,,,,,,,,,,,,,
+0,20142015,Thorold Blackhawks,GOJHL,22940,8,2,28,15,28,0,10,,,,,,,,,,,,,,,,
+0,20152016,Soo Greyhounds,OHL,6918,9,4,20,60,20,27,13,,,,,,,,,,,,,,,,
+0,20162017,Soo Greyhounds,OHL,6918,54,7,69,67,69,53,61,,,,,,,,,,,,,,,,
+0,20172018,Soo Greyhounds,OHL,6918,33,8,43,36,43,18,41,,,,,,,,,,,,,,,,
+0,20172018,Canada U20,WJC-20,17216,4,1,4,7,4,15,5,,,,,,,,,,,,,,,,
+0,20192020,Colorado Avalanche,National Hockey League,1,0,0,0,2,0,2,0,20:49,1.0,0.0,0.0,0.0,00:04,19:32,0.0,0.0,0.0,0.0,0.0,0.0,01:13,0.0,34.0
+0,20192020,Colorado Eagles,AHL,8957,24,3,38,40,38,-1,27,,,,,,,,,,,,,,,,
+0,20202021,Colorado Avalanche,National Hockey League,1,7,0,8,31,8,6,7,420:09,31.0,18.0,0.0,0.0,05:37,401:07,0.0,0.0,0.0,0.0,0.0,0.0,13:25,22.0,567.0
+0,20202021,Colorado Eagles,AHL,8957,3,1,4,6,4,-3,4,,,,,,,,,,,,,,,,
+0,20212022,Arizona Coyotes,National Hockey League,1,0,0,0,6,0,-6,0,106:29,5.0,7.0,0.0,0.0,04:43,95:49,0.0,0.0,0.0,0.0,0.0,0.0,05:57,9.0,129.0

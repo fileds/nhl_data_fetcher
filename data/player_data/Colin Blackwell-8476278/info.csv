@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476278,Colin Blackwell,/api/v1/people/8476278,Colin,Blackwell,43,1993-03-28,29,North Andover,MA,USA,USA,"5' 9""",190,True,False,False,False,R,Y,"{'id': 16, 'name': 'Chicago Blackhawks', 'link': '/api/v1/teams/16'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

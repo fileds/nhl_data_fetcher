@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Clemensnäs HC J18,J18 Elit,25874,0,0,0,2,0,-1.0,0,,,,,,,,,,,,,,,,
+0,20142015,Clemensnäs HC J18,J18 Elit,25874,11,8,26,35,26,-22.0,19,,,,,,,,,,,,,,,,
+0,20152016,Timrå IK J18,J18 Region,7188,5,3,12,16,12,7.0,8,,,,,,,,,,,,,,,,
+0,20152016,Västerbotten,TV-Pucken,11126,1,1,2,4,2,,2,,,,,,,,,,,,,,,,
+0,20152016,Timrå IK U16,U16 SM,96307,6,10,4,8,4,,16,,,,,,,,,,,,,,,,
+0,20162017,AIK,HockeyAllsvenskan,1240,3,5,18,24,18,0.0,8,,,,,,,,,,,,,,,,
+0,20162017,AIK J20,J20 Nationell,5769,1,2,18,12,18,-6.0,3,,,,,,,,,,,,,,,,
+0,20162017,AIK J18,J18 Allsvenskan,6219,0,0,6,1,6,0.0,0,,,,,,,,,,,,,,,,
+0,20162017,AIK J18,J18 Region,7068,2,4,43,10,43,8.0,6,,,,,,,,,,,,,,,,
+0,20162017,Sweden U17,WHC-17,61300,0,0,18,6,18,,0,,,,,,,,,,,,,,,,
+0,20172018,AIK,HockeyAllsvenskan,1240,4,3,6,34,6,1.0,7,,,,,,,,,,,,,,,,
+0,20172018,AIK J20,J20 Nationell,5769,8,14,53,22,53,6.0,22,,,,,,,,,,,,,,,,
+0,20172018,AIK J18,J18 Region,7068,0,1,2,1,2,2.0,1,,,,,,,,,,,,,,,,
+0,20172018,Sweden U18,WJC-18,8573,0,0,2,7,2,0.0,0,,,,,,,,,,,,,,,,
+0,20182019,Rögle BK,SHL,1119,7,7,22,50,22,-8.0,14,,,,,,,,,,,,,,,,
+0,20192020,Rögle BK,SHL,1119,7,9,39,41,39,-5.0,16,,,,,,,,,,,,,,,,
+0,20192020,Sweden U20,WJC-20,8596,6,5,27,7,27,6.0,11,,,,,,,,,,,,,,,,
+0,20202021,Vancouver Canucks,National Hockey League,1,14,13,16,56,16,-4.0,27,864:47,118.0,26.0,1.0,1.0,79:45,783:30,50.0,11.0,1.0,0.0,0.0,0.0,01:32,19.0,1197.0
+0,20202021,Rögle BK,SHL,1119,9,5,33,23,33,7.0,14,,,,,,,,,,,,,,,,
+0,20212022,Vancouver Canucks,National Hockey League,1,8,10,24,60,24,-6.0,18,785:20,132.0,41.0,1.0,3.0,59:12,725:12,0.0,7.6,0.0,0.0,0.0,0.0,00:56,16.0,1097.0

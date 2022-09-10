@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8480855,Jack McBain,/api/v1/people/8480855,Jack,McBain,22,2000-01-06,22,Toronto,ON,CAN,CAN,"6' 3""",201,True,False,False,True,L,Y,"{'id': 53, 'name': 'Arizona Coyotes', 'link': '/api/v1/teams/53'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,Halifax ACCEL Physio U15,NSU15MHL,126104,7,1,8,27,8,8,,,,,,,,,,,,,,,,,
+0,20142015,Team Nova Scotia U14 (ACC),ACC-U14,163910,2,0,4,5,4,2,,,,,,,,,,,,,,,,,
+0,20152016,Halifax ACCEL Physio U15,NSU15MHL,126104,10,8,26,31,26,18,,,,,,,,,,,,,,,,,
+0,20152016,Team Nova Scotia U15 (ACC),ACC-U15,163881,1,1,2,5,2,2,,,,,,,,,,,,,,,,,
+0,20162017,Team Nova Scotia,QGC-16,154235,2,0,0,5,0,2,,,,,,,,,,,,,,,,,
+0,20162017,Halifax McDonald's U18,NSU18MHL,158425,19,6,2,38,2,25,,,,,,,,,,,,,,,,,
+0,20172018,Halifax Mooseheads,QMJHL,9610,19,2,8,51,8,21,18.0,,,,,,,,,,,,,,,,
+0,20172018,Canada Red U17,WHC-17,163770,1,0,2,6,2,1,,,,,,,,,,,,,,,,,
+0,20172018,Team Green,U17-Dev,178259,0,0,3,3,3,0,,,,,,,,,,,,,,,,,
+0,20182019,Halifax Mooseheads,M-Cup,9351,1,0,4,4,4,1,2.0,,,,,,,,,,,,,,,,
+0,20182019,Halifax Mooseheads,QMJHL,9610,32,9,34,68,34,41,42.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U18,Hlinka Gretzky Cup,144760,5,0,0,5,0,5,,,,,,,,,,,,,,,,,
+0,20192020,Halifax Mooseheads,QMJHL,9610,15,4,6,34,6,19,-19.0,,,,,,,,,,,,,,,,
+0,20202021,Colorado Eagles,AHL,8957,3,1,4,7,4,4,2.0,,,,,,,,,,,,,,,,
+0,20202021,Halifax Mooseheads,QMJHL,9610,23,8,40,33,40,31,0.0,,,,,,,,,,,,,,,,
+0,20202021,Canada U20,WJC-20,17216,2,0,0,7,0,2,5.0,,,,,,,,,,,,,,,,
+0,20212022,Colorado Avalanche,National Hockey League,1,0,0,0,2,0,0,-1.0,25:10,0.0,1.0,0.0,0.0,00:00,23:31,0.0,0.0,0.0,0.0,0.0,0.0,01:39,1.0,40.0
+0,20212022,Montréal Canadiens,National Hockey League,2,1,1,0,5,0,2,-2.0,95:05,13.0,4.0,0.0,0.0,06:15,84:19,0.0,7.7,0.0,0.0,0.0,0.0,04:31,4.0,119.0
+0,20212022,Colorado Eagles,AHL,8957,15,5,8,43,8,20,10.0,,,,,,,,,,,,,,,,

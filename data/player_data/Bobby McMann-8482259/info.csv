@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,nationality,active,alternateCaptain,captain,rookie,rosterStatus,currentTeam,primaryPosition
+0,8482259,Bobby McMann,/api/v1/people/8482259,Bobby,McMann,1996-06-15,26,CAN,True,False,False,True,Y,"{'id': 10, 'name': 'Toronto Maple Leafs', 'link': '/api/v1/teams/10'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

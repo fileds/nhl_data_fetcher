@@ -1,0 +1,27 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Värmland,TV-Pucken,11116,5,2,6,8,6,4.0,7,,,,,,,,,,,,,,,,
+0,20112012,Färjestad BK U16,U16 SM,43127,2,2,2,6,2,-3.0,4,,,,,,,,,,,,,,,,
+0,20122013,Färjestad BK J18,J18 Region,7098,9,6,6,16,6,8.0,15,,,,,,,,,,,,,,,,
+0,20122013,Värmland,TV-Pucken,11116,8,4,4,8,4,5.0,12,,,,,,,,,,,,,,,,
+0,20122013,Färjestad BK U16,U16 SM,43127,8,5,4,6,4,10.0,13,,,,,,,,,,,,,,,,
+0,20132014,Farjestad U18,Swe-U18,1,15,12,41,17,41,,27,,,,,,,,,,,,,,,,
+0,20132014,Farjestad Jr.,Swe-Jr.,2,7,7,12,38,12,,14,,,,,,,,,,,,,,,,
+0,20142015,Farjestad Jr.,Swe-Jr.,1,17,8,14,19,14,,25,,,,,,,,,,,,,,,,
+0,20142015,Farjestad,Sweden,2,1,2,4,35,4,,3,,,,,,,,,,,,,,,,
+0,20152016,Farjestad,Sweden,1,8,4,16,46,16,,12,,,,,,,,,,,,,,,,
+0,20152016,Färjestad BK,Champions HL,152,1,0,4,6,4,0.0,1,,,,,,,,,,,,,,,,
+0,20152016,Färjestad BK,SHL,839,8,4,16,46,16,10.0,12,,,,,,,,,,,,,,,,
+0,20152016,Sweden U20,WJC-20,8596,2,3,6,7,6,3.0,5,,,,,,,,,,,,,,,,
+0,20162017,Färjestad BK,Champions HL,152,4,1,0,6,0,2.0,5,,,,,,,,,,,,,,,,
+0,20162017,Färjestad BK,SHL,839,13,6,10,39,10,3.0,19,,,,,,,,,,,,,,,,
+0,20162017,Sweden U20,WJC-20,8596,6,1,0,7,0,5.0,7,,,,,,,,,,,,,,,,
+0,20172018,Färjestad BK,SHL,839,20,8,20,50,20,4.0,28,,,,,,,,,,,,,,,,
+0,20172018,Sweden,EHT,89816,0,0,2,6,2,-4.0,0,,,,,,,,,,,,,,,,
+0,20182019,Rochester Americans,AHL,1047,31,10,26,75,26,7.0,41,,,,,,,,,,,,,,,,
+0,20192020,Buffalo Sabres,National Hockey League,1,2,1,6,29,6,-4.0,3,314:11,36.0,20.0,0.0,0.0,00:56,261:48,42.98,2.8,0.0,0.0,0.0,1.0,51:27,7.0,445.0
+0,20192020,Rochester Americans,AHL,1047,16,3,2,33,2,-7.0,19,,,,,,,,,,,,,,,,
+0,20202021,Buffalo Sabres,National Hockey League,1,4,7,0,28,0,1.0,11,359:56,34.0,15.0,0.0,0.0,00:23,338:26,35.29,20.6,2.0,0.0,0.0,0.0,21:07,3.0,481.0
+0,20202021,Rochester Americans,AHL,1047,2,0,0,3,0,-2.0,2,,,,,,,,,,,,,,,,
+0,20202021,Västerås IK,HockeyAllsvenskan,4310,5,4,6,14,6,-1.0,9,,,,,,,,,,,,,,,,
+0,20212022,Buffalo Sabres,National Hockey League,1,19,8,10,80,10,-5.0,27,1142:13,130.0,30.0,2.0,4.0,86:28,996:23,42.62,6.2,1.0,1.0,1.0,1.0,59:22,14.0,1521.0
+0,20212022,Sweden,WC,6815,0,6,2,8,2,-1.0,6,,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,CRAA Blue Bantam AA,HCBAA,128578,8,2,28,25,28,0.0,10,,,,,,,,,,,,,,,,
+0,20112012,Calgary Royals Bantam AAA,AMBHL,64168,9,3,18,33,18,0.0,12,,,,,,,,,,,,,,,,
+0,20122013,Calgary Royals Midget AAA,AMHL,36957,10,1,12,28,12,0.0,11,,,,,,,,,,,,,,,,
+0,20132014,Cgy. Royals,AMHL,1,10,7,10,32,10,,17,,,,,,,,,,,,,,,,
+0,20132014,Swift Current,WHL,2,0,0,0,1,0,0.0,0,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20142015,Swift Current,WHL,1,34,7,22,72,22,-10.0,41,,,,,,,,,,,,,,,,
+0,20152016,Swift Current,WHL,1,29,8,28,62,28,-21.0,37,,,,,,,,,,,,,,,,
+0,20152016,Swift Current Broncos,WHL,9491,29,8,28,62,28,-21.0,37,,,,,,,,,,,,,,,,
+0,20162017,Swift Current Broncos,WHL,9491,35,7,26,68,26,20.0,42,,,,,,,,,,,,,,,,
+0,20172018,Brampton Beast,ECHL,150795,0,0,2,1,2,-1.0,0,,,,,,,,,,,,,,,,
+0,20172018,Belleville Senators,AHL,227817,14,1,12,56,12,-9.0,15,,,,,,,,,,,,,,,,
+0,20182019,Ottawa Senators,National Hockey League,1,8,7,20,56,20,-25.0,15,4.0,0.0,0.0,1058:43,79.0,34.0,8.0,92:12,862:55,0.0,8.86,0.0,0.0,103:36,82.0,1393.0
+0,20182019,Belleville Senators,AHL,227817,1,0,0,3,0,2.0,1,,,,,,,,,,,,,,,,
+0,20192020,Ottawa Senators,National Hockey League,1,0,0,0,6,0,0.0,0,0.0,0.0,0.0,46:54,3.0,2.0,0.0,00:39,46:15,0.0,0.0,0.0,0.0,00:00,3.0,79.0
+0,20192020,Belleville Senators,AHL,227817,13,4,24,48,24,-1.0,17,,,,,,,,,,,,,,,,
+0,20202021,Chicago Wolves,AHL,957,15,6,24,27,24,9.0,21,,,,,,,,,,,,,,,,
+0,20212022,Carolina Hurricanes,National Hockey League,1,0,0,0,5,0,2.0,0,0.0,0.0,0.0,62:42,6.0,3.0,0.0,05:50,56:52,0.0,0.0,0.0,0.0,00:00,5.0,79.0
+0,20212022,Chicago Wolves,AHL,957,29,4,10,60,10,11.0,33,,,,,,,,,,,,,,,,

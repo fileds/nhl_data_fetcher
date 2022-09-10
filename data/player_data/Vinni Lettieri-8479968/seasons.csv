@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Minnetonka High,USHS-MN,28132,22,15,12,25,12,0,37,,,,,,,,,,,,,,,,
+0,20112012,Lincoln Stars,USHL,8518,4,4,14,15,14,2,8,,,,,,,,,,,,,,,,
+0,20122013,Lincoln Stars,USHL,8518,28,28,35,61,35,29,56,,,,,,,,,,,,,,,,
+0,20132014,Univ. of Minnesota,NCAA,7830,6,2,8,37,8,8,8,,,,,,,,,,,,,,,,
+0,20142015,Univ. of Minnesota,NCAA,7830,3,9,14,37,14,6,12,,,,,,,,,,,,,,,,
+0,20152016,Univ. of Minnesota,NCAA,8320,19,7,18,37,18,-4,26,,,,,,,,,,,,,,,,
+0,20162017,Hartford Wolf Pack,AHL,847,1,0,4,9,4,-4,1,,,,,,,,,,,,,,,,
+0,20162017,Univ. of Minnesota,NCAA,8320,18,19,36,38,36,7,37,,,,,,,,,,,,,,,,
+0,20172018,New York Rangers,National Hockey League,1,4,1,0,19,0,-12,5,229:04,28.0,22.0,0.0,1.0,28:05,200:51,41.67,3.57,0.0,0.0,0.0,0.0,00:08,6.0,325.0
+0,20172018,Hartford Wolf Pack,AHL,847,13,23,31,55,31,0,36,,,,,,,,,,,,,,,,
+0,20182019,New York Rangers,National Hockey League,1,2,1,14,27,14,-7,3,274:12,40.0,41.0,1.0,2.0,15:10,254:18,53.85,2.5,0.0,0.0,0.0,0.0,04:44,11.0,359.0
+0,20182019,Hartford Wolf Pack,AHL,847,25,23,22,48,22,-10,48,,,,,,,,,,,,,,,,
+0,20192020,Hartford Wolf Pack,AHL,847,22,25,46,61,46,-4,47,,,,,,,,,,,,,,,,
+0,20202021,Anaheim Ducks,National Hockey League,1,0,0,0,5,0,-3,0,63:36,7.0,9.0,0.0,0.0,09:18,54:18,40.0,0.0,0.0,0.0,0.0,0.0,00:00,1.0,76.0
+0,20202021,San Diego Gulls,AHL,85177,12,14,12,22,12,-5,26,,,,,,,,,,,,,,,,
+0,20212022,Anaheim Ducks,National Hockey League,1,5,5,6,31,6,-8,10,387:59,50.0,40.0,2.0,5.0,51:24,336:05,52.17,10.0,0.0,0.0,0.0,0.0,00:30,17.0,477.0
+0,20212022,USA,WC,17215,0,0,4,10,4,-1,0,,,,,,,,,,,,,,,,
+0,20212022,San Diego Gulls,AHL,85177,14,8,8,24,8,-2,22,,,,,,,,,,,,,,,,

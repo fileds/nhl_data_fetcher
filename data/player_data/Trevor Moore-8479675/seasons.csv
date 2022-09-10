@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Los Angeles Selects HC  U16,T1EHL U16,94528,22,19,47,35,47,0,41,,,,,,,,,,,,,,,,
+0,20112012,Tri-City Storm,USHL,27178,20,12,6,49,6,-3,32,,,,,,,,,,,,,,,,
+0,20122013,Tri-City Storm,USHL,27178,43,20,26,62,26,-20,63,,,,,,,,,,,,,,,,
+0,20132014,U. of Denver,NCHC,1,18,14,14,42,14,16,32,98.0,3.0,14.3,5.0,0.0,,,,,,,,,,,
+0,20142015,U. of Denver,NCHC,1,22,22,7,39,7,19,44,104.0,2.0,21.2,4.0,0.0,,,,,,,,,,,
+0,20152016,U. of Denver,NCHC,1,33,11,8,40,8,16,44,136.0,3.0,8.1,2.0,0.0,,,,,,,,,,,
+0,20152016,Univ. of Denver,NCAA,20900,33,11,8,40,8,16,44,,,,,,,,,,,,,,,,
+0,20162017,Toronto Marlies,AHL,13377,20,13,18,57,18,9,33,,,,,,,,,,,,,,,,
+0,20172018,Toronto Marlies,AHL,13377,21,12,22,68,22,1,33,,,,,,,,,,,,,,,,
+0,20182019,Toronto Maple Leafs,National Hockey League,1,6,2,2,25,2,1,8,26.0,0.0,7.69,0.0,0.0,227:21,15.0,0.0,05:59,220:36,0.0,0.0,0.0,00:46,7.0,335.0
+0,20182019,Toronto Marlies,AHL,13377,16,23,22,46,22,1,39,,,,,,,,,,,,,,,,
+0,20192020,Toronto Maple Leafs,National Hockey League,1,2,3,4,27,4,-3,5,41.0,0.0,7.3,0.0,0.0,347:57,53.0,0.0,28:18,276:32,25.0,0.0,1.0,43:07,12.0,519.0
+0,20192020,Los Angeles Kings,National Hockey League,2,2,3,2,15,2,-1,5,19.0,0.0,15.8,0.0,0.0,193:46,7.0,0.0,01:07,181:17,33.33,0.0,0.0,11:22,5.0,288.0
+0,20192020,Toronto Marlies,AHL,13377,1,1,2,2,2,-1,2,,,,,,,,,,,,,,,,
+0,20202021,Los Angeles Kings,National Hockey League,1,13,10,18,56,18,-5,23,88.0,1.0,11.4,0.0,2.0,814:09,38.0,2.0,40:11,697:05,33.33,0.0,2.0,76:53,10.0,1094.0
+0,20202021,USA,WC,17215,4,5,4,10,4,7,9,,,,,,,,,,,,,,,,
+0,20212022,Los Angeles Kings,National Hockey League,1,31,17,20,81,20,20,48,202.0,1.0,8.4,1.0,5.0,1270:41,69.0,2.0,83:46,1087:46,41.79,0.0,6.0,99:09,32.0,1723.0

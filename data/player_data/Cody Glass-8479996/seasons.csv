@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20082009,Winnipeg Jr. Jets (Brick),Brick Invitational,128806,2,0,2,5,2,2,,,,,,,,,,,,,,,,,
+0,20132014,Winnipeg Hawks Bantam AAA,WBAAA,129119,46,31,4,32,4,77,0.0,,,,,,,,,,,,,,,,
+0,20142015,Portland Winterhawks,WHL,8511,0,0,0,3,0,0,0.0,,,,,,,,,,,,,,,,
+0,20142015,Winnipeg Thrashers U18 AAA,MU18HL,48350,32,23,26,40,26,55,,,,,,,,,,,,,,,,,
+0,20142015,Team Manitoba,CWG,90815,0,0,0,6,0,0,,,,,,,,,,,,,,,,,
+0,20152016,Portland Winterhawks,WHL,8511,17,10,20,65,20,27,-2.0,,,,,,,,,,,,,,,,
+0,20152016,Canada Red U17,WHC-17,163770,0,0,0,6,0,0,,,,,,,,,,,,,,,,,
+0,20152016,Team Red,U17-Dev,178229,1,0,2,3,2,1,,,,,,,,,,,,,,,,,
+0,20162017,Portland Winterhawks,WHL,8511,62,32,36,69,36,94,31.0,,,,,,,,,,,,,,,,
+0,20162017,Canada U18,WJC-18,17193,1,2,0,3,0,3,-1.0,,,,,,,,,,,,,,,,
+0,20172018,Portland Winterhawks,WHL,8511,65,37,26,64,26,102,42.0,,,,,,,,,,,,,,,,
+0,20182019,Chicago Wolves,AHL,957,2,3,2,6,2,5,0.0,,,,,,,,,,,,,,,,
+0,20182019,Portland Winterhawks,WHL,8511,54,15,18,38,18,69,16.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U20,WJC-20,17216,4,2,2,5,2,6,4.0,,,,,,,,,,,,,,,,
+0,20192020,Vegas Golden Knights,National Hockey League,1,7,5,6,39,6,12,-7.0,521:03,51.0,15.0,1.0,6.0,86:50,433:12,41.96,9.8,1.0,0.0,0.0,0.0,01:01,6.0,627.0
+0,20192020,Chicago Wolves,AHL,957,1,1,0,2,0,2,2.0,,,,,,,,,,,,,,,,
+0,20202021,Vegas Golden Knights,National Hockey League,1,6,4,8,27,8,10,6.0,392:35,28.0,10.0,4.0,5.0,62:17,329:22,42.47,14.3,0.0,0.0,0.0,0.0,00:56,9.0,493.0
+0,20202021,Henderson Silver Knights,AHL,307807,6,4,24,14,24,10,4.0,,,,,,,,,,,,,,,,
+0,20212022,Nashville Predators,National Hockey League,1,1,0,0,8,0,1,0.0,91:16,9.0,13.0,0.0,0.0,15:06,76:10,35.09,0.0,0.0,0.0,0.0,0.0,00:00,4.0,132.0
+0,20212022,Milwaukee Admirals,AHL,1017,48,14,20,66,20,62,15.0,,,,,,,,,,,,,,,,

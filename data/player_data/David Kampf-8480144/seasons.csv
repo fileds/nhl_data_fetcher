@@ -1,0 +1,28 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Pirati Chomutov U16,Czech U16,83627,7,3,10,29,10,-18,10,,,,,,,,,,,,,,,,
+0,20102011,Pirati Chomutov U18,Czech U18,40742,1,1,0,9,0,1,2,,,,,,,,,,,,,,,,
+0,20102011,Pirati Chomutov U16,Czech U16,83627,22,17,34,34,34,1,39,,,,,,,,,,,,,,,,
+0,20112012,Pirati Chomutov U18,Czech U18,40742,29,17,2,42,2,19,46,,,,,,,,,,,,,,,,
+0,20112012,Czech Republic U17,WHC-17,60621,0,0,4,5,4,0,0,,,,,,,,,,,,,,,,
+0,20122013,Piráti Chomutov,Czech,6801,0,0,0,2,0,0,0,,,,,,,,,,,,,,,,
+0,20122013,SK Kadan,Czech2,14303,3,0,0,6,0,1,3,,,,,,,,,,,,,,,,
+0,20122013,Czech Republic U18,WJC-18,16053,2,2,6,5,6,-3,4,,,,,,,,,,,,,,,,
+0,20122013,Pirati Chomutov U18,Czech U18,40742,13,13,8,14,8,15,26,,,,,,,,,,,,,,,,
+0,20122013,Pirati Chomutov U20,Czech U20,40753,7,8,16,24,16,7,15,,,,,,,,,,,,,,,,
+0,20132014,Piráti Chomutov,Czech,6801,2,1,12,45,12,-11,3,,,,,,,,,,,,,,,,
+0,20132014,SK Kadan,Czech2,14303,2,0,2,5,2,0,2,,,,,,,,,,,,,,,,
+0,20132014,Czech Republic U20,WJC-20,16074,1,1,4,5,4,-3,2,,,,,,,,,,,,,,,,
+0,20132014,Pirati Chomutov U20,Czech U20,40753,10,5,6,8,6,11,15,,,,,,,,,,,,,,,,
+0,20142015,Piráti Chomutov,Czech2,6913,13,11,16,44,16,17,24,,,,,,,,,,,,,,,,
+0,20142015,Czech Republic U20,WJC-20,16074,2,0,0,5,0,-1,2,,,,,,,,,,,,,,,,
+0,20142015,Pirati Chomutov U20,Czech U20,40753,6,0,6,3,6,3,6,,,,,,,,,,,,,,,,
+0,20152016,Pirati Chomutov,Czech,6936,4,9,22,42,22,-6,13,,,,,,,,,,,,,,,,
+0,20162017,Pirati Chomutov,Czech,6936,16,15,16,52,16,-9,31,,,,,,,,,,,,,,,,
+0,20162017,Czechia,EHT,68526,1,1,2,8,2,-1,2,,,,,,,,,,,,,,,,
+0,20172018,Chicago Blackhawks,National Hockey League,1,7,4,12,46,12,-9,11,588:47,46.0,29.0,0.0,0.0,03:49,517:07,53.01,8.7,0.0,0.0,0.0,0.0,67:51,23.0,855.0
+0,20172018,Rockford IceHogs,AHL,8267,11,7,14,33,14,1,18,,,,,,,,,,,,,,,,
+0,20182019,Chicago Blackhawks,National Hockey League,1,15,4,14,63,14,-6,19,876:59,72.0,39.0,0.0,0.0,07:08,752:52,45.32,5.56,0.0,0.0,0.0,0.0,116:59,30.0,1261.0
+0,20192020,Chicago Blackhawks,National Hockey League,1,8,8,8,70,8,-11,16,956:41,90.0,52.0,0.0,0.0,02:53,802:09,52.34,8.9,2.0,0.0,1.0,1.0,151:39,26.0,1311.0
+0,20202021,Chicago Blackhawks,National Hockey League,1,11,1,20,56,20,-3,12,821:21,63.0,45.0,0.0,0.0,01:26,690:34,52.77,1.6,0.0,0.0,0.0,0.0,129:21,14.0,1116.0
+0,20212022,Toronto Maple Leafs,National Hockey League,1,15,11,20,82,20,12,26,1251:48,102.0,80.0,0.0,0.0,06:03,1041:56,52.88,10.8,1.0,0.0,2.0,4.0,203:49,26.0,1715.0
+0,20212022,Czechia,WC,17015,1,2,0,6,0,2,3,,,,,,,,,,,,,,,,

@@ -1,0 +1,15 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Brampton,Minor-ON,1,15,12,18.0,40,18,27,,,,,,,,,,,,,,,,,
+0,20142015,Hill Academy,High-ON,1,47,40,,66,,87,,,,,,,,,,,,,,,,,
+0,20152016,Carleton Place,ON-Jr.A,1,32,14,16.0,48,16,46,5.0,2.0,0.0,,,,,,,,,,,,,,
+0,20152016,Carleton Place Canadians,CCHL,63076,32,14,16.0,48,16,46,,,,,,,,,,,,,,,,,
+0,20152016,Canada East U19,WJAC-19,87362,0,2,4.0,5,4,2,,,,,,,,,,,,,,,,,
+0,20162017,Penn State Univ.,NCAA,21740,1,0,4.0,12,4,1,,,,-1.0,,,,,,,,,,,,,
+0,20162017,Youngstown Phantoms,USHL,27206,13,7,22.0,27,22,20,,,,9.0,,,,,,,,,,,,,
+0,20172018,Penn State Univ.,NCAA,21740,5,1,23.0,21,23,6,,,,-6.0,,,,,,,,,,,,,
+0,20182019,Youngstown Phantoms,USHL,27206,35,41,35.0,62,35,76,,,,13.0,,,,,,,,,,,,,
+0,20192020,Rochester Americans,AHL,1047,15,9,10.0,55,10,24,,,,2.0,,,,,,,,,,,,,
+0,20202021,Buffalo Sabres,National Hockey League,1,0,0,0.0,2,0,0,0.0,0.0,0.0,1.0,21:15,1.0,3.0,0.0,00:00,21:15,0.0,0.0,0.0,0.0,00:00,1.0,27.0
+0,20202021,Rochester Americans,AHL,1047,11,9,23.0,27,23,20,,,,-7.0,,,,,,,,,,,,,
+0,20212022,Buffalo Sabres,National Hockey League,1,4,2,23.0,19,23,6,0.0,0.0,0.0,-3.0,246:44,14.0,17.0,1.0,11:01,235:43,0.0,14.3,0.0,0.0,00:00,2.0,327.0
+0,20212022,Rochester Americans,AHL,1047,17,15,35.0,52,35,32,,,,-4.0,,,,,,,,,,,,,

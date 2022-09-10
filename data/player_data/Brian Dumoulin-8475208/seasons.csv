@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,faceOffPct,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20062007,Biddeford High,USHS-ME,47162,33,13,0,24,0,0.0,46,,,,,,,,,,,,,,,,
+0,20072008,Biddeford,High-ME,1,48,13,10,24,10,,61,0.0,,,,,,,,,,,,,,,
+0,20082009,N.H. Jr. Monarchs,EJHL,1,23,7,30,41,30,,30,,,,,,,,,,,,,,,,
+0,20092010,Boston College,H-East,1,21,1,16,42,16,,22,,,,,,,,,,,,,,,,
+0,20102011,Boston College,H-East,1,30,3,6,37,6,,33,,2.0,1.0,0.0,,,,,,,,,,,,
+0,20102011,U.S.A.,WJC-A,2,2,0,2,6,2,4.0,2,,0.0,0.0,0.0,,,,,,,,,,,,
+0,20112012,Boston College,H-East,1,21,7,26,44,26,,28,,2.0,2.0,0.0,,,,,,,,,,,,
+0,20122013,Wilkes-Barre,AHL,1,18,6,18,73,18,-11.0,24,,4.0,2.0,0.0,93.0,6.45,,,,,,,,,,
+0,20132014,Pittsburgh Penguins,National Hockey League,1,1,0,4,6,4,1.0,1,0.0,0.0,0.0,0.0,3.0,0.0,115:24,1.0,0.0,15:00,92:44,0.0,0.0,07:40,8.0,159.0
+0,20132014,Wilkes-Barre,AHL,2,16,5,21,53,21,2.0,21,,3.0,0.0,0.0,78.0,6.4,,,,,,,,,,
+0,20142015,Pittsburgh Penguins,National Hockey League,1,0,1,2,8,2,0.0,1,0.0,0.0,0.0,0.0,4.0,25.0,125:22,11.0,0.0,03:16,116:03,0.0,0.0,06:03,9.0,178.0
+0,20142015,Wilkes-Barre,AHL,2,29,4,18,62,18,25.0,33,,1.0,0.0,0.0,94.0,4.3,,,,,,,,,,
+0,20152016,Pittsburgh Penguins,National Hockey League,1,16,0,14,79,14,11.0,16,100.0,0.0,0.0,0.0,101.0,0.0,1491:58,77.0,0.0,36:00,1353:20,0.0,0.0,102:38,68.0,2124.0
+0,20162017,Pittsburgh Penguins,National Hockey League,1,14,1,14,70,14,0.0,15,0.0,0.0,0.0,0.0,78.0,1.28,1438:14,113.0,4.0,36:12,1273:52,0.0,0.0,128:10,99.0,1959.0
+0,20172018,Pittsburgh Penguins,National Hockey League,1,13,5,30,80,30,-5.0,18,0.0,0.0,1.0,0.0,102.0,4.9,1649:24,101.0,0.0,17:49,1429:01,0.0,0.0,202:34,132.0,2244.0
+0,20182019,Pittsburgh Penguins,National Hockey League,1,20,3,20,76,20,31.0,23,0.0,0.0,0.0,0.0,99.0,3.03,1597:55,141.0,0.0,09:58,1408:29,0.0,4.0,179:28,129.0,2110.0
+0,20192020,Pittsburgh Penguins,National Hockey League,1,7,1,10,28,10,17.0,8,0.0,0.0,0.0,1.0,35.0,2.9,589:33,44.0,1.0,18:22,511:31,0.0,1.0,59:40,35.0,742.0
+0,20202021,Pittsburgh Penguins,National Hockey League,1,10,4,12,41,12,18.0,14,0.0,0.0,0.0,0.0,50.0,8.0,916:32,63.0,0.0,05:33,798:11,0.0,1.0,112:48,55.0,1076.0
+0,20212022,Pittsburgh Penguins,National Hockey League,1,15,3,24,76,24,24.0,18,0.0,0.0,0.0,0.0,91.0,3.3,1658:10,88.0,0.0,05:32,1472:18,0.0,0.0,180:20,139.0,2040.0

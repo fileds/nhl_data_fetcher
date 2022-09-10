@@ -1,0 +1,13 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus
+0,20132014,Laval Patriotes Bantam AAA R,QBAA,154141,0,0,0,2,0,0,
+0,20142015,Monteuil Éclairs Midgets AA,QMAA,106006,0,0,0,2,0,0,
+0,20152016,École Georges-Vanier M17 Min,LHPS M17 Mineur,264829,20,15,14,30,14,35,
+0,20152016,École Georges-Vanier M15 Min,LHPS M15 Mineur,265205,14,15,4,18,4,29,
+0,20162017,Laval-Montréal Rousseau Royal,QM18AAA,62674,12,3,6,37,6,15,-6.0
+0,20162017,Blainville-Boisbriand Armada,QMJHL,102710,0,0,0,6,0,0,0.0
+0,20172018,Blainville-Boisbriand Armada,QMJHL,102710,12,2,8,57,8,14,16.0
+0,20182019,Blainville-Boisbriand Armada,QMJHL,102710,28,9,27,65,27,37,-32.0
+0,20192020,Blainville-Boisbriand Armada,QMJHL,102710,9,7,14,32,14,16,7.0
+0,20192020,Sherbrooke Phoenix,QMJHL,114420,23,4,12,29,12,27,6.0
+0,20202021,Bridgeport Islanders,AHL,827,8,6,10,24,10,14,5.0
+0,20212022,Bridgeport Islanders,AHL,827,5,2,16,57,16,7,-10.0

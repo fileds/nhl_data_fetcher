@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Long Island Gulls Bantam Major,AYBHL,138595,27,12,39,21,39,0.0,39,,,,,,,,,,,,,,,,
+0,20132014,Long Island U16,AYHL,1,37,14,38,22,38,,51,,,,,,,,,,,,,,,,
+0,20142015,USNTDP,USHL,1,14,3,26,34,26,-12.0,17,38.0,2.0,7.9,0.0,0.0,,,,,,,,,,,
+0,20142015,USNTDP,U-17,2,9,1,14,20,14,,10,,,,,,,,,,,,,,,,
+0,20152016,USAHNTDP,USHL,1,17,5,2,25,2,12.0,22,,,,,,,,,,,,,,,,
+0,20152016,USAHNTDP,U-18,2,33,4,10,39,10,,37,,,,,,,,,,,,,,,,
+0,20152016,U.S.A.,WJ18-A,3,8,1,0,7,0,15.0,9,16.0,0.0,6.3,0.0,0.0,,,,,,,,,,,
+0,20152016,USA U18,WJC-18,17253,8,1,0,7,0,15.0,9,,,,,,,,,,,,,,,,
+0,20152016,U.S. National U18 Team,USDP,19564,50,9,12,64,12,,59,,,,,,,,,,,,,,,,
+0,20152016,USNTDP Juniors,USHL,52486,17,5,2,25,2,12.0,22,,,,,,,,,,,,,,,,
+0,20162017,Harvard Univ.,NCAA,13950,34,6,6,35,6,19.0,40,,,,,,,,,,,,,,,,
+0,20162017,USA U20,WJC-20,17276,4,0,2,7,2,2.0,4,,,,,,,,,,,,,,,,
+0,20172018,Harvard Univ.,NCAA,13950,22,6,12,29,12,3.0,28,,,,,,,,,,,,,,,,
+0,20172018,USA U20,WJC-20,17276,4,1,0,7,0,6.0,5,,,,,,,,,,,,,,,,
+0,20182019,Harvard Univ.,NCAA,13950,39,9,14,33,14,23.0,48,,,,,,,,,,,,,,,,
+0,20182019,USA,WC,17215,1,0,0,8,0,1.0,1,,,,,,,,,,,,,,,,
+0,20192020,New York Rangers,National Hockey League,1,34,8,32,70,32,22.0,42,125.0,1.0,6.4,4.0,0.0,1323:18,35.0,13.0,138:46,1175:28,0.0,0.0,0.0,09:04,92.0,1636.0
+0,20202021,New York Rangers,National Hockey League,1,42,5,14,55,14,19.0,47,102.0,2.0,4.9,1.0,1.0,1358:51,23.0,23.0,205:55,1009:48,0.0,0.0,2.0,143:08,102.0,1560.0
+0,20212022,New York Rangers,National Hockey League,1,63,11,26,78,26,18.0,74,158.0,0.0,7.0,2.0,1.0,1864:45,30.0,33.0,230:42,1467:07,0.0,1.0,2.0,166:56,128.0,2191.0

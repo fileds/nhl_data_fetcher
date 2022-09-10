@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,ot,shutouts,ties,wins,losses,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,shotsAgainst,goalsAgainst,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20102011,Alaska All Stars 14U AA,Bantam,239505,0.895,0.99,7,,,,,,,,,,,,,,,,,,,
+0,20112012,Alaska All Stars 14U AA,Bantam,239505,0.957,0.57,7,,,,,,,,,,,,,,,,,,,
+0,20132014,Alaska Jr. Aces 16U AAA,16U AAA,161545,0.924,2.2,17,,,,,,,,,,,,,,,,,,,
+0,20142015,South Anchorage High,USHS-AK,92169,0.948,1.27,26,,,,,,,,,,,,,,,,,,,
+0,20152016,Pikes Peak Miners 18U AAA,NAPHL 18U,63291,0.94,1.79,18,,,,,,,,,,,,,,,,,,,
+0,20162017,Sioux Falls Stampede,USHL,9966,0.914,2.9,32,,,,,,,,,,,,,,,,,,,
+0,20172018,Univ. of Maine,NCAA,6620,0.921,2.72,31,,,,,,,,,,,,,,,,,,,
+0,20172018,USA U20,WJC-20,17276,1.0,0.0,1,,,,,,,,,,,,,,,,,,,
+0,20182019,Univ. of Maine,NCAA,6620,0.919,2.77,35,,,,,,,,,,,,,,,,,,,
+0,20192020,Univ. of Maine,NCAA,6620,0.939,2.07,34,,,,,,,,,,,,,,,,,,,
+0,20202021,Boston Bruins,National Hockey League,1,0.945,1.4957,10,601:43,0.0,2.0,0.0,7.0,3.0,256.0,27.0,8.0,221.0,9.0,232.0,30.0,10.0,271.0,15.0,90.0,88.88888888888889,95.25862068965517
+0,20202021,Providence Bruins,AHL,897,0.933,1.89,9,,,,,,,,,,,,,,,,,,,
+0,20212022,Boston Bruins,National Hockey League,1,0.914,2.40981,41,2390:14,3.0,3.0,0.0,23.0,14.0,1015.0,143.0,43.0,829.0,47.0,897.0,167.0,39.0,1111.0,96.0,85.62874251497006,91.48936170212765,92.41917502787068
+0,20212022,Providence Bruins,AHL,897,0.911,2.18,5,,,,,,,,,,,,,,,,,,,
+0,20212022,USA,WC,17215,0.91,2.23,7,,,,,,,,,,,,,,,,,,,

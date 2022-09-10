@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,faceOffPct,powerPlayGoals,gameWinningGoals,shortHandedGoals,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,plusMinus,shifts
+0,20072008,Toronto Red Wings U16 AAA,GTHL U16,97860,19,13,18,31,18,32,,,,,,,,,,,,,,,,,
+0,20082009,Hamilton,OJHL,1,24,13,24,49,24,37,0.0,,,,,,,,,,,,,,,,
+0,20092010,Hamilton,CCHL,1,40,35,30,49,30,75,0.0,,,,,,,,,,,,,,,,
+0,20102011,Hamilton,ON-Jr.A,1,60,42,24,43,24,102,,7.0,3.0,5.0,,,,,,,,,,,,,
+0,20112012,U. of Michigan,CCHA,1,7,2,12,41,12,9,,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20122013,U. of Michigan,CCHA,1,5,4,8,38,8,9,,0.0,0.0,1.0,,,,,,,,,,,,,
+0,20132014,U. of Michigan,Big Ten,1,10,7,12,35,12,17,,1.0,1.0,0.0,,,,,,,,,,,,,
+0,20142015,U. of Michigan,Big Ten,1,32,22,10,37,10,54,,4.0,4.0,0.0,,,,,,,,,,,,,
+0,20152016,Toronto Maple Leafs,National Hockey League,1,2,4,18,16,18,6,33.33,0.0,0.0,0.0,250:59,37.0,31.0,0.0,04:23,220:41,10.81,0.0,0.0,25:55,8.0,0.0,360.0
+0,20152016,Toronto,AHL,2,22,15,24,59,24,37,,0.0,4.0,4.0,,134.0,,,,,11.2,,,,,31.0,
+0,20152016,Toronto Marlies,AHL,13377,22,15,24,59,24,37,,,,,,,,,,,,,,,,31.0,
+0,20162017,Toronto Maple Leafs,National Hockey League,1,18,10,30,82,30,28,37.93,0.0,3.0,4.0,1369:09,156.0,109.0,0.0,13:50,1126:37,6.41,0.0,4.0,228:42,43.0,2.0,1950.0
+0,20172018,Toronto Maple Leafs,National Hockey League,1,25,15,37,82,37,40,42.86,0.0,2.0,1.0,1423:20,148.0,117.0,0.0,12:30,1193:31,10.14,0.0,2.0,217:19,55.0,22.0,1981.0
+0,20182019,Toronto Maple Leafs,National Hockey League,1,20,21,65,71,65,41,47.68,0.0,4.0,1.0,1226:34,144.0,102.0,0.0,17:52,1047:44,14.58,0.0,1.0,160:58,39.0,16.0,1700.0
+0,20192020,Toronto Maple Leafs,National Hockey League,1,16,21,23,51,23,37,43.75,3.0,1.0,1.0,973:54,106.0,52.0,6.0,56:04,822:33,19.8,0.0,1.0,95:17,23.0,13.0,1185.0
+0,20202021,Toronto Maple Leafs,National Hockey League,1,18,15,28,43,28,33,32.73,3.0,4.0,0.0,832:41,115.0,69.0,5.0,64:50,683:27,13.0,0.0,0.0,84:24,21.0,19.0,984.0
+0,20212022,Edmonton Oilers,National Hockey League,1,27,27,36,76,36,54,48.24,5.0,4.0,1.0,1479:20,213.0,74.0,10.0,182:24,1162:01,12.7,1.0,4.0,134:55,31.0,-9.0,1701.0

@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Hermantown High,USHS-MN,70932,6,7,12,25,12,0,13,,,,,,,,,,,,,,,,
+0,20122013,Sioux City Musketeers,USHL,9108,5,1,2,12,2,3,6,,,,,,,,,,,,,,,,
+0,20122013,Hermantown High,USHS-MN,70932,15,14,25,25,25,0,29,,,,,,,,,,,,,,,,
+0,20122013,Team North,UMHSEHL,97778,10,1,32,20,32,0,11,,,,,,,,,,,,,,,,
+0,20132014,Sioux City Musketeers,USHL,9108,21,2,93,54,93,18,23,,,,,,,,,,,,,,,,
+0,20142015,Sioux City Musketeers,USHL,9108,41,7,104,53,104,23,48,,,,,,,,,,,,,,,,
+0,20152016,Univ. of Minnesota-Duluth,NCAA,18500,13,4,44,40,44,11,17,,,,,,,,,,,,,,,,
+0,20162017,Univ. of Minnesota-Duluth,NCAA,18500,27,7,25,42,25,24,34,,,,,,,,,,,,,,,,
+0,20172018,New York Rangers,National Hockey League,1,13,1,12,28,12,-1,14,626:51,54.0,49.0,0.0,5.0,34:53,526:11,0.0,1.85,0.0,0.0,0.0,0.0,65:47,41.0,807.0
+0,20172018,Hartford Wolf Pack,AHL,847,16,1,20,48,20,-9,17,,,,,,,,,,,,,,,,
+0,20172018,USA,WC,17215,1,2,4,10,4,7,3,,,,,,,,,,,,,,,,
+0,20182019,New York Rangers,National Hockey League,1,20,6,35,73,35,-16,26,1545:06,132.0,138.0,2.0,13.0,109:16,1225:53,0.0,4.55,1.0,0.0,0.0,1.0,209:57,98.0,1998.0
+0,20192020,Winnipeg Jets,National Hockey League,1,39,6,32,71,32,10,45,1659:42,177.0,165.0,3.0,25.0,207:43,1388:12,0.0,3.4,1.0,0.0,0.0,0.0,63:47,78.0,1913.0
+0,20202021,Winnipeg Jets,National Hockey League,1,29,3,20,54,20,6,32,1186:31,100.0,137.0,1.0,10.0,112:39,1032:19,0.0,3.0,0.0,0.0,0.0,0.0,41:33,74.0,1465.0
+0,20212022,Winnipeg Jets,National Hockey League,1,31,3,46,77,46,5,34,1627:42,140.0,185.0,1.0,12.0,167:39,1379:24,0.0,2.1,1.0,0.0,0.0,0.0,80:39,91.0,2000.0

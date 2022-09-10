@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,shutouts,ties,wins,losses,goalsAgainst,saves,shotsAgainst,ot,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20112012,Fort Saskatchewan Rang. Bntm AAA,AMBHL,64178,0.887,4.2,19,,,,,,,,,,,,,,,,,,,
+0,20122013,Sherwood Park Flyers Bantam AAA,AMBHL,53738,0.908,3.36,20,,,,,,,,,,,,,,,,,,,
+0,20132014,Sherwood Park,AMHL,2,,4.07,1,59:00,0.0,0.0,0.0,1.0,4.0,,,,,,,,,,,,,
+0,20132014,Everett,WHL,3,0.893,3.49,2,103:00,0.0,1.0,0.0,1.0,6.0,50.0,56.0,,,,,,,,,,,
+0,20142015,Everett,WHL,1,,2.29,30,1648:00,4.0,5.0,18.0,5.0,63.0,,745.0,,,,,,,,,,,
+0,20142015,Everett Silvertips,WHL,16391,0.915,2.29,30,,,,,,,,,,,,,,,,,,,
+0,20152016,Everett Silvertips,WHL,16391,0.918,2.14,63,,,,,,,,,,,,,,,,,,,
+0,20162017,Everett Silvertips,WHL,16391,0.927,1.99,54,,,,,,,,,,,,,,,,,,,
+0,20162017,Canada U20,WJC-20,17216,0.906,2.38,4,,,,,,,,,,,,,,,,,,,
+0,20172018,Everett Silvertips,WHL,16391,0.947,1.6,41,,,,,,,,,,,,,,,,,,,
+0,20172018,Canada U20,WJC-20,17216,0.93,1.81,6,,,,,,,,,,,,,,,,,,,
+0,20182019,Philadelphia Flyers,National Hockey League,1,0.917008,2.830656,31,1716:55,0.0,0.0,16.0,13.0,81.0,895.0,976.0,1.0,87.0,31.0,777.0,32.0,848.0,96.0,30.0,90.625,96.875,91.62735849056604
+0,20182019,Canada,WC,17155,0.964,0.7,3,,,,,,,,,,,,,,,,,,,
+0,20182019,Lehigh Valley Phantoms,AHL,173347,0.902,3.05,18,,,,,,,,,,,,,,,,,,,
+0,20192020,Philadelphia Flyers,National Hockey League,1,0.914,2.4195,43,2355:50,1.0,0.0,24.0,13.0,95.0,1005.0,1100.0,3.0,107.0,43.0,855.0,45.0,929.0,126.0,40.0,84.92063492063492,95.55555555555556,92.03444564047362
+0,20202021,Philadelphia Flyers,National Hockey League,1,0.877,3.6668,27,1456:19,1.0,0.0,9.0,11.0,89.0,632.0,721.0,5.0,83.0,22.0,527.0,24.0,591.0,106.0,25.0,78.30188679245283,91.66666666666666,89.17089678510999
+0,20212022,Philadelphia Flyers,National Hockey League,1,0.905,3.15781,45,2603:04,1.0,0.0,13.0,24.0,137.0,1304.0,1441.0,7.0,166.0,33.0,1105.0,38.0,1206.0,197.0,44.0,84.26395939086294,86.8421052631579,91.62520729684908

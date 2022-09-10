@@ -1,144 +1,63 @@
+import os
 from pprint import pprint
 import json
 import requests
 import time
+from datetime import datetime, date
+import numpy as np
 import pandas as pd
 
-
-# Classes
-class Team:
-    roster = {}
-
-    def __init__(self,
-                 name,
-                 abbreviation,
-                 team_id):
-        self.name = name
-        self.abbreviation = abbreviation
-        self.team_id = team_id
-
-class Player:
-    def __init__(self,
-                 player_id,
-                 name,
-                 pos_general,
-                 pos_specific,
-                 pos_abbreviation,
-                 team,
-                 link):
-        self.player_id = player_id
-        self.name = name
-        self.pos_general = pos_general
-        self.pos_specific = pos_specific
-        self.pos_abbreviation = pos_abbreviation
-        self.team = team
-        self.link = link
-
-    def as_list(self):
-        return [self.player_id,
-                self.name,
-                self.team,
-                self.pos_abbreviation,
-                self.pos_general,
-                self.pos_specific,
-                self.link]
-
-    def as_list_for_fantasy(self):
-        return [self.name,
-                self.pos_general[0],
-                self.team]
-
-# Functions
-def get_active_teams():
-    teams = {}
-
-    url = "https://statsapi.web.nhl.com/api/v1/teams"
-    data = requests.get(url).json()
-
-    for team in data["teams"]:
-        new_team = Team(team["name"],
-                        team["abbreviation"],
-                        team["id"])
-        teams[new_team.abbreviation] = new_team
-
-    return teams
-
-def download_rosters(teams, verbose=False):
-    players = []
-    i = 1
-    for abbr, team in teams.items():
-        url = ("https://statsapi.web.nhl.com/api/v1/teams/" + str(team.team_id)
-            + "?expand=team.roster")
+def download_player(player_id, verbose = True):
+    # Downloading info
+    url = ("https://statsapi.web.nhl.com/api/v1/people/"
+            + str(player_id))
+    try:
+        info_json = requests.get(url).json()["people"][0]
+        info_df = pd.DataFrame([info_json])
+    except:
         if verbose:
-            print("Downloading ", team.name, "...", end = "\t")
+            print("\nERROR: Failed to get info for player id {}.".format(
+                player_id))
+            print("ERROR: Aborting player download.\n")
+        return
 
-        for p in team_data["teams"][0]["roster"]["roster"]:
-            player_id = p["person"]["id"]
-            player_name = p["person"]["fullName"]
-            player_pos_general = p["position"]["type"]
-            player_pos_specific = p["position"]["name"]
-            player_pos_abbreviation = p["position"]["abbreviation"]
-            player_team = team.name
-            player_link = p["person"]["link"]
-            new_player = Player(player_id,
-                    player_name,
-                    player_pos_general,
-                    player_pos_specific,
-                    player_pos_abbreviation,
-                    player_team,
-                    player_link)
-            players.append(new_player)
+    # Downloading season stats
+    url = ("https://statsapi.web.nhl.com/api/v1/people/" +
+            str(player_id) +
+            "/stats?expand=person.stats&stats=yearByYear")
+    try:
+        seasons_json = requests.get(url).json()["stats"][0]["splits"]
+        seasons_df_list = []
+        for s in seasons_json:
+            s["league"] = s["league"]["name"]
+            s["team"] = s["team"]["name"]
+            stat = s["stat"]
+            s.pop("stat")
+            s.update(stat)
+            seasons_df_list.append(pd.DataFrame([s]))
 
-            teams.roster[player_id] = new_player
-
+        seasons_df = pd.concat(seasons_df_list)
+    except:
         if verbose:
-            print("Done")
+            print("\nERROR: Failed to get seasons stats for player id " +
+                "{}.".format( player_id))
+            print("Downloaded info for {}".format(info_json["fullName"]))
 
-        time.sleep(1)
-
-    if verbose:
-        print("Finished downloading players for", len(teams), "teams\n")
-
-    return (players)
-
-def create_players_df(players, for_fantasy=False, verbose=False):
-    if verbose:
-        print("Creating player DataFrame...", path, end="\t")
-
-    if for_fantasy:
-        df = pd.DataFrame(columns = ["Name", "Pos", "Team"])
-    else:
-        df = pd.DataFrame(columns = ["id", "name", "team", "pos_a",
-            "pos_g", "pos_s", "link"])
-
-    for i, p in enumerate(players):
-        if for_fantasy:
-            df.loc[i] = p.as_list_for_fantasy()
-        else:
-            df.loc[i] = p.as_list()
+        return
 
     if verbose:
-        print("Done\n")
+        print("Downloaded info and seasons stats for {}".format(
+            info_json["fullName"]))
 
-    return df
+    dir_path = ("./data/player_data/" + info_json["fullName"] + "-"
+                + str(info_json["id"]))
+    if not os.path.isdir(dir_path): os.mkdir(dir_path)
 
-def print_player_df_to_csv(df, path, verbose=False):
-    if verbose:
-        print("Writing player database to", path, end="\t")
-    df.to_csv(path_or_buf=path, sep=";", index=False)
+    info_df.to_csv(dir_path + "/" + "info.csv", sep = ",")
+    seasons_df.to_csv(dir_path + "/" + "seasons.csv", sep = ",")
 
-    if verbose:
-        print("Done\n")
 
 if __name__ == "__main__":
-    path = "./data/player_db.csv"
-    teams = get_active_teams()
-    players = download_rosters(teams, verbose=True)
-
-    df = create_players_df(players, verbose=True)
-    print_player_df_to_csv(df, path, verbose=True)
-
-    # For fantasy
-    fantasy_path = "./data/fantasy_player_db.csv"
-    df_fantasy = create_players_df(players, for_fantasy=True, verbose=True)
-    print_player_df_to_csv(df_fantasy, fantasy_path, verbose=True)
+    players = pd.read_csv("data/player_list.csv")
+    for pid in players.id:
+      download_player(pid)

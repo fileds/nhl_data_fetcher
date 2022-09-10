@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Pro Hockey Selects U15,WSI U15,206260,8,2,0,6,0,10,,,,,,,,,,,,,,,,,
+0,20122013,Don Mills,GTHL,1,45,41,34,55,34,86,,,,,,,,,,,,,,,,,
+0,20122013,St. Michael's,ON-Jr.A,2,3,1,0,6,0,4,0.0,0.0,0.0,,,,,,,,,,,,,,
+0,20132014,London,OHL,1,46,13,24,64,24,59,0.0,3.0,0.0,38.0,,,,,,,,,,,,,
+0,20142015,London,OHL,1,82,44,53,63,53,126,15.0,6.0,2.0,36.0,,,,,,,,,,,,,
+0,20152016,London,OHL,1,77,39,68,57,68,116,,,,45.0,,,,,,,,,,,,,
+0,20152016,Canada,WJC-A,2,2,4,4,5,4,6,3.0,0.0,0.0,0.0,18.0,22.2,,,,,,,,,,,
+0,20152016,London Knights,M-Cup,2561,12,2,4,4,4,14,,,,10.0,,,,,,,,,,,,,
+0,20152016,London Knights,OHL,2778,77,39,68,57,68,116,,,,45.0,,,,,,,,,,,,,
+0,20152016,Canada U20,WJC-20,17216,2,4,4,5,4,6,,,,0.0,,,,,,,,,,,,,
+0,20162017,Toronto Maple Leafs,National Hockey League,1,42,19,38,77,38,61,4.0,5.0,0.0,0.0,176.0,10.8,1294:23,41.0,21.0,183:15,1100:55,37.84,0.0,0.0,10:13,39.0,1690.0
+0,20162017,Canada,WC,17155,8,4,8,10,8,12,,,,1.0,,,,,,,,,,,,,
+0,20172018,Toronto Maple Leafs,National Hockey League,1,47,22,26,82,26,69,8.0,2.0,0.0,-1.0,194.0,11.34,1343:49,31.0,27.0,179:59,1160:21,52.63,0.0,0.0,03:29,25.0,1824.0
+0,20182019,Toronto Maple Leafs,National Hockey League,1,68,26,22,82,22,94,3.0,5.0,1.0,22.0,233.0,11.16,1625:26,29.0,21.0,212:17,1302:00,63.64,0.0,3.0,111:09,43.0,2066.0
+0,20192020,Toronto Maple Leafs,National Hockey League,1,51,16,16,59,16,67,6.0,2.0,0.0,6.0,154.0,10.4,1271:41,24.0,24.0,190:06,951:51,26.92,1.0,1.0,129:44,37.0,1450.0
+0,20202021,Toronto Maple Leafs,National Hockey League,1,47,20,20,55,20,67,0.0,5.0,0.0,21.0,156.0,12.8,1233:29,23.0,14.0,171:55,954:42,80.0,0.0,2.0,106:52,41.0,1377.0
+0,20212022,Toronto Maple Leafs,National Hockey League,1,62,35,16,72,16,97,6.0,5.0,3.0,23.0,224.0,15.6,1503:34,75.0,25.0,223:39,1136:12,55.56,1.0,4.0,143:43,31.0,1744.0

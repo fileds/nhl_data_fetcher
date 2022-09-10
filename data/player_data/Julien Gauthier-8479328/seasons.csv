@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Montréal Royal Bantam AA,MMBAA,10153905,13,20,20,25,20,0,33,,,,,,,,,,,,,,,,
+0,20122013,Laval-Montréal Rousseau Royal,QMAAA,61163,20,12,30,42,30,0,32,,,,,,,,,,,,,,,,
+0,20132014,Val-d'Or,QMJHL,1,21,9,19,62,19,9,30,91.0,3.0,9.9,1.0,0.0,,,,,,,,,,,
+0,20142015,Val-d'Or,QMJHL,1,35,38,46,68,46,6,73,236.0,15.0,16.1,7.0,0.0,,,,,,,,,,,
+0,20152016,Val-d'Or,QMJHL,1,16,41,24,54,24,24,57,,11.0,,5.0,1.0,,,,,,,,,,,
+0,20152016,Val-d'Or Foreurs,QMJHL,9680,16,41,24,54,24,24,57,,,,,,,,,,,,,,,,
+0,20152016,Canada U20,WJC-20,17216,2,0,0,5,0,0,2,,,,,,,,,,,,,,,,
+0,20162017,Val-d'Or Foreurs,QMJHL,9680,20,7,22,23,22,1,27,,,,,,,,,,,,,,,,
+0,20162017,Canada U20,WJC-20,17216,2,5,2,7,2,2,7,,,,,,,,,,,,,,,,
+0,20162017,Saint John Sea Dogs,M-Cup,21151,4,2,0,4,0,3,6,,,,,,,,,,,,,,,,
+0,20162017,Saint John Sea Dogs,QMJHL,21410,14,10,18,20,18,11,24,,,,,,,,,,,,,,,,
+0,20172018,Charlotte Checkers,AHL,2357,9,16,24,65,24,0,25,,,,,,,,,,,,,,,,
+0,20182019,Charlotte Checkers,AHL,2357,14,27,57,75,57,-6,41,,,,,,,,,,,,,,,,
+0,20192020,Carolina Hurricanes,National Hockey League,1,1,0,6,5,6,2,1,1.0,0.0,0.0,0.0,0.0,36:58,4.0,0.0,00:19,36:36,50.0,0.0,0.0,00:03,0.0,61.0
+0,20192020,New York Rangers,National Hockey League,2,2,0,2,12,2,-1,2,9.0,0.0,0.0,0.0,0.0,103:48,11.0,0.0,00:55,102:53,0.0,0.0,0.0,00:00,7.0,157.0
+0,20192020,Charlotte Checkers,AHL,2357,11,26,34,44,34,-5,37,,,,,,,,,,,,,,,,
+0,20202021,New York Rangers,National Hockey League,1,6,2,14,30,14,-6,8,38.0,0.0,5.3,0.0,0.0,289:17,56.0,0.0,07:15,281:59,50.0,0.0,0.0,00:03,9.0,440.0
+0,20212022,New York Rangers,National Hockey League,1,4,3,8,49,8,-9,7,69.0,0.0,4.3,1.0,0.0,505:03,98.0,0.0,20:31,484:32,33.33,0.0,0.0,00:00,14.0,671.0

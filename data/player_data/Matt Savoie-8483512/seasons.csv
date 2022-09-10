@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus
+0,20132014,Team Brick Alberta,Brick Invitational,128736,2,3,2,6,2,5,
+0,20152016,Draftday Hockey Selects U12,WSI U12,236636,12,16,10,9,10,28,
+0,20162017,St. Albert Sabres U15 AAA,AEHL U15,55949,27,34,72,35,72,61,
+0,20162017,Western Canada Selects U13,WSI U13,206627,8,9,22,9,22,17,
+0,20172018,Northern Alberta Xtreme U16 Prep,CSSHL U16,212564,1,2,0,2,0,3,
+0,20172018,Western Canada Selects U15,WSI U15,238960,4,9,2,8,2,13,
+0,20172018,Northern Alberta Xtreme U15 Prep,CSSHL U15,246283,69,28,22,30,22,97,
+0,20182019,Team Alberta,CWG,90785,7,6,4,6,4,13,
+0,20182019,Northern Alberta Xtreme U18 Prep,CSSHL U18,228966,40,31,53,31,53,71,
+0,20192020,Winnipeg Ice,WHL,9601,7,0,12,22,12,7,-6.0
+0,20192020,Canada U16,YOG,118187,2,1,28,4,28,3,5.0
+0,20192020,Canada White U17,WHC-17,163790,5,1,2,6,2,6,
+0,20192020,Rink Hockey Academy Winnipeg U18,CSSHL U18,228986,33,19,20,22,20,52,
+0,20202021,Dubuque Fighting Saints,USHL,12506,17,21,8,34,8,38,11.0
+0,20202021,Sherwood Park Crusaders,AJHL,21102,3,3,0,4,0,6,
+0,20212022,Winnipeg Ice,WHL,9601,55,35,32,65,32,90,54.0

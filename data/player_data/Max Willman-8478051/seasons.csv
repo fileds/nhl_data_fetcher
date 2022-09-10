@@ -1,0 +1,14 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Springfield,Minor-MA,1,13,5,6.0,11,6,18,,,,,,,,,,,,,,,,,
+0,20132014,Williston North.,High-MA,2,23,21,,25,,44,,,,,,,,,,,,,,,,,
+0,20142015,Brown U.,ECAC,1,2,1,12.0,30,12,3,0.0,0.0,0.0,,,,,,,,,,,,,,
+0,20152016,Brown U.,ECAC,1,8,3,10.0,29,10,11,0.0,1.0,0.0,-15.0,,,,,,,,,,,,,
+0,20152016,Brown Univ.,NCAA,13760,8,3,10.0,29,10,11,,,,-15.0,,,,,,,,,,,,,
+0,20162017,Brown Univ.,NCAA,13760,15,11,10.0,31,10,26,,,,-9.0,,,,,,,,,,,,,
+0,20172018,Brown Univ.,NCAA,13760,4,1,0.0,9,0,5,,,,-2.0,,,,,,,,,,,,,
+0,20182019,Boston Univ.,NCAA,6890,5,1,24.0,36,24,6,,,,-10.0,,,,,,,,,,,,,
+0,20192020,Reading Royals,ECHL,6595,16,9,8.0,20,8,25,,,,-1.0,,,,,,,,,,,,,
+0,20192020,Lehigh Valley Phantoms,AHL,173347,6,3,18.0,24,18,9,,,,-3.0,,,,,,,,,,,,,
+0,20202021,Lehigh Valley Phantoms,AHL,173347,7,9,9.0,30,9,16,,,,10.0,,,,,,,,,,,,,
+0,20212022,Philadelphia Flyers,National Hockey League,1,2,4,16.0,41,16,6,0.0,0.0,0.0,-13.0,482:38,65.0,53.0,0.0,01:04,465:20,28.57,6.2,0.0,0.0,16:14,10.0,704.0
+0,20212022,Lehigh Valley Phantoms,AHL,173347,8,11,33.0,34,33,19,,,,0.0,,,,,,,,,,,,,

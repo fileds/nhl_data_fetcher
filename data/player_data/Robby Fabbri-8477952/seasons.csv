@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Miss. Rebels,GTHL,1,45,58,102,71,102,103,,,,,,,,,,,,,,,,,
+0,20102011,Miss. Rebels,GTHL,1,68,66,68,75,68,134,,,,,,,,,,,,,,,,,
+0,20112012,Miss. Rebels,GTHL,1,56,62,92,69,92,118,,,,,,,,,,,,,,,,,
+0,20112012,Tor. Canadiens,ON-Jr.A,2,3,0,0,1,0,3,,,,,,,,,,,,,,,,,
+0,20122013,Guelph,OHL,1,23,10,38,59,38,33,0.0,1.0,1.0,13.0,,,,,,,,,,,,,
+0,20132014,Guelph,OHL,1,42,45,55,58,55,87,14.0,11.0,0.0,45.0,,,,,,,,,,,,,
+0,20142015,Guelph,OHL,1,26,25,40,30,40,51,8.0,4.0,2.0,9.0,,,,,,,,,,,,,
+0,20142015,Canada,WJC-A,2,4,2,0,5,0,6,0.0,1.0,0.0,,9.0,,,,,,,,,,,,
+0,20142015,Chicago,AHL,3,3,1,2,3,2,4,0.0,0.0,0.0,0.0,5.0,20.0,,,,,,,,,,,
+0,20152016,St. Louis Blues,National Hockey League,1,19,18,25,72,25,37,2.0,3.0,0.0,-2.0,114.0,15.79,958:41,51.0,8.0,103:47,853:59,40.0,0.0,0.0,00:55,9.0,1370.0
+0,20162017,St. Louis Blues,National Hockey League,1,18,11,27,51,27,29,4.0,0.0,0.0,-16.0,91.0,12.09,796:04,64.0,9.0,115:49,678:11,54.17,0.0,0.0,02:04,14.0,1101.0
+0,20182019,St. Louis Blues,National Hockey League,1,4,2,6,32,6,6,0.0,1.0,0.0,-4.0,43.0,4.65,404:55,30.0,0.0,28:41,375:33,28.57,0.0,0.0,00:41,8.0,521.0
+0,20182019,San Antonio Rampage,AHL,8497,1,1,4,3,4,2,,,,-4.0,,,,,,,,,,,,,
+0,20192020,St. Louis Blues,National Hockey League,1,0,1,2,9,2,1,0.0,0.0,0.0,-4.0,7.0,14.3,87:18,12.0,0.0,07:41,79:37,100.0,0.0,0.0,00:00,1.0,120.0
+0,20192020,Detroit Red Wings,National Hockey League,2,17,14,18,52,18,31,6.0,3.0,0.0,-29.0,104.0,13.5,897:46,63.0,9.0,147:25,749:36,39.39,0.0,0.0,00:45,13.0,1053.0
+0,20202021,Detroit Red Wings,National Hockey League,1,8,10,16,30,16,18,0.0,5.0,0.0,3.0,58.0,17.2,518:05,34.0,2.0,71:30,445:41,43.68,0.0,0.0,00:54,17.0,593.0
+0,20212022,Detroit Red Wings,National Hockey League,1,13,17,35,56,35,30,6.0,1.0,0.0,-23.0,123.0,13.8,970:27,86.0,8.0,154:45,814:59,49.54,0.0,0.0,00:43,19.0,1067.0

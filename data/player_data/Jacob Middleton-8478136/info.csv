@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8478136,Jacob Middleton,/api/v1/people/8478136,Jacob,Middleton,5,1996-01-02,26,Wainwright,AB,CAN,CAN,"6' 3""",219,True,False,False,True,L,Y,"{'id': 30, 'name': 'Minnesota Wild', 'link': '/api/v1/teams/30'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

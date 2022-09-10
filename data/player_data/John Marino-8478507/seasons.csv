@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20062007,Montréal Ice Storm,Brick Invitational,128796,2,1,4,5,4,3,,,,,,,,,,,,,,,,,
+0,20112012,Latvia Selects U15,WSI U15,206380,1,0,0,6,0,1,,,,,,,,,,,,,,,,,
+0,20122013,South Shore,EJHL,1,31,3,12,37,12,34,,,,,,,,,,,,,,,,,
+0,20132014,South Shore U18,USPHL,1,4,1,12,12,12,5,,,,,,,,,,,,,,,,,
+0,20132014,South Shore,USPHL,2,11,6,16,34,16,17,,,,,,,,,,,,,,,,,
+0,20142015,South Shore,USPHL,1,24,4,42,49,42,28,1.0,0.0,0.0,,,,,,,,,,,,,,
+0,20152016,Tri-City,USHL,1,25,5,43,56,43,30,,,,5.0,,,,,,,,,,,,,
+0,20152016,Tri-City Storm,USHL,28026,25,5,43,56,43,30,,,,5.0,,,,,,,,,,,,,
+0,20152016,USA U19,WJAC-19,87412,2,0,2,5,2,2,,,,,,,,,,,,,,,,,
+0,20162017,Harvard Univ.,NCAA,13950,13,2,24,35,24,15,,,,20.0,,,,,,,,,,,,,
+0,20172018,Harvard Univ.,NCAA,13950,14,2,10,33,10,16,,,,21.0,,,,,,,,,,,,,
+0,20182019,Harvard Univ.,NCAA,13950,8,3,20,33,20,11,,,,-3.0,,,,,,,,,,,,,
+0,20192020,Pittsburgh Penguins,National Hockey League,1,20,6,20,56,20,26,1.0,0.0,0.0,17.0,1133:35,61.0,72.0,4.0,42:05,977:56,0.0,9.8,0.0,0.0,113:34,77.0,1495.0
+0,20202021,Pittsburgh Penguins,National Hockey League,1,10,3,8,52,8,13,1.0,1.0,0.0,5.0,1078:09,56.0,48.0,4.0,73:05,907:43,0.0,5.4,0.0,1.0,97:21,50.0,1324.0
+0,20212022,Pittsburgh Penguins,National Hockey League,1,24,1,23,81,23,25,0.0,0.0,0.0,1.0,1671:35,90.0,73.0,2.0,75:32,1405:07,0.0,1.1,0.0,2.0,190:56,88.0,2089.0

@@ -1,0 +1,8 @@
+{
+    "data_dir": "/Users/fileds/Documents/NHL/data/",
+    "teams_dir": "/Users/fileds/Documents/NHL/data/teams/",
+    "players_dir": "/Users/fileds/Documents/NHL/data/players/",
+    "team_list_path": "/Users/fileds/Documents/NHL/data/active_teams.csv",
+    "player_list_path": "/Users/fileds/Documents/NHL/data/player_list.csv",
+    "fantasy_point_system_path": "./fantasy_point_system.json"
+}

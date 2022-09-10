@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,active,alternateCaptain,captain,rookie,rosterStatus,currentTeam,primaryPosition
+0,8483569,Wyatt Aamodt,/api/v1/people/8483569,Wyatt,Aamodt,1997-11-22,24,Hermantown,MN,USA,USA,True,False,False,False,Y,"{'id': 21, 'name': 'Colorado Avalanche', 'link': '/api/v1/teams/21'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

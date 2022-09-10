@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8475220,Marcus Foligno,/api/v1/people/8475220,Marcus,Foligno,17,1991-08-10,31,Buffalo,NY,USA,CAN,"6' 3""",226,True,True,False,False,L,Y,"{'id': 30, 'name': 'Minnesota Wild', 'link': '/api/v1/teams/30'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

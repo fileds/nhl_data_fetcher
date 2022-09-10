@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Winnipeg Hawks Bantam AAA Div 2,WBAAA2,129160,27,13,22,17,22,0.0,40,,,,,,,,,,,,,,,,
+0,20122013,Winnipeg Hawks Bantam AAA,WBAAA,129119,42,33,14,19,14,0.0,75,,,,,,,,,,,,,,,,
+0,20132014,Brandon Wheat Kings,WHL,8606,0,1,0,3,0,3.0,1,,,,,,,,,,,,,,,,
+0,20142015,Brandon Wheat Kings,WHL,9591,26,30,19,55,19,25.0,56,,,,,,,,,,,,,,,,
+0,20142015,Canada Red U17,WHC-17,163770,5,0,6,5,6,,5,,,,,,,,,,,,,,,,
+0,20142015,Team Red,U17-Dev,178229,1,2,2,3,2,,3,,,,,,,,,,,,,,,,
+0,20152016,Brandon Wheat Kings,M-Cup,9071,1,0,2,3,2,-2.0,1,,,,,,,,,,,,,,,,
+0,20152016,Brandon Wheat Kings,WHL,9591,61,41,41,72,41,51.0,102,,,,,,,,,,,,,,,,
+0,20152016,Canada U18,Hlinka Gretzky Cup,144760,2,3,6,4,6,2.0,5,,,,,,,,,,,,,,,,
+0,20152016,Team Red,U18-Dev,178681,1,1,2,3,2,,2,,,,,,,,,,,,,,,,
+0,20162017,Brandon Wheat Kings,WHL,9591,26,20,36,33,36,9.0,46,,,,,,,,,,,,,,,,
+0,20172018,Philadelphia Flyers,National Hockey League,1,17,13,30,73,30,1.0,30,1001:55,127.0,48.0,5.0,8.0,133:19,867:20,50.61,10.24,2.0,0.0,0.0,0.0,01:16,19.0,1384.0
+0,20182019,Philadelphia Flyers,National Hockey League,1,18,13,27,72,27,-8.0,31,1085:57,115.0,72.0,1.0,2.0,118:58,964:18,51.22,11.3,3.0,1.0,0.0,0.0,02:41,26.0,1484.0
+0,20202021,Philadelphia Flyers,National Hockey League,1,5,4,20,52,20,-30.0,9,690:26,49.0,45.0,2.0,3.0,90:56,580:50,52.56,8.2,0.0,0.0,0.0,0.0,18:40,18.0,1042.0
+0,20212022,Vegas Golden Knights,National Hockey League,1,5,2,6,25,6,1.0,7,287:40,34.0,26.0,0.0,1.0,41:40,245:46,48.26,5.9,0.0,0.0,0.0,0.0,00:14,3.0,403.0

@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Shattuck St. Mary's Bantam T1,Bantam,91025,51,65,28,52,28,0.0,116,,,,,,,,,,,,,,,,
+0,20112012,Bos. Jr. Bruins,EmJHL,1,52,42,53,40,53,,94,,,,,,,,,,,,,,,,
+0,20112012,Bos. Jr. Bruins,Other,2,5,1,0,2,0,,6,,,,,,,,,,,,,,,,
+0,20122013,Muskegon,USHL,1,2,1,2,6,2,3.0,3,1.0,0.0,100.0,0.0,0.0,,,,,,,,,,,
+0,20122013,Moncton,QMJHL,2,11,6,16,26,16,-6.0,17,44.0,2.0,13.6,0.0,0.0,,,,,,,,,,,
+0,20132014,Moncton,QMJHL,1,30,24,39,51,39,-11.0,54,178.0,10.0,13.5,1.0,0.0,,,,,,,,,,,
+0,20142015,Moncton,QMJHL,1,94,35,66,67,66,21.0,129,263.0,5.0,13.3,8.0,2.0,,,,,,,,,,,
+0,20152016,Moncton,QMJHL,1,89,39,97,62,97,26.0,128,,13.0,,6.0,1.0,,,,,,,,,,,
+0,20152016,Moncton Wildcats,QMJHL,9630,89,39,97,62,97,26.0,128,,,,,,,,,,,,,,,,
+0,20162017,Tucson Roadrunners,AHL,218897,9,5,37,55,37,-13.0,14,,,,,,,,,,,,,,,,
+0,20172018,Tucson Roadrunners,AHL,218897,19,8,40,55,40,8.0,27,,,,,,,,,,,,,,,,
+0,20182019,Arizona Coyotes,National Hockey League,1,5,13,12,47,12,1.0,18,118.0,4.0,11.02,2.0,0.0,601:08,33.0,6.0,112:23,488:44,55.56,0.0,0.0,00:01,17.0,810.0
+0,20182019,Tucson Roadrunners,AHL,218897,13,12,22,21,22,11.0,25,,,,,,,,,,,,,,,,
+0,20192020,Arizona Coyotes,National Hockey League,1,17,22,20,68,20,1.0,39,158.0,4.0,13.9,5.0,0.0,962:24,26.0,10.0,142:37,819:20,36.36,0.0,0.0,00:27,20.0,1289.0
+0,20202021,Arizona Coyotes,National Hockey League,1,27,12,26,49,26,-3.0,39,135.0,3.0,8.9,1.0,0.0,878:07,26.0,10.0,139:36,737:21,33.33,0.0,0.0,01:10,19.0,1119.0
+0,20202021,USA,WC,17215,7,6,6,10,6,6.0,13,,,,,,,,,,,,,,,,
+0,20212022,Vancouver Canucks,National Hockey League,1,33,19,36,77,36,18.0,52,203.0,1.0,9.4,3.0,0.0,1263:20,52.0,3.0,123:02,1137:31,50.0,0.0,0.0,02:47,22.0,1677.0

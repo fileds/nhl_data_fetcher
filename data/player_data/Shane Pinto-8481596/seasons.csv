@@ -1,0 +1,13 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20152016,New York Aviators 16U AAA,NAPHL 16U,196660,15,8,14,25,14,23,,,,,,,,,,,,,,,,,
+0,20162017,Selects Academy 16U AAA,USPHL 16U,112846,3,3,4,6,4,6,,,,,,,,,,,,,,,,,
+0,20172018,Selects Academy 18U AAA,USPHL 18U,149378,3,5,4,7,4,8,,,,,,,,,,,,,,,,,
+0,20172018,Selects Academy 18U AAA,18U AAA,149588,31,34,24,54,24,65,,,,,,,,,,,,,,,,,
+0,20182019,Lincoln Stars,USHL,9366,15,17,51,30,51,32,-10.0,,,,,,,,,,,,,,,,
+0,20182019,Tri-City Storm,USHL,28026,16,11,12,26,12,27,9.0,,,,,,,,,,,,,,,,
+0,20182019,USA U19,WJAC-19,87412,1,1,4,6,4,2,,,,,,,,,,,,,,,,,
+0,20192020,Univ. of North Dakota,NCAA,11930,12,16,46,33,46,28,19.0,,,,,,,,,,,,,,,,
+0,20192020,USA U20,WJC-20,17276,3,4,2,5,2,7,3.0,,,,,,,,,,,,,,,,
+0,20202021,Ottawa Senators,National Hockey League,1,6,1,10,12,10,7,6.0,150:15,11.0,11.0,0.0,0.0,06:20,129:01,40.91,9.1,0.0,0.0,0.0,0.0,14:54,9.0,213.0
+0,20202021,Univ. of North Dakota,NCAA,11930,17,15,4,28,4,32,19.0,,,,,,,,,,,,,,,,
+0,20212022,Ottawa Senators,National Hockey League,1,1,0,2,5,2,1,0.0,64:46,5.0,0.0,0.0,1.0,05:19,55:52,32.69,0.0,0.0,0.0,0.0,0.0,03:35,1.0,80.0

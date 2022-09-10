@@ -1,0 +1,12 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,Barrie Colts Minor Midget AAA,ETAMMHL,81112,25,30,34,32,34,0,55,,,,,,,,,,,,,,,,
+0,20152016,Soo Greyhounds,OHL,6918,20,7,12,65,12,-6,27,,,,,,,,,,,,,,,,
+0,20162017,Soo Greyhounds,OHL,6918,42,20,36,67,36,15,62,,,,,,,,,,,,,,,,
+0,20172018,Soo Greyhounds,OHL,6918,70,42,56,67,56,70,112,,,,,,,,,,,,,,,,
+0,20182019,Soo Greyhounds,OHL,6918,72,37,45,58,45,33,109,,,,,,,,,,,,,,,,
+0,20182019,Canada U20,WJC-20,17216,4,4,12,5,12,8,8,,,,,,,,,,,,,,,,
+0,20192020,Philadelphia Flyers,National Hockey League,1,5,2,4,20,4,-3,7,273:40,31.0,4.0,0.0,0.0,45:17,228:04,47.31,6.5,0.0,0.0,1.0,1.0,00:19,4.0,409.0
+0,20192020,Lehigh Valley Phantoms,AHL,173347,16,13,20,41,20,0,29,,,,,,,,,,,,,,,,
+0,20202021,Philadelphia Flyers,National Hockey League,1,0,0,0,2,0,0,0,20:28,0.0,0.0,0.0,0.0,01:34,18:54,50.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,31.0
+0,20212022,Philadelphia Flyers,National Hockey League,1,11,5,14,55,14,-11,16,765:44,85.0,44.0,1.0,2.0,103:17,658:11,48.39,5.9,0.0,0.0,0.0,0.0,04:16,29.0,1073.0
+0,20212022,Lehigh Valley Phantoms,AHL,173347,13,6,8,24,8,-9,19,,,,,,,,,,,,,,,,

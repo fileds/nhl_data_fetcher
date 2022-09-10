@@ -1,0 +1,12 @@
+,season,team,league,sequenceNumber,assists,goals,games,points,pim,penaltyMinutes,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20152016,The Winchendon School,USHS-Prep,29042,17,4,28,21,,,,,,,,,,,,,,,,,,,
+0,20152016,Cape Cod Whalers 16U AAA,MHSL U16,153713,6,5,12,11,21.0,21,,,,,,,,,,,,,,,,,
+0,20162017,The Winchendon School,USHS-Prep,29042,30,24,28,54,,,,,,,,,,,,,,,,,,,
+0,20162017,Eastern Mass Senators 18U AAA,MHSL U18,221134,10,8,14,18,6.0,6,,,,,,,,,,,,,,,,,
+0,20172018,Des Moines Buccaneers,USHL,9926,13,10,56,23,50.0,50,-19.0,,,,,,,,,,,,,,,,
+0,20182019,West Kelowna Warriors,BCHL,27044,33,39,58,72,16.0,16,,,,,,,,,,,,,,,,,
+0,20192020,Boston College,NCAA,9670,13,12,34,25,10.0,10,21.0,,,,,,,,,,,,,,,,
+0,20202021,Chicago Blackhawks,National Hockey League,1,2,1,8,3,0.0,0,0.0,87:54,5.0,38.0,0.0,0.0,00:52,87:02,50.0,20.0,0.0,0.0,0.0,0.0,00:00,6.0,127.0
+0,20202021,Boston College,NCAA,9670,9,10,24,19,14.0,14,5.0,,,,,,,,,,,,,,,,
+0,20212022,Chicago Blackhawks,National Hockey League,1,2,0,21,2,11.0,11,-6.0,195:19,12.0,60.0,0.0,0.0,04:17,190:55,50.0,0.0,0.0,0.0,0.0,0.0,00:07,12.0,301.0
+0,20212022,Rockford IceHogs,AHL,8267,13,19,43,32,8.0,8,8.0,,,,,,,,,,,,,,,,

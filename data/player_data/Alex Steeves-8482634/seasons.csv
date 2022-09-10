@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,New Hampshire Jr. Monarchs 16U,USPHL 16U,61576,21,17,34.0,28,34,38,,,,,,,,,,,,,,,,,
+0,20142015,New Hampshire Jr. Monarchs 18U,USPHL 18U,136938,1,0,0.0,1,0,1,,,,,,,,,,,,,,,,,
+0,20152016,Sioux City Musketeers,USHL,9956,6,5,16.0,39,16,11,-14.0,,,,,,,,,,,,,,,,
+0,20152016,New Hampshire Jr. Monarchs,EHL,19734,4,2,0.0,4,0,6,,,,,,,,,,,,,,,,,
+0,20152016,New Hampshire Jr. Monarchs 18U,EJEPL 18U,136181,4,1,2.0,13,2,5,,,,,,,,,,,,,,,,,
+0,20152016,New Hampshire Jr. Monarchs 18U,ECEL 18U,137117,6,6,16.0,9,16,12,,,,,,,,,,,,,,,,,
+0,20162017,Dubuque Fighting Saints,USHL,12506,12,6,33.0,53,33,18,-3.0,,,,,,,,,,,,,,,,
+0,20162017,Team Kelly,USA-S17,177445,1,0,,5,,1,,,,,,,,,,,,,,,,,
+0,20172018,Dubuque Fighting Saints,USHL,12506,37,20,28.0,55,28,57,4.0,,,,,,,,,,,,,,,,
+0,20172018,USA U19,WJAC-19,87412,3,0,0.0,5,0,3,,,,,,,,,,,,,,,,,
+0,20182019,Univ. of Notre Dame,NCAA,16100,2,7,10.0,39,10,9,-1.0,,,,,,,,,,,,,,,,
+0,20192020,Univ. of Notre Dame,NCAA,16100,17,11,10.0,36,10,28,6.0,,,,,,,,,,,,,,,,
+0,20202021,Univ. of Notre Dame,NCAA,16100,17,15,8.0,29,8,32,2.0,,,,,,,,,,,,,,,,
+0,20212022,Toronto Maple Leafs,National Hockey League,1,1,0,0.0,3,0,1,-1.0,23:55,2.0,1.0,0.0,0.0,00:00,23:55,0.0,0.0,0.0,0.0,0.0,0.0,00:00,1.0,40.0
+0,20212022,Toronto Marlies,AHL,13377,23,23,37.0,58,37,46,0.0,,,,,,,,,,,,,,,,

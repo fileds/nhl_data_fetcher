@@ -1,0 +1,13 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Laval Patriotes Midget Espoir,QMEAA,124726,1,0,0,3,0,1,,,,,,,,,,,,,,,,,
+0,20132014,Laval Patriotes Midget Espoir,QMEAA,124726,2,2,2,20,2,4,,,,,,,,,,,,,,,,,
+0,20142015,Laval-Montréal Rousseau Royal,QMAAA,61163,11,3,20,42,20,14,-1.0,,,,,,,,,,,,,,,,
+0,20152016,Shawinigan Cataractes,QMJHL,9670,2,1,22,55,22,3,1.0,,,,,,,,,,,,,,,,
+0,20162017,Shawinigan Cataractes,QMJHL,9670,10,2,47,64,47,12,4.0,,,,,,,,,,,,,,,,
+0,20172018,Shawinigan Cataractes,QMJHL,9670,23,5,67,63,67,28,-37.0,,,,,,,,,,,,,,,,
+0,20182019,San Diego Gulls,AHL,85177,14,2,33,65,33,16,16.0,,,,,,,,,,,,,,,,
+0,20192020,San Diego Gulls,AHL,85177,15,4,39,56,39,19,15.0,,,,,,,,,,,,,,,,
+0,20202021,Anaheim Ducks,National Hockey League,1,0,0,2,6,2,0,-3.0,103:11,3.0,20.0,0.0,0.0,00:08,93:13,0.0,0.0,0.0,0.0,0.0,0.0,09:50,9.0,138.0
+0,20202021,San Diego Gulls,AHL,85177,7,1,32,38,32,8,4.0,,,,,,,,,,,,,,,,
+0,20212022,Anaheim Ducks,National Hockey League,1,4,1,22,53,22,5,-5.0,746:54,45.0,168.0,0.0,0.0,00:26,707:57,0.0,2.2,0.0,0.0,0.0,0.0,38:31,39.0,989.0
+0,20212022,San Diego Gulls,AHL,85177,0,0,0,1,0,0,0.0,,,,,,,,,,,,,,,,

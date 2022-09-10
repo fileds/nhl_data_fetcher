@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476463,Jonas Brodin,/api/v1/people/8476463,Jonas,Brodin,25,1993-07-12,29,Karlstad,SWE,SWE,"6' 2""",196,True,False,False,False,L,Y,"{'id': 30, 'name': 'Minnesota Wild', 'link': '/api/v1/teams/30'}","{'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}"

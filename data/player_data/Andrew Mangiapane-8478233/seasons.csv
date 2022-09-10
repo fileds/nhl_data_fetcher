@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Miss. Senators,GTHL,1,17,22,44,46,44,39,,,,,,,,,,,,,,,,,
+0,20122013,Tor. Jr. Can. Midg.,GTHL,1,22,14,22,32,22,36,,,,,,,,,,,,,,,,,
+0,20122013,Tor. Canadiens,ON-Jr.A,2,0,0,2,4,2,0,0.0,0.0,0.0,,,,,,,,,,,,,,
+0,20132014,Barrie,OHL,1,27,24,28,68,28,51,1.0,2.0,1.0,19.0,,,,,,,,,,,,,
+0,20142015,Barrie,OHL,1,61,43,54,68,54,104,16.0,2.0,2.0,24.0,,,,,,,,,,,,,
+0,20152016,Barrie,OHL,1,55,51,50,59,50,106,10.0,6.0,8.0,40.0,213.0,23.9,,,,,,,,,,,
+0,20152016,Barrie Colts,OHL,9368,55,51,50,59,50,106,,,,40.0,,,,,,,,,,,,,
+0,20162017,Stockton Heat,AHL,186037,21,20,64,66,64,41,,,,4.0,,,,,,,,,,,,,
+0,20172018,Calgary Flames,National Hockey League,1,0,0,2,10,2,0,0.0,0.0,0.0,-3.0,7.0,0.0,89:18,9.0,0.0,00:15,89:03,100.0,0.0,0.0,00:00,4.0,129.0
+0,20172018,Stockton Heat,AHL,186037,25,21,20,39,20,46,,,,17.0,,,,,,,,,,,,,
+0,20182019,Calgary Flames,National Hockey League,1,5,8,12,44,12,13,0.0,1.0,0.0,11.0,65.0,12.31,463:56,43.0,0.0,19:52,441:30,66.67,0.0,0.0,02:34,17.0,653.0
+0,20182019,Stockton Heat,AHL,186037,8,9,20,15,20,17,,,,-5.0,,,,,,,,,,,,,
+0,20192020,Calgary Flames,National Hockey League,1,15,17,18,68,18,32,0.0,2.0,0.0,4.0,109.0,15.6,931:40,73.0,1.0,35:06,895:36,27.91,0.0,0.0,00:58,25.0,1249.0
+0,20202021,Calgary Flames,National Hockey League,1,14,18,24,56,24,32,2.0,4.0,1.0,1.0,91.0,19.8,933:25,51.0,5.0,101:27,757:07,11.76,0.0,1.0,74:51,33.0,1255.0
+0,20202021,Canada,WC,17155,4,7,0,7,0,11,,,,8.0,,,,,,,,,,,,,
+0,20212022,Calgary Flames,National Hockey League,1,20,35,38,82,38,55,8.0,8.0,2.0,20.0,185.0,18.9,1289:37,73.0,11.0,147:25,1036:15,38.18,0.0,3.0,105:57,32.0,1804.0

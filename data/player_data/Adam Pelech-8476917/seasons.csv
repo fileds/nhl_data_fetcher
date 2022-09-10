@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,shortHandedGoals,plusMinus,gameWinningGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Tor. Marlboros,GTHL,1,28,6,40,69,40,34,,,,,,,,,,,,,,,,,
+0,20102011,Erie,OHL,1,13,1,27,65,27,14,0.0,0.0,14.0,,,,,,,,,,,,,,
+0,20112012,Erie,OHL,1,18,2,52,44,52,20,1.0,0.0,-20.0,,,,,,,,,,,,,,
+0,20112012,Canada,WJ18-A,2,0,0,8,7,8,0,0.0,0.0,2.0,0.0,,,,,,,,,,,,,
+0,20122013,Erie,OHL,1,32,8,98,59,98,40,5.0,1.0,-16.0,,,,,,,,,,,,,,
+0,20132014,Erie,OHL,1,45,10,46,60,46,55,2.0,1.0,52.0,4.0,,,,,,,,,,,,,
+0,20132014,Canada,WJC-A,2,1,0,2,7,2,1,0.0,0.0,0.0,0.0,8.0,,,,,,,,,,,,
+0,20142015,Bridgeport,AHL,1,11,0,48,65,48,11,0.0,0.0,-2.0,0.0,67.0,0.0,,,,,,,,,,,
+0,20152016,New York Islanders,National Hockey League,1,2,0,0,9,0,2,0.0,0.0,-1.0,0.0,8.0,0.0,158:13,16.0,0.0,04:44,135:46,0.0,0.0,0.0,17:43,16.0,190.0
+0,20152016,Bridgeport,AHL,2,5,2,6,27,6,7,0.0,2.0,3.0,0.0,33.0,6.1,,,,,,,,,,,
+0,20152016,Bridgeport Islanders,AHL,827,5,2,6,27,6,7,,,3.0,,,,,,,,,,,,,,
+0,20162017,New York Islanders,National Hockey League,1,7,3,6,44,6,10,0.0,0.0,-5.0,0.0,40.0,7.5,740:42,73.0,0.0,01:29,696:13,0.0,0.0,0.0,43:00,68.0,868.0
+0,20162017,Bridgeport Islanders,AHL,827,4,1,10,13,10,5,,,0.0,,,,,,,,,,,,,,
+0,20172018,New York Islanders,National Hockey League,1,16,3,28,78,28,19,0.0,0.0,7.0,1.0,106.0,2.83,1503:23,100.0,2.0,24:46,1302:10,0.0,0.0,1.0,176:27,142.0,1841.0
+0,20182019,New York Islanders,National Hockey League,1,16,5,24,78,24,21,0.0,0.0,22.0,0.0,110.0,4.55,1453:06,149.0,0.0,07:04,1320:24,0.0,0.0,0.0,125:38,116.0,1898.0
+0,20192020,New York Islanders,National Hockey League,1,8,1,20,38,20,9,0.0,0.0,4.0,0.0,49.0,2.0,803:01,81.0,0.0,02:15,695:01,0.0,0.0,2.0,105:45,83.0,969.0
+0,20202021,New York Islanders,National Hockey League,1,10,4,18,56,18,14,0.0,1.0,15.0,0.0,82.0,4.9,1178:36,66.0,0.0,06:34,1046:58,0.0,0.0,2.0,125:04,73.0,1449.0
+0,20212022,New York Islanders,National Hockey League,1,25,3,42,78,42,28,0.0,0.0,20.0,0.0,104.0,2.9,1659:55,99.0,0.0,14:28,1465:57,0.0,0.0,2.0,179:30,128.0,2087.0

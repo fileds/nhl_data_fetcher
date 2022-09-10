@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,Oakville Blades,OJHL,20897,1,0,0,1,0,1,,,,,,,,,,,,,,,,,
+0,20142015,Oakville Rangers Minor Mdgt AAA,SCTAMM,93094,13,18,46,35,46,31,,,,,,,,,,,,,,,,,
+0,20152016,London Knights,OHL,2778,15,2,24,43,24,17,15.0,,,,,,,,,,,,,,,,
+0,20152016,Canada White U17,WHC-17,163790,5,1,4,6,4,6,,,,,,,,,,,,,,,,,
+0,20152016,Team White,U17-Dev,178269,2,1,2,3,2,3,,,,,,,,,,,,,,,,,
+0,20162017,London Knights,OHL,2778,33,11,24,68,24,44,30.0,,,,,,,,,,,,,,,,
+0,20162017,Canada U18,Hlinka Gretzky Cup,144760,0,0,0,4,0,0,0.0,,,,,,,,,,,,,,,,
+0,20172018,London Knights,OHL,2778,62,25,54,67,54,87,23.0,,,,,,,,,,,,,,,,
+0,20182019,Edmonton Oilers,National Hockey League,1,0,1,2,7,2,1,-5.0,86:29,10.0,6.0,1.0,1.0,10:11,75:42,0.0,10.0,0.0,0.0,0.0,0.0,00:36,8.0,112.0
+0,20182019,London Knights,OHL,2778,37,16,40,45,40,53,28.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U20,WJC-20,17216,3,0,0,5,0,3,6.0,,,,,,,,,,,,,,,,
+0,20192020,Bakersfield Condors,AHL,7257,29,7,42,54,42,36,-10.0,,,,,,,,,,,,,,,,
+0,20202021,Edmonton Oilers,National Hockey League,1,3,2,2,14,2,5,-2.0,207:41,38.0,11.0,1.0,1.0,09:49,194:06,0.0,5.3,0.0,0.0,0.0,0.0,03:46,11.0,254.0
+0,20202021,Södertälje SK,HockeyAllsvenskan,1330,11,6,76,23,76,17,-3.0,,,,,,,,,,,,,,,,
+0,20212022,Edmonton Oilers,National Hockey League,1,31,12,28,81,28,43,10.0,1604:12,205.0,80.0,2.0,7.0,107:30,1362:00,0.0,5.9,1.0,0.0,0.0,1.0,134:42,112.0,1813.0

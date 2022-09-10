@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Wat. Wolves MM,Minor-ON,1,28,19,24,56,24,47,,,,,,,,,,,,,,,,,
+0,20122013,Wat. Wolves Mid.,Minor-ON,1,17,17,24,31,24,34,,,,,,,,,,,,,,,,,
+0,20122013,Waterloo,ON-Jr.B,2,0,0,2,3,2,0,,,,,,,,,,,,,,,,,
+0,20132014,Peterborough,OHL,1,11,7,18,64,18,18,0.0,2.0,1.0,-4.0,,,,,,,,,,,,,
+0,20142015,Peterborough,OHL,1,21,16,15,59,15,37,5.0,2.0,1.0,-1.0,,,,,,,,,,,,,
+0,20152016,Peterborough,OHL,1,25,23,27,58,27,48,2.0,3.0,0.0,10.0,155.0,14.8,,,,,,,,,,,
+0,20152016,Peterborough Petes,OHL,9468,25,23,27,58,27,48,,,,10.0,,,,,,,,,,,,,
+0,20162017,Peterborough Petes,OHL,9468,32,29,37,66,37,61,,,,12.0,,,,,,,,,,,,,
+0,20172018,Charlotte Checkers,AHL,2357,0,0,0,3,0,0,,,,-2.0,,,,,,,,,,,,,
+0,20172018,Florida Everblades,ECHL,2565,23,12,34,62,34,35,,,,8.0,,,,,,,,,,,,,
+0,20182019,Charlotte Checkers,AHL,2357,6,3,23,29,23,9,,,,3.0,,,,,,,,,,,,,
+0,20182019,Florida Everblades,ECHL,2565,18,10,11,22,11,28,,,,17.0,,,,,,,,,,,,,
+0,20192020,Charlotte Checkers,AHL,2357,23,23,37,61,37,46,,,,23.0,,,,,,,,,,,,,
+0,20202021,Carolina Hurricanes,National Hockey League,1,6,2,8,45,8,8,0.0,1.0,0.0,1.0,40.0,5.0,469:45,47.0,0.0,03:17,459:15,51.13,0.0,0.0,07:13,16.0,652.0
+0,20212022,Carolina Hurricanes,National Hockey League,1,5,8,8,67,8,13,0.0,1.0,0.0,0.0,80.0,10.0,729:32,67.0,0.0,01:41,699:35,45.54,0.0,0.0,28:16,13.0,1030.0

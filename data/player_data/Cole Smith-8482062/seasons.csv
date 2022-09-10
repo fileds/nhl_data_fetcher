@@ -1,0 +1,16 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Brainerd High,USHS-MN,28568,6,17,25,25,25,23,,,,,,,,,,,,,,,,,
+0,20122013,Brainerd High,USHS-MN,28568,18,21,53,24,53,39,,,,,,,,,,,,,,,,,
+0,20132014,Brainerd High,USHS-MN,28568,23,18,50,23,50,41,,,,,,,,,,,,,,,,,
+0,20132014,Team Velocity,UMHSEHL,97808,7,7,10,18,10,14,,,,,,,,,,,,,,,,,
+0,20142015,Steinbach Pistons,MJHL,57890,11,12,25,38,25,23,,,,,,,,,,,,,,,,,
+0,20152016,Steinbach Pistons,MJHL,57890,35,26,45,54,45,61,,,,,,,,,,,,,,,,,
+0,20162017,Univ. of North Dakota,NCAA,11930,4,3,24,29,24,7,-4.0,,,,,,,,,,,,,,,,
+0,20172018,Univ. of North Dakota,NCAA,11930,5,5,66,37,66,10,7.0,,,,,,,,,,,,,,,,
+0,20182019,Univ. of North Dakota,NCAA,11930,11,5,50,37,50,16,12.0,,,,,,,,,,,,,,,,
+0,20192020,Univ. of North Dakota,NCAA,11930,7,11,37,34,37,18,6.0,,,,,,,,,,,,,,,,
+0,20202021,Nashville Predators,National Hockey League,1,0,0,0,1,0,0,0.0,05:57,1.0,0.0,0.0,0.0,00:00,05:57,0.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,9.0
+0,20202021,Chicago Wolves,AHL,957,5,5,16,23,16,10,-1.0,,,,,,,,,,,,,,,,
+0,20202021,Florida Everblades,ECHL,2565,2,1,0,5,0,3,5.0,,,,,,,,,,,,,,,,
+0,20212022,Nashville Predators,National Hockey League,1,0,0,0,8,0,0,-3.0,70:41,3.0,21.0,0.0,0.0,00:10,64:31,0.0,0.0,0.0,0.0,0.0,0.0,06:00,1.0,97.0
+0,20212022,Milwaukee Admirals,AHL,1017,20,21,62,59,62,41,3.0,,,,,,,,,,,,,,,,

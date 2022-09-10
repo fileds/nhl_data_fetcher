@@ -1,0 +1,22 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Langley Eagles Bantam A1,PCBHL,140434,30,10,50,33,50,0.0,40,,,,,,,,,,,,,,,,
+0,20102011,Valley West,BCMML,1,25,11,58,36,58,,36,,,,,,,,,,,,,,,,
+0,20102011,Aldergrove,PIJHL,2,1,0,18,4,18,,1,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20102011,Regina,WHL,3,0,0,0,1,0,0.0,0,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20112012,Regina,WHL,1,6,2,54,55,54,7.0,8,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20122013,Regina,WHL,1,28,5,91,70,91,-8.0,33,3.0,0.0,0.0,,,,,,,,,,,,,
+0,20132014,Regina,WHL,1,32,8,72,58,72,14.0,40,0.0,,0.0,,,,,,,,,,,,,
+0,20132014,Bridgeport,AHL,2,0,0,2,9,2,-6.0,0,0.0,0.0,0.0,15.0,0.0,,,,,,,,,,,
+0,20142015,Regina,WHL,1,17,5,47,36,47,31.0,22,1.0,2.0,0.0,,,,,,,,,,,,,
+0,20142015,Medicine Hat,WHL,2,15,2,38,30,38,4.0,17,1.0,0.0,0.0,,,,,,,,,,,,,
+0,20152016,Bridgeport,AHL,1,8,2,30,31,30,-11.0,10,0.0,0.0,0.0,36.0,5.6,,,,,,,,,,,
+0,20152016,Missouri,ECHL,2,6,1,17,18,17,11.0,7,0.0,,0.0,,,,,,,,,,,,,
+0,20152016,Bridgeport Islanders,AHL,827,8,2,30,31,30,-11.0,10,,,,,,,,,,,,,,,,
+0,20152016,Kansas City Mavericks,ECHL,48205,6,1,17,18,17,11.0,7,,,,,,,,,,,,,,,,
+0,20162017,Bridgeport Islanders,AHL,827,21,3,116,71,116,10.0,24,,,,,,,,,,,,,,,,
+0,20172018,Bridgeport Islanders,AHL,827,19,6,99,75,99,16.0,25,,,,,,,,,,,,,,,,
+0,20182019,Bridgeport Islanders,AHL,827,11,4,103,69,103,13.0,15,,,,,,,,,,,,,,,,
+0,20192020,Bridgeport Islanders,AHL,827,6,2,69,58,69,-7.0,8,,,,,,,,,,,,,,,,
+0,20202021,Colorado Avalanche,National Hockey League,1,1,0,5,5,5,1.0,1,0.0,0.0,0.0,3.0,0.0,50:24,10.0,0.0,00:00,47:40,0.0,0.0,0.0,02:44,2.0,73.0
+0,20202021,Colorado Eagles,AHL,8957,3,1,12,11,12,6.0,4,,,,,,,,,,,,,,,,
+0,20212022,Vancouver Canucks,National Hockey League,1,4,1,39,42,39,-3.0,5,0.0,0.0,0.0,39.0,2.6,543:20,122.0,0.0,00:43,519:45,0.0,0.0,0.0,22:52,59.0,758.0

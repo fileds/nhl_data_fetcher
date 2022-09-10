@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Pursuit of Excellence 18U,NAPHL 18U,112008,13,4,22,22,22,0.0,17,,,,,,,,,,,,,,,,
+0,20132014,PoE Acad. Prep,CSSHL,1,16,9,38,25,38,,25,,,,,,,,,,,,,,,,
+0,20132014,PoE Acad. U18,NAPHL,2,16,9,18,24,18,,25,,,,,,,,,,,,,,,,
+0,20132014,PoE Acad. U18,Other,3,6,2,4,9,4,,8,,,,,,,,,,,,,,,,
+0,20132014,West Kelowna,BCHL,4,0,0,0,3,0,,0,0.0,0.0,0.0,,,,,,,,,,,,,
+0,20142015,Merritt,BCHL,1,19,6,43,53,43,,25,1.0,1.0,0.0,,,,,,,,,,,,,
+0,20152016,Chicago,USHL,1,22,10,97,39,97,,32,,,,,,,,,,,,,,,,
+0,20152016,Tri-City,USHL,2,5,5,46,18,46,,10,,,,,,,,,,,,,,,,
+0,20152016,Chicago Steel,JCWC,9380,0,5,8,5,8,3.0,5,,,,,,,,,,,,,,,,
+0,20152016,Chicago Steel,USHL,9906,22,10,97,39,97,5.0,32,,,,,,,,,,,,,,,,
+0,20152016,Tri-City Storm,USHL,28026,5,5,46,18,46,3.0,10,,,,,,,,,,,,,,,,
+0,20162017,Providence College,NCAA,7690,8,4,45,35,45,-9.0,12,,,,,,,,,,,,,,,,
+0,20172018,Providence College,NCAA,7690,19,7,64,40,64,12.0,26,,,,,,,,,,,,,,,,
+0,20182019,Providence College,NCAA,7690,23,11,53,42,53,15.0,34,,,,,,,,,,,,,,,,
+0,20192020,Iowa Wild,AHL,149087,14,6,71,63,71,4.0,20,,,,,,,,,,,,,,,,
+0,20202021,Iowa Wild,AHL,149087,3,6,32,24,32,7.0,9,,,,,,,,,,,,,,,,
+0,20212022,Minnesota Wild,National Hockey League,1,11,6,122,80,122,-2.0,17,0.0,1.0,0.0,817:27,91.0,201.0,0.0,02:16,767:14,28.57,6.6,0.0,0.0,47:57,18.0,1156.0

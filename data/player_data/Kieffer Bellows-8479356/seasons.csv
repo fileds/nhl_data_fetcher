@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Southwest,UMHSEL,1,2,1,10.0,7,10,3,,,,,,,,,,,,,,,,,
+0,20132014,Metro SW,MEPDL,2,2,6,,3,,8,,,,,,,,,,,,,,,,,
+0,20132014,Edina,High-MN,3,17,10,45.0,25,45,27,,,,,,,,,,,,,,,,,
+0,20142015,Sioux Falls,USHL,1,19,33,78.0,58,78,52,196.0,6.0,16.8,2.0,0.0,10.0,,,,,,,,,,,
+0,20152016,USAHNTDP,USHL,1,16,16,41.0,23,41,32,111.0,5.0,14.4,5.0,0.0,17.0,,,,,,,,,,,
+0,20152016,USAHNTDP,U-18,2,15,34,60.0,39,60,49,,,,,,,,,,,,,,,,,
+0,20152016,U.S.A.,WJ18-A,3,3,5,8.0,7,8,8,29.0,0.0,17.2,1.0,0.0,6.0,,,,,,,,,,,
+0,20152016,USA U18,WJC-18,17253,3,5,8.0,7,8,8,,,,,,6.0,,,,,,,,,,,
+0,20152016,U.S. National U18 Team,USDP,19564,31,50,101.0,62,101,81,,,,,,,,,,,,,,,,,
+0,20152016,USNTDP Juniors,USHL,52486,16,16,41.0,23,41,32,,,,,,17.0,,,,,,,,,,,
+0,20162017,Boston Univ.,NCAA,6890,7,7,40.0,34,40,14,,,,,,-9.0,,,,,,,,,,,
+0,20162017,USA U20,WJC-20,17276,1,2,6.0,7,6,3,,,,,,2.0,,,,,,,,,,,
+0,20172018,Portland Winterhawks,WHL,8511,33,41,63.0,56,63,74,,,,,,40.0,,,,,,,,,,,
+0,20172018,USA U20,WJC-20,17276,1,9,4.0,7,4,10,,,,,,2.0,,,,,,,,,,,
+0,20182019,Bridgeport Islanders,AHL,827,7,12,101.0,73,101,19,,,,,,-20.0,,,,,,,,,,,
+0,20192020,New York Islanders,National Hockey League,1,1,2,2.0,8,2,3,11.0,0.0,18.2,1.0,0.0,3.0,85:12,12.0,0.0,00:05,85:07,0.0,0.0,0.0,00:00,4.0,113.0
+0,20192020,Bridgeport Islanders,AHL,827,9,22,49.0,52,49,31,,,,,,-16.0,,,,,,,,,,,
+0,20202021,New York Islanders,National Hockey League,1,0,3,4.0,14,4,3,19.0,0.0,15.8,1.0,0.0,0.0,154:17,36.0,0.0,10:39,143:38,50.0,0.0,0.0,00:00,5.0,200.0
+0,20212022,New York Islanders,National Hockey League,1,13,6,19.0,45,19,19,79.0,0.0,7.6,2.0,0.0,-1.0,533:54,103.0,4.0,21:16,512:08,0.0,0.0,0.0,00:30,14.0,681.0
+0,20212022,USA,WC,17215,2,3,7.0,10,7,5,,,,,,-1.0,,,,,,,,,,,

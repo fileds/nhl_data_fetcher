@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20142015,Lethbridge Golden Hawks Btm AAA,AMBHL,56328,15,12,40,33,40,27,,,,,,,,,,,,,,,,,
+0,20152016,Lethbridge Golden Hawks U15 AAA,AEHL U15,57069,37,22,32,34,32,59,,,,,,,,,,,,,,,,,
+0,20162017,Vancouver Giants,WHL,9661,0,0,8,11,8,0,-5.0,,,,,,,,,,,,,,,,
+0,20162017,Lethbridge Hurricanes U18 AAA,AEHL U18,91581,5,3,6,8,6,8,,,,,,,,,,,,,,,,,
+0,20162017,Team Alberta,WCCC-16,113323,1,0,2,4,2,1,,,,,,,,,,,,,,,,,
+0,20162017,Yale Hockey Academy U18 Prep,CSSHL U18,178286,24,5,32,20,32,29,,,,,,,,,,,,,,,,,
+0,20172018,Vancouver Giants,WHL,9661,21,6,52,60,52,27,-3.0,,,,,,,,,,,,,,,,
+0,20172018,Canada U18,WJC-18,17193,1,0,0,5,0,1,1.0,,,,,,,,,,,,,,,,
+0,20172018,Canada Red U17,WHC-17,163770,4,1,2,6,2,5,,,,,,,,,,,,,,,,,
+0,20172018,Team Red,U17-Dev,178229,0,0,0,3,0,0,,,,,,,,,,,,,,,,,
+0,20182019,Vancouver Giants,WHL,9661,45,26,80,67,80,71,33.0,,,,,,,,,,,,,,,,
+0,20182019,Canada U18,Hlinka Gretzky Cup,144760,3,1,8,5,8,4,,,,,,,,,,,,,,,,,
+0,20192020,Vancouver Giants,WHL,9661,38,14,76,50,76,52,19.0,,,,,,,,,,,,,,,,
+0,20192020,Canada U20,WJC-20,17216,2,0,0,7,0,2,0.0,,,,,,,,,,,,,,,,
+0,20202021,Colorado Avalanche,National Hockey League,1,2,0,23,19,23,2,1.0,332:43,21.0,33.0,0.0,0.0,14:48,311:39,0.0,0.0,0.0,0.0,0.0,0.0,06:16,13.0,422.0
+0,20202021,Canada U20,WJC-20,17216,4,1,0,7,0,5,13.0,,,,,,,,,,,,,,,,
+0,20212022,Colorado Avalanche,National Hockey League,1,12,5,12,30,12,17,7.0,564:14,49.0,53.0,1.0,1.0,29:03,526:18,0.0,10.2,2.0,0.0,0.0,0.0,08:53,26.0,708.0
+0,20212022,Colorado Eagles,AHL,8957,0,0,2,2,2,0,1.0,,,,,,,,,,,,,,,,

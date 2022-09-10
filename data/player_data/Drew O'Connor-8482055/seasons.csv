@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,New Jersey Colonials 13U AAA,AYHL 13U,222379,15,9,12.0,15,12,24,,,,,,,,,,,,,,,,,
+0,20122013,New Jersey Colonials 14U AAA,AYHL 14U,204830,6,8,10.0,19,10,14,,,,,,,,,,,,,,,,,
+0,20132014,Delbarton School,USHS-Prep,47172,1,0,,9,,1,,,,,,,,,,,,,,,,,
+0,20142015,Delbarton School,USHS-Prep,47172,7,1,,28,,8,,,,,,,,,,,,,,,,,
+0,20152016,North Jersey Avalanche 18U AAA,AYHL 18U,46788,10,13,6.0,19,6,23,,,,,,,,,,,,,,,,,
+0,20152016,North Jersey Avalanche 18U AAA,T1EHL 18U,47907,12,6,6.0,23,6,18,,,,,,,,,,,,,,,,,
+0,20162017,North Jersey Avalanche 18U AAA,AYHL 18U,46788,7,6,10.0,17,10,13,,,,,,,,,,,,,,,,,
+0,20162017,North Jersey Avalanche 18U AAA,T1EHL 18U,47907,13,11,18.0,31,18,24,,,,,,,,,,,,,,,,,
+0,20162017,New Jersey Jr. Titans,NAHL,190304,0,0,0.0,3,0,0,-1.0,,,,,,,,,,,,,,,,
+0,20172018,Boston Jr. Bruins,NCDC,169995,26,13,12.0,49,12,39,,,,,,,,,,,,,,,,,
+0,20182019,Dartmouth College,NCAA,19730,9,17,14.0,34,14,26,0.0,,,,,,,,,,,,,,,,
+0,20192020,Dartmouth College,NCAA,19730,12,21,42.0,31,42,33,3.0,,,,,,,,,,,,,,,,
+0,20202021,Pittsburgh Penguins,National Hockey League,1,1,0,2.0,10,2,1,-2.0,89:32,8.0,6.0,0.0,0.0,13:11,73:28,50.0,0.0,0.0,0.0,0.0,0.0,02:53,2.0,121.0
+0,20202021,Wilkes-Barre/Scranton Penguins,AHL,1077,12,7,14.0,20,14,19,0.0,,,,,,,,,,,,,,,,
+0,20202021,Manglerud,Norway,2396,4,6,8.0,7,8,10,2.0,,,,,,,,,,,,,,,,
+0,20212022,Pittsburgh Penguins,National Hockey League,1,2,3,4.0,22,4,5,-1.0,226:14,40.0,12.0,0.0,0.0,19:39,204:53,34.62,7.5,0.0,0.0,0.0,0.0,01:42,7.0,299.0
+0,20212022,Wilkes-Barre/Scranton Penguins,AHL,1077,20,12,19.0,33,19,32,0.0,,,,,,,,,,,,,,,,

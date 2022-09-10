@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,shutouts,ties,wins,losses,goalsAgainst,shotsAgainst,ot,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20132014,Russia U17,WHC-17,60591,0.887,5.71,3,,,,,,,,,,,,,,,,,,,
+0,20142015,Magnitogorsk,KHL,1,,5.5,1,22:00,0.0,0.0,0.0,0.0,2.0,,,,,,,,,,,,,
+0,20142015,Magnitogorsk Jr.,Russia-Jr.,2,,2.66,18,1039:00,2.0,0.0,11.0,4.0,46.0,,,,,,,,,,,,,
+0,20142015,Metallurg Magnitogorsk,KHL,2374,0.5,5.5,1,,,,,,,,,,,,,,,,,,,
+0,20142015,Russia U18,WJC-18,17523,0.934,2.67,3,,,,,,,,,,,,,,,,,,,
+0,20142015,Stalnye Lisy Magnitogorsk,MHL,49662,0.918,2.66,18,,,,,,,,,,,,,,,,,,,
+0,20152016,Magnitogorsk Jr.,Russia-Jr.,1,,1.8,5,300:00,0.0,0.0,5.0,0.0,9.0,,,,,,,,,,,,,
+0,20152016,Magnitogorsk,KHL,2,,2.04,19,853:00,2.0,0.0,6.0,4.0,29.0,,,,,,,,,,,,,
+0,20152016,Russia,WJC-A,3,,1.0,2,120:00,0.0,0.0,2.0,0.0,2.0,45.0,,,,,,,,,,,,
+0,20152016,Metallurg Magnitogorsk,KHL,2374,0.925,2.04,19,,,,,,,,,,,,,,,,,,,
+0,20152016,Russia U20,WJC-20,17546,0.956,1.0,2,,,,,,,,,,,,,,,,,,,
+0,20152016,Stalnye Lisy Magnitogorsk,MHL,49662,0.935,1.8,5,,,,,,,,,,,,,,,,,,,
+0,20162017,Metallurg Magnitogorsk,KHL,2374,0.936,2.13,27,,,,,,,,,,,,,,,,,,,
+0,20162017,Russia U20,WJC-20,17546,0.93,2.11,6,,,,,,,,,,,,,,,,,,,
+0,20172018,Metallurg Magnitogorsk,KHL,2374,0.926,2.31,26,,,,,,,,,,,,,,,,,,,
+0,20182019,Hershey Bears,AHL,997,0.898,2.7,37,,,,,,,,,,,,,,,,,,,
+0,20192020,Washington Capitals,National Hockey League,1,0.913,2.5513,26,1411:02,1.0,0.0,16.0,6.0,60.0,689.0,2.0,629.0,83.0,29.0,517.0,34.0,560.0,95.0,22.0,87.36842105263159,85.29411764705883,92.32142857142858
+0,20202021,Washington Capitals,National Hockey League,1,0.902,2.6903,19,1092:49,2.0,0.0,13.0,4.0,49.0,499.0,1.0,450.0,61.0,8.0,381.0,10.0,419.0,70.0,18.0,87.14285714285714,80.0,90.9307875894988
+0,20202021,Hershey Bears,AHL,997,0.869,3.25,4,,,,,,,,,,,,,,,,,,,
+0,20212022,Washington Capitals,National Hockey League,1,0.896,3.02376,44,2361:18,3.0,0.0,23.0,12.0,119.0,1145.0,5.0,1026.0,118.0,37.0,871.0,41.0,966.0,138.0,39.0,85.5072463768116,90.2439024390244,90.1656314699793

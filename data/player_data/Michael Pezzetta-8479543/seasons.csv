@@ -1,0 +1,14 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,shots,shotPct,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Miss. Senators,GTHL,1,15,11,10,29,10,26,,,,,,,,,,,,,,,,,
+0,20142015,Sudbury,OHL,1,7,5,56,61,56,12,0.0,0.0,0.0,-28.0,,,,,,,,,,,,,
+0,20152016,Sudbury,OHL,1,18,10,98,64,98,28,2.0,1.0,1.0,-44.0,129.0,7.8,,,,,,,,,,,
+0,20152016,Sudbury Wolves,OHL,6228,18,10,98,64,98,28,,,,-44.0,,,,,,,,,,,,,
+0,20162017,Sudbury Wolves,OHL,6228,9,10,88,54,88,19,,,,-21.0,,,,,,,,,,,,,
+0,20172018,Sudbury Wolves,OHL,6228,16,15,53,35,53,31,,,,-17.0,,,,,,,,,,,,,
+0,20172018,Sarnia Sting,OHL,9498,13,8,26,27,26,21,,,,1.0,,,,,,,,,,,,,
+0,20182019,Laval Rocket,AHL,222817,4,6,77,55,77,10,,,,-13.0,,,,,,,,,,,,,
+0,20182019,Maine Mariners,ECHL,251095,0,0,6,3,6,0,,,,-3.0,,,,,,,,,,,,,
+0,20192020,Laval Rocket,AHL,222817,2,2,63,32,63,4,,,,-2.0,,,,,,,,,,,,,
+0,20202021,Laval Rocket,AHL,222817,3,2,30,20,30,5,,,,3.0,,,,,,,,,,,,,
+0,20212022,Montréal Canadiens,National Hockey League,1,6,5,81,51,81,11,0.0,0.0,0.0,-7.0,49.0,10.2,399:38,156.0,0.0,05:46,393:43,54.55,0.0,0.0,00:09,8.0,596.0
+0,20212022,Laval Rocket,AHL,222817,3,3,16,8,16,6,,,,7.0,,,,,,,,,,,,,

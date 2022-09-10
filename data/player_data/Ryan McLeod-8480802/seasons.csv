@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Toronto Marlboros Mn Mdgt AAA,GTMMHL,82393,2,0,0,2,0,2,,,,,,,,,,,,,,,,,
+0,20142015,Oakville Blades,OJHL,20897,0,0,0,2,0,0,,,,,,,,,,,,,,,,,
+0,20142015,Toronto Marlboros Mn Mdgt AAA,GTMMHL,82393,51,30,46,74,46,81,,,,,,,,,,,,,,,,,
+0,20152016,Mississauga Steelheads,OHL,126668,13,7,16,62,16,20,-6.0,,,,,,,,,,,,,,,,
+0,20152016,Canada White U17,WHC-17,163790,1,0,4,6,4,1,,,,,,,,,,,,,,,,,
+0,20152016,Team Gold,U17-Dev,178249,0,0,2,3,2,0,,,,,,,,,,,,,,,,,
+0,20162017,Mississauga Steelheads,OHL,126668,33,9,36,68,36,42,12.0,,,,,,,,,,,,,,,,
+0,20162017,Canada U18,Hlinka Gretzky Cup,144760,0,0,4,4,4,0,2.0,,,,,,,,,,,,,,,,
+0,20172018,Mississauga Steelheads,OHL,126668,44,26,26,68,26,70,-2.0,,,,,,,,,,,,,,,,
+0,20182019,Saginaw Spirit,OHL,9488,17,7,16,31,16,24,18.0,,,,,,,,,,,,,,,,
+0,20182019,Mississauga Steelheads,OHL,126668,26,12,17,32,17,38,-12.0,,,,,,,,,,,,,,,,
+0,20192020,Bakersfield Condors,AHL,7257,18,5,22,56,22,23,0.0,,,,,,,,,,,,,,,,
+0,20202021,Edmonton Oilers,National Hockey League,1,1,0,0,10,0,1,-2.0,127:53,3.0,3.0,0.0,0.0,06:41,110:18,50.62,0.0,0.0,0.0,0.0,0.0,10:54,5.0,167.0
+0,20202021,Zug,NL,2426,7,4,10,15,10,11,3.0,,,,,,,,,,,,,,,,
+0,20202021,Bakersfield Condors,AHL,7257,14,14,10,28,10,28,23.0,,,,,,,,,,,,,,,,
+0,20212022,Edmonton Oilers,National Hockey League,1,12,9,12,71,12,21,-2.0,905:58,82.0,28.0,2.0,5.0,54:57,771:19,47.24,11.0,1.0,0.0,0.0,0.0,79:42,25.0,1239.0
+0,20212022,Bakersfield Condors,AHL,7257,4,1,6,7,6,5,-2.0,,,,,,,,,,,,,,,,

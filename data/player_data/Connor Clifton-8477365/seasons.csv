@@ -1,0 +1,23 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20082009,New Jersey Jr. Titans Bantam Min,AYMBHL,222131,11,15,92,32,92,0.0,26,,,,,,,,,,,,,,,,
+0,20092010,New Jersey Hitmen,EmJHL,58240,10,2,59,33,59,0.0,12,,,,,,,,,,,,,,,,
+0,20102011,Jersey,EmJHL,1,14,4,95,36,95,,18,,,,,,,,,,,,,,,,
+0,20112012,Jersey,EmJHL,1,1,0,26,4,26,,1,,,,,,,,,,,,,,,,
+0,20112012,Jersey,EJHL,2,11,1,46,28,46,,12,,,,,,,,,,,,,,,,
+0,20112012,USNTDP,USHL,3,0,1,16,8,16,-2.0,1,12.0,0.0,8.33,1.0,0.0,,,,,,,,,,,
+0,20112012,USNTDP,U-17,4,1,0,8,4,8,,1,,,,,,,,,,,,,,,,
+0,20122013,USNTDP,USHL,1,6,3,90,25,90,11.0,9,38.0,0.0,7.89,0.0,0.0,,,,,,,,,,,
+0,20122013,USNTDP,U-18,2,9,5,24,41,24,,14,,,,,,,,,,,,,,,,
+0,20122013,U.S.A.,WJ18-A,3,0,1,2,7,2,-3.0,1,5.0,0.0,20.0,0.0,0.0,,,,,,,,,,,
+0,20132014,Quinnipiac,ECAC,1,4,5,106,36,106,,9,,0.0,,1.0,0.0,,,,,,,,,,,
+0,20142015,Quinnipiac,ECAC,1,5,0,54,38,54,,5,,0.0,,0.0,0.0,,,,,,,,,,,
+0,20152016,Quinnipiac,ECAC,1,21,7,42,43,42,20.0,28,,0.0,,3.0,0.0,,,,,,,,,,,
+0,20152016,Quinnipiac Univ.,NCAA,21340,21,7,42,43,42,20.0,28,,,,,,,,,,,,,,,,
+0,20162017,Quinnipiac Univ.,NCAA,21340,7,7,82,39,82,-2.0,14,,,,,,,,,,,,,,,,
+0,20172018,Providence Bruins,AHL,897,9,4,35,54,35,11.0,13,,,,,,,,,,,,,,,,
+0,20182019,Boston Bruins,National Hockey League,1,1,0,15,19,15,5.0,1,22.0,0.0,0.0,0.0,0.0,336:24,40.0,0.0,00:56,323:19,0.0,0.0,0.0,12:09,13.0,454.0
+0,20182019,Providence Bruins,AHL,897,21,6,52,53,52,13.0,27,,,,,,,,,,,,,,,,
+0,20192020,Boston Bruins,National Hockey League,1,0,2,12,31,12,4.0,2,20.0,0.0,10.0,0.0,0.0,447:04,90.0,0.0,02:34,430:22,0.0,0.0,0.0,14:08,33.0,610.0
+0,20192020,Providence Bruins,AHL,897,0,0,0,2,0,2.0,0,,,,,,,,,,,,,,,,
+0,20202021,Boston Bruins,National Hockey League,1,6,1,38,44,38,10.0,7,48.0,0.0,2.1,0.0,0.0,801:32,108.0,0.0,03:24,738:04,0.0,0.0,1.0,60:04,52.0,1055.0
+0,20212022,Boston Bruins,National Hockey League,1,8,2,32,60,32,-2.0,10,80.0,0.0,2.5,0.0,0.0,963:51,156.0,0.0,01:46,889:01,0.0,0.0,0.0,73:04,62.0,1256.0

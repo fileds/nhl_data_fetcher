@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Central Ontario Wolves Mdgt AAA,ETAHL,22776,8,12,24,34,24,0,20,,,,,,,,,,,,,,,,
+0,20122013,Central Ontario Wolves Mdgt AAA,ETAHL,22776,16,23,54,27,54,0,39,,,,,,,,,,,,,,,,
+0,20132014,Cobourg Cougars,OJHL,37007,21,22,84,51,84,0,43,,,,,,,,,,,,,,,,
+0,20142015,Erie Otters,OHL,8689,18,8,29,54,29,12,26,,,,,,,,,,,,,,,,
+0,20152016,Toronto Marlies,AHL,13377,0,0,0,3,0,0,0,,,,,,,,,,,,,,,,
+0,20152016,Mississauga Steelheads,OHL,126668,8,10,22,27,22,-6,18,,,,,,,,,,,,,,,,
+0,20152016,Hamilton Bulldogs,OHL,186878,23,10,30,34,30,-7,33,,,,,,,,,,,,,,,,
+0,20162017,Toronto Marlies,AHL,13377,0,1,6,9,6,-2,1,,,,,,,,,,,,,,,,
+0,20162017,Orlando Solar Bears,ECHL,113515,6,14,27,35,27,1,20,,,,,,,,,,,,,,,,
+0,20172018,Toronto Marlies,AHL,13377,15,11,36,44,36,12,26,,,,,,,,,,,,,,,,
+0,20182019,Toronto Marlies,AHL,13377,12,13,60,44,60,5,25,,,,,,,,,,,,,,,,
+0,20192020,Toronto Maple Leafs,National Hockey League,1,1,0,0,4,0,0,1,32:20,3.0,3.0,0.0,0.0,00:42,31:38,100.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,44.0
+0,20192020,Toronto Marlies,AHL,13377,5,13,28,24,28,-6,18,,,,,,,,,,,,,,,,
+0,20192020,Springfield Thunderbirds,AHL,39667,2,0,8,6,8,0,2,,,,,,,,,,,,,,,,
+0,20202021,Florida Panthers,National Hockey League,1,8,2,18,33,18,4,10,466:29,50.0,73.0,0.0,0.0,28:45,436:09,38.24,4.0,0.0,0.0,0.0,0.0,01:35,8.0,611.0
+0,20212022,Florida Panthers,National Hockey League,1,29,18,53,54,53,29,47,762:24,121.0,114.0,1.0,2.0,46:35,714:22,27.5,14.9,2.0,0.0,0.0,0.0,01:27,9.0,977.0

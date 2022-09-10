@@ -1,0 +1,18 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Ashwaubenon High,USHS-WI,138147,23,15,12,23,12,0.0,38,,,,,,,,,,,,,,,,
+0,20112012,Notre Dame Acad.,High-WI,1,32,10,15,24,15,,42,,,,,,,,,,,,,,,,
+0,20122013,Notre Dame Acad.,High-WI,1,21,15,19,23,19,,36,,,,,,,,,,,,,,,,
+0,20132014,Wisconsin,UMHSEL,1,9,1,16,21,16,,10,,,,,,,,,,,,,,,,
+0,20132014,Notre Dame Acad.,High-WI,2,34,26,6,23,6,,60,,,,,,,,,,,,,,,,
+0,20142015,Tri-City,USHL,1,28,12,84,54,84,-3.0,40,96.0,2.0,12.5,0.0,2.0,,,,,,,,,,,
+0,20152016,Michigan State,Big Ten,1,17,5,32,37,32,-30.0,22,,0.0,,2.0,0.0,,,,,,,,,,,
+0,20152016,Michigan State Univ.,NCAA,12130,17,5,32,37,32,-30.0,22,,,,,,,,,,,,,,,,
+0,20162017,Michigan State Univ.,NCAA,12130,19,12,37,35,37,-15.0,31,,,,,,,,,,,,,,,,
+0,20172018,Manitoba Moose,AHL,877,44,22,57,76,57,14.0,66,,,,,,,,,,,,,,,,
+0,20182019,Winnipeg Jets,National Hockey League,1,7,3,4,36,4,9.0,10,29.0,0.0,10.34,1.0,0.0,295:21,28.0,0.0,01:29,285:01,0.0,0.0,0.0,08:51,12.0,427.0
+0,20182019,Manitoba Moose,AHL,877,17,15,24,40,24,-5.0,32,,,,,,,,,,,,,,,,
+0,20192020,Winnipeg Jets,National Hockey League,1,3,5,20,46,20,-9.0,8,55.0,0.0,9.1,0.0,1.0,513:28,20.0,0.0,05:11,465:22,38.46,0.0,1.0,42:55,12.0,691.0
+0,20192020,Manitoba Moose,AHL,877,1,0,0,4,0,-4.0,1,,,,,,,,,,,,,,,,
+0,20202021,Winnipeg Jets,National Hockey League,1,13,12,14,56,14,11.0,25,88.0,0.0,13.6,1.0,0.0,807:05,61.0,0.0,28:43,726:11,53.85,0.0,1.0,52:11,22.0,1060.0
+0,20212022,Seattle Kraken,National Hockey League,1,11,6,14,49,14,-4.0,17,68.0,0.0,8.8,2.0,0.0,700:54,39.0,0.0,26:17,664:35,35.0,0.0,0.0,10:02,12.0,958.0
+0,20212022,Winnipeg Jets,National Hockey League,2,2,2,16,19,16,3.0,4,30.0,0.0,6.7,1.0,0.0,311:17,25.0,0.0,09:32,259:24,0.0,0.0,0.0,42:21,8.0,396.0

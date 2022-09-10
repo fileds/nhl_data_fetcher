@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,currentTeam,primaryPosition
+0,8476915,Jujhar Khaira,/api/v1/people/8476915,Jujhar,Khaira,16,1994-08-13,28,Surrey,BC,CAN,CAN,"6' 4""",212,True,False,False,False,L,I,"{'id': 16, 'name': 'Chicago Blackhawks', 'link': '/api/v1/teams/16'}","{'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}"

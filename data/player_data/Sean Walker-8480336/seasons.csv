@@ -1,0 +1,15 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20112012,Milton Menace,OJHL,21367,3,0,2,5,2,0,3,,,,,,,,,,,,,,,,
+0,20112012,Georgina Ice,COJCHL,71116,11,4,32,36,32,0,15,,,,,,,,,,,,,,,,
+0,20122013,Milton Menace,OJHL,21367,20,4,61,53,61,0,24,,,,,,,,,,,,,,,,
+0,20132014,Bowling Green State Univ.,NCAA,12210,11,2,75,38,75,9,13,,,,,,,,,,,,,,,,
+0,20142015,Bowling Green State Univ.,NCAA,12210,15,5,85,39,85,10,20,,,,,,,,,,,,,,,,
+0,20152016,Bowling Green State Univ.,NCAA,12700,18,5,48,42,48,13,23,,,,,,,,,,,,,,,,
+0,20162017,Bowling Green State Univ.,NCAA,12700,14,10,42,41,42,15,24,,,,,,,,,,,,,,,,
+0,20172018,Ontario Reign,AHL,26957,21,7,59,64,59,17,28,,,,,,,,,,,,,,,,
+0,20182019,Los Angeles Kings,National Hockey League,1,7,3,8,39,8,-8,10,601:50,55.0,43.0,1.0,1.0,05:18,593:05,0.0,5.45,0.0,0.0,0.0,0.0,03:27,40.0,783.0
+0,20182019,Ontario Reign,AHL,26957,11,6,18,22,18,5,17,,,,,,,,,,,,,,,,
+0,20192020,Los Angeles Kings,National Hockey League,1,19,5,26,70,26,-12,24,1318:34,127.0,81.0,0.0,5.0,57:18,1175:54,0.0,3.9,0.0,0.0,0.0,0.0,85:22,84.0,1607.0
+0,20202021,Los Angeles Kings,National Hockey League,1,13,5,18,47,18,-13,18,853:54,92.0,43.0,0.0,1.0,72:56,719:36,0.0,5.4,0.0,0.0,0.0,0.0,61:22,72.0,1044.0
+0,20202021,Canada,WC,17155,2,0,12,10,12,0,2,,,,,,,,,,,,,,,,
+0,20212022,Los Angeles Kings,National Hockey League,1,2,0,4,6,4,-1,2,110:14,18.0,9.0,0.0,1.0,10:36,94:21,0.0,0.0,0.0,0.0,0.0,0.0,05:17,9.0,133.0

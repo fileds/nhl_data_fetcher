@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,games,points,pim,powerPlayGoals,penaltyMinutes,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,St. John's Prep,High-MA,1,33,33,25,66,,,,,,,,,,,,,,,,,,,
+0,20112012,Harvard,ECAC,1,14,5,34,19,46.0,1.0,46,0.0,0.0,,,,,,,,,,,,,,
+0,20122013,Harvard,ECAC,1,11,3,21,14,10.0,1.0,10,0.0,1.0,,,,,,,,,,,,,,
+0,20142015,Harvard,ECAC,1,1,5,11,6,6.0,1.0,6,1.0,0.0,,,,,,,,,,,,,,
+0,20152016,Harvard,ECAC,1,13,6,28,19,12.0,2.0,12,1.0,0.0,6.0,,,,,,,,,,,,,
+0,20152016,Harvard Univ.,NCAA,13950,13,6,28,19,12.0,,12,,,6.0,,,,,,,,,,,,,
+0,20162017,San Jose Barracuda,AHL,187427,7,4,57,11,24.0,,24,,,-7.0,,,,,,,,,,,,,
+0,20172018,Rochester Americans,AHL,1047,28,17,61,45,23.0,,23,,,15.0,,,,,,,,,,,,,
+0,20182019,Nashville Predators,National Hockey League,1,0,0,6,0,2.0,0.0,2,0.0,0.0,-1.0,58:26,5.0,10.0,0.0,00:33,57:53,44.83,0.0,0.0,0.0,00:00,3.0,86.0
+0,20182019,Milwaukee Admirals,AHL,1017,12,14,43,26,22.0,,22,,,-12.0,,,,,,,,,,,,,
+0,20192020,Nashville Predators,National Hockey League,1,7,3,27,10,10.0,0.0,10,0.0,0.0,7.0,295:46,31.0,43.0,0.0,02:23,293:22,56.06,9.7,0.0,0.0,00:01,23.0,405.0
+0,20192020,Milwaukee Admirals,AHL,1017,17,6,26,23,21.0,,21,,,14.0,,,,,,,,,,,,,
+0,20202021,New York Rangers,National Hockey League,1,10,12,47,22,15.0,3.0,15,2.0,0.0,2.0,658:18,64.0,45.0,5.0,51:33,573:40,48.39,18.8,0.0,0.0,33:05,19.0,902.0
+0,20202021,USA,WC,17215,0,4,10,4,6.0,,6,,,5.0,,,,,,,,,,,,,
+0,20212022,Seattle Kraken,National Hockey League,1,9,8,39,17,4.0,0.0,4,1.0,2.0,1.0,487:04,61.0,57.0,0.0,06:38,436:55,46.43,13.1,0.0,2.0,43:31,16.0,702.0
+0,20212022,Toronto Maple Leafs,National Hockey League,2,1,2,19,3,10.0,0.0,10,0.0,0.0,-1.0,205:06,16.0,34.0,0.0,13:07,179:41,51.76,12.5,0.0,0.0,12:18,8.0,285.0

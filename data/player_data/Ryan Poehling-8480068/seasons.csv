@@ -1,0 +1,22 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Lakeville North High,USHS-MN,99422,16,11,21.0,24,21,0.0,27,,,,,,,,,,,,,,,,
+0,20142015,Team Southeast,UMHSEHL,58168,2,3,20.0,20,20,0.0,5,,,,,,,,,,,,,,,,
+0,20142015,Lakeville North High,USHS-MN,99422,24,14,12.0,25,12,0.0,38,,,,,,,,,,,,,,,,
+0,20152016,Lincoln Stars,USHL,9366,2,2,0.0,9,0,4.0,4,,,,,,,,,,,,,,,,
+0,20152016,Team MAP South Hockey,UMHSEHL,58198,14,6,12.0,20,12,,20,,,,,,,,,,,,,,,,
+0,20152016,Lakeville North High,USHS-MN,99438,34,20,10.0,25,10,,54,,,,,,,,,,,,,,,,
+0,20162017,St. Cloud State Univ.,NCAA,8290,6,7,12.0,35,12,-8.0,13,,,,,,,,,,,,,,,,
+0,20162017,USA U18,WJC-18,17253,2,3,6.0,7,6,4.0,5,,,,,,,,,,,,,,,,
+0,20162017,U.S. National U18 Team,USDP,19564,2,4,4.0,9,4,,6,,,,,,,,,,,,,,,,
+0,20162017,USA U18,Hlinka Gretzky Cup,140070,2,4,6.0,4,6,1.0,6,,,,,,,,,,,,,,,,
+0,20162017,Team Columbia,USA-S17,177385,3,2,,5,,,5,,,,,,,,,,,,,,,,
+0,20172018,St. Cloud State Univ.,NCAA,8290,17,14,30.0,36,30,4.0,31,,,,,,,,,,,,,,,,
+0,20172018,USA U20,WJC-20,17276,2,1,0.0,7,0,0.0,3,,,,,,,,,,,,,,,,
+0,20182019,Montréal Canadiens,National Hockey League,1,0,3,0.0,1,0,3.0,3,11:22,3.0,1.0,0.0,0.0,00:00,10:40,57.14,100.0,0.0,0.0,0.0,0.0,00:42,0.0,19.0
+0,20182019,St. Cloud State Univ.,NCAA,8290,23,8,34.0,36,34,12.0,31,,,,,,,,,,,,,,,,
+0,20182019,USA U20,WJC-20,17276,3,5,2.0,7,2,5.0,8,,,,,,,,,,,,,,,,
+0,20192020,Montréal Canadiens,National Hockey League,1,1,1,4.0,27,4,-4.0,2,279:13,26.0,38.0,0.0,0.0,06:40,256:23,20.0,3.8,0.0,0.0,0.0,0.0,16:10,10.0,402.0
+0,20192020,Laval Rocket,AHL,222817,8,5,6.0,36,6,-2.0,13,,,,,,,,,,,,,,,,
+0,20202021,Laval Rocket,AHL,222817,14,11,2.0,28,2,5.0,25,,,,,,,,,,,,,,,,
+0,20212022,Montréal Canadiens,National Hockey League,1,8,9,6.0,57,6,-21.0,17,695:08,91.0,40.0,2.0,2.0,77:47,603:50,46.42,9.9,1.0,0.0,0.0,0.0,13:31,28.0,961.0
+0,20212022,Laval Rocket,AHL,222817,3,3,0.0,7,0,-3.0,6,,,,,,,,,,,,,,,,

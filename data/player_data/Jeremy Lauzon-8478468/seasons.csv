@@ -1,0 +1,19 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20102011,Abitibi Est Filon Bantam AAA R,QBAAA R,153323,5,1,16,23,16,0.0,6,,,,,,,,,,,,,,,,
+0,20112012,Abitibi Est Filon Bantam AAA R,QBAAA R,153323,3,3,4,16,4,0.0,6,,,,,,,,,,,,,,,,
+0,20122013,Amos,QAAA,1,11,4,52,41,52,,15,,,,,,,,,,,,,,,,
+0,20132014,Rouyn-Noranda,QMJHL,1,11,5,64,55,64,4.0,16,54.0,1.0,9.3,0.0,0.0,,,,,,,,,,,
+0,20142015,Rouyn-Noranda,QMJHL,1,21,15,88,60,88,12.0,36,116.0,3.0,12.9,2.0,0.0,,,,,,,,,,,
+0,20152016,Rouyn-Noranda,QMJHL,1,40,10,80,46,80,40.0,50,,6.0,,1.0,0.0,,,,,,,,,,,
+0,20152016,Rouyn-Noranda Huskies,M-Cup,9401,2,0,12,5,12,-4.0,2,,,,,,,,,,,,,,,,
+0,20152016,Rouyn-Noranda Huskies,QMJHL,9660,40,10,80,46,80,40.0,50,,,,,,,,,,,,,,,,
+0,20162017,Rouyn-Noranda Huskies,QMJHL,9660,23,5,50,39,50,25.0,28,,,,,,,,,,,,,,,,
+0,20162017,Canada U20,WJC-20,17216,1,2,2,7,2,5.0,3,,,,,,,,,,,,,,,,
+0,20172018,Providence Bruins,AHL,897,6,1,38,52,38,1.0,7,,,,,,,,,,,,,,,,
+0,20182019,Boston Bruins,National Hockey League,1,0,1,2,16,2,-1.0,1,11.0,0.0,9.09,1.0,0.0,248:37,15.0,0.0,00:31,213:47,0.0,0.0,0.0,34:19,15.0,350.0
+0,20182019,Providence Bruins,AHL,897,6,1,42,29,42,8.0,7,,,,,,,,,,,,,,,,
+0,20192020,Boston Bruins,National Hockey League,1,1,1,29,19,29,5.0,2,20.0,0.0,5.0,0.0,0.0,293:02,32.0,0.0,00:05,259:15,0.0,0.0,0.0,33:42,23.0,416.0
+0,20192020,Providence Bruins,AHL,897,12,1,65,45,65,22.0,13,,,,,,,,,,,,,,,,
+0,20202021,Boston Bruins,National Hockey League,1,7,1,40,41,40,8.0,8,48.0,0.0,2.1,0.0,0.0,767:08,98.0,0.0,01:53,638:38,0.0,0.0,1.0,126:37,53.0,1019.0
+0,20212022,Seattle Kraken,National Hockey League,1,5,1,67,53,67,-9.0,6,58.0,0.0,1.7,0.0,0.0,943:57,176.0,0.0,01:29,841:16,0.0,0.0,0.0,101:12,49.0,1220.0
+0,20212022,Nashville Predators,National Hockey League,2,0,1,14,13,14,3.0,1,17.0,0.0,5.9,0.0,0.0,222:22,48.0,0.0,00:27,199:08,0.0,0.0,0.0,22:47,14.0,289.0

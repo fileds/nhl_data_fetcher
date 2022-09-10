@@ -1,0 +1,23 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,powerPlayGoals,shortHandedGoals,shots,shotPct,gameWinningGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20082009,Calgary Bronks Bantam AAA,AMBHL,58898,14,2,12,33,12,0,16,,,,,,,,,,,,,,,,
+0,20092010,Calgary Flames Bantam AAA,AMBHL,149948,16,8,34,32,34,0,24,,,,,,,,,,,,,,,,
+0,20102011,Swift Current,WHL,2,0,0,0,1,0,0,0,0.0,0.0,,,,,,,,,,,,,,
+0,20112012,Swift Current,WHL,1,8,2,63,57,63,2,10,1.0,0.0,,,,,,,,,,,,,,
+0,20122013,Swift Current,WHL,1,23,4,80,71,80,25,27,2.0,0.0,,,,,,,,,,,,,,
+0,20122013,Canada,WJ18-A,2,0,1,4,7,4,2,1,0.0,0.0,6.0,16.67,0.0,,,,,,,,,,,
+0,20132014,Swift Current,WHL,1,29,6,63,70,63,24,35,1.0,0.0,,,,,,,,,,,,,,
+0,20142015,Swift Current,WHL,1,14,1,48,48,48,-16,15,0.0,0.0,,,0.0,,,,,,,,,,,
+0,20142015,Canada,WJC-A,2,0,0,2,7,2,1,0,0.0,0.0,7.0,,0.0,,,,,,,,,,,
+0,20142015,Springfield,AHL,3,1,0,0,3,0,1,1,0.0,0.0,6.0,0.0,0.0,,,,,,,,,,,
+0,20152016,Lake Erie,AHL,1,16,3,50,63,50,17,19,0.0,0.0,78.0,3.8,0.0,,,,,,,,,,,
+0,20152016,Cleveland Monsters,AHL,22447,16,3,50,63,50,17,19,,,,,,,,,,,,,,,,
+0,20162017,Cleveland Monsters,AHL,22447,5,1,30,38,30,-8,6,,,,,,,,,,,,,,,,
+0,20162017,Texas Stars,AHL,45177,6,2,21,22,21,2,8,,,,,,,,,,,,,,,,
+0,20172018,Dallas Stars,National Hockey League,1,1,0,26,6,26,3,1,0.0,0.0,6.0,0.0,0.0,65:06,7.0,0.0,00:00,61:39,0.0,0.0,0.0,03:27,2.0,96.0
+0,20172018,Texas Stars,AHL,45177,14,3,47,55,47,6,17,,,,,,,,,,,,,,,,
+0,20182019,Dallas Stars,National Hockey League,1,1,0,0,5,0,4,1,0.0,0.0,5.0,0.0,0.0,50:56,6.0,0.0,00:15,50:41,0.0,0.0,0.0,00:00,2.0,71.0
+0,20182019,Texas Stars,AHL,45177,22,2,75,73,75,8,24,,,,,,,,,,,,,,,,
+0,20192020,Texas Stars,AHL,45177,12,2,55,59,55,1,14,,,,,,,,,,,,,,,,
+0,20202021,Barys Nur-Sultan,KHL,25424,5,2,40,41,40,-7,7,,,,,,,,,,,,,,,,
+0,20212022,Ottawa Senators,National Hockey League,1,0,0,7,9,7,-1,0,0.0,0.0,4.0,0.0,0.0,111:00,18.0,0.0,00:00,95:43,0.0,0.0,0.0,15:17,2.0,153.0
+0,20212022,Belleville Senators,AHL,227817,11,2,22,45,22,17,13,,,,,,,,,,,,,,,,

@@ -1,0 +1,2 @@
+,id,fullName,link,firstName,lastName,birthDate,currentAge,nationality,active,alternateCaptain,captain,rookie,rosterStatus,currentTeam,primaryPosition
+0,8482440,Felix Robert,/api/v1/people/8482440,Felix,Robert,1999-07-24,23,CAN,True,False,False,True,Y,"{'id': 14, 'name': 'Tampa Bay Lightning', 'link': '/api/v1/teams/14'}","{'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}"

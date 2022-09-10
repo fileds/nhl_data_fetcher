@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20152016,Krylia Sovetov Moskva U16,Russia U16,190787,11,4,18,26,18,15,,,,,,,,,,,,,,,,,
+0,20162017,MHK Krylia Sovetov Moskva,MHL,45862,2,1,2,15,2,3,-2.0,,,,,,,,,,,,,,,,
+0,20162017,Krylia Sovetov Moskva U17,Russia U17,180418,5,4,28,22,28,9,,,,,,,,,,,,,,,,,
+0,20162017,Krylia Sovetov Moskva U18,Russia U18,241819,2,1,16,11,16,3,,,,,,,,,,,,,,,,,
+0,20172018,Russia U18,WJC-18,17523,2,1,0,5,0,3,5.0,,,,,,,,,,,,,,,,
+0,20172018,Krasnaya Armiya Moskva,JCWC,49600,0,0,2,4,2,0,0.0,,,,,,,,,,,,,,,,
+0,20172018,Krasnaya Armiya Moskva,MHL,49712,7,7,37,37,37,14,17.0,,,,,,,,,,,,,,,,
+0,20172018,Russia U18 |WJAC-19|,WJAC-19,87382,0,4,2,4,2,4,,,,,,,,,,,,,,,,,
+0,20172018,CSKA Moskva U18,Russia U18,259189,1,2,4,3,4,3,,,,,,,,,,,,,,,,,
+0,20182019,CSKA Moskva,KHL,2314,3,1,12,43,12,4,16.0,,,,,,,,,,,,,,,,
+0,20182019,Russia U20,WJC-20,17546,7,1,0,7,0,8,12.0,,,,,,,,,,,,,,,,
+0,20192020,CSKA Moskva,KHL,2314,7,0,14,43,14,7,21.0,,,,,,,,,,,,,,,,
+0,20192020,Russia U20,WJC-20,17546,5,1,2,7,2,6,6.0,,,,,,,,,,,,,,,,
+0,20192020,Russia,EHT,64546,0,0,2,3,2,0,0.0,,,,,,,,,,,,,,,,
+0,20202021,Montréal Canadiens,National Hockey League,1,5,1,21,54,21,6,1.0,931:50,71.0,138.0,0.0,1.0,40:08,845:49,0.0,1.4,0.0,0.0,0.0,0.0,45:53,60.0,1075.0
+0,20212022,Montréal Canadiens,National Hockey League,1,10,3,53,79,53,13,-9.0,1611:09,107.0,227.0,0.0,0.0,08:23,1399:20,0.0,2.8,0.0,0.0,0.0,0.0,203:26,144.0,1780.0

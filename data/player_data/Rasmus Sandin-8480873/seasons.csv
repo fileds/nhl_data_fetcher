@@ -1,0 +1,26 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Sweden Selects U13,WSI U13,206617,1,2,2,9,2,3,,,,,,,,,,,,,,,,,
+0,20132014,MODO Hockey U16,U16 Elit,43796,3,4,6,11,6,7,,,,,,,,,,,,,,,,,
+0,20142015,MODO Hockey J18,J18 Elit,6064,3,1,0,6,0,4,7.0,,,,,,,,,,,,,,,,
+0,20142015,Almtuna IS J18,J18 Allsvenskan,13564,3,0,4,10,4,3,-2.0,,,,,,,,,,,,,,,,
+0,20142015,MODO Hockey U16,U16 Elit,43796,11,5,6,11,6,16,,,,,,,,,,,,,,,,,
+0,20142015,Almtuna IS U16,U16 Div.1,123066,15,7,16,14,16,22,,,,,,,,,,,,,,,,,
+0,20142015,Almtuna IS U16 2,U16 Div.1,163156,1,0,0,1,0,1,,,,,,,,,,,,,,,,,
+0,20152016,MoDo Hockey J18,J18 Region,7158,17,5,6,20,6,22,24.0,,,,,,,,,,,,,,,,
+0,20152016,Brynäs IF J18,J18 Nationell,7838,7,1,2,18,2,8,1.0,,,,,,,,,,,,,,,,
+0,20152016,Ångermanland,TV-Pucken,10916,4,1,0,6,0,5,,,,,,,,,,,,,,,,,
+0,20152016,Brynäs IF U16,U16 SM,43847,4,0,2,3,2,4,,,,,,,,,,,,,,,,,
+0,20162017,Brynäs IF J20,J20 Nationell,5789,15,3,14,36,14,18,-8.0,,,,,,,,,,,,,,,,
+0,20162017,Brynäs IF J18,J18 Region,7078,5,2,2,7,2,7,,,,,,,,,,,,,,,,,
+0,20162017,Sweden U17,WHC-17,61300,2,0,2,6,2,2,,,,,,,,,,,,,,,,,
+0,20172018,Rögle BK,SHL,1119,1,0,0,5,0,1,-2.0,,,,,,,,,,,,,,,,
+0,20172018,Soo Greyhounds,OHL,6918,33,12,24,51,24,45,35.0,,,,,,,,,,,,,,,,
+0,20172018,Sweden U18,Hlinka Gretzky Cup,158290,3,0,2,5,2,3,,,,,,,,,,,,,,,,,
+0,20182019,Sweden U20,WJC-20,8596,2,2,4,5,4,4,4.0,,,,,,,,,,,,,,,,
+0,20182019,Toronto Marlies,AHL,13377,22,6,16,44,16,28,-10.0,,,,,,,,,,,,,,,,
+0,20192020,Toronto Maple Leafs,National Hockey League,1,7,1,10,28,10,8,-7.0,400:49,22.0,33.0,0.0,2.0,20:43,372:37,0.0,4.5,1.0,0.0,0.0,0.0,07:29,22.0,534.0
+0,20192020,Sweden U20,WJC-20,8596,7,3,6,7,6,10,3.0,,,,,,,,,,,,,,,,
+0,20192020,Toronto Marlies,AHL,13377,13,2,17,21,17,15,-2.0,,,,,,,,,,,,,,,,
+0,20202021,Toronto Maple Leafs,National Hockey League,1,4,0,0,9,0,4,6.0,131:57,9.0,11.0,0.0,0.0,15:51,115:54,0.0,0.0,0.0,0.0,0.0,0.0,00:12,7.0,173.0
+0,20202021,Toronto Marlies,AHL,13377,0,0,0,1,0,0,1.0,,,,,,,,,,,,,,,,
+0,20212022,Toronto Maple Leafs,National Hockey League,1,11,5,4,51,4,16,9.0,864:56,46.0,88.0,0.0,3.0,68:50,793:17,0.0,10.9,3.0,0.0,0.0,0.0,02:49,39.0,1087.0

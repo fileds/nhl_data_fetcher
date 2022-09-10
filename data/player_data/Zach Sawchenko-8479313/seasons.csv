@@ -1,0 +1,17 @@
+,season,team,league,sequenceNumber,savePercentage,goalAgainstAverage,games,timeOnIce,ot,shutouts,ties,wins,losses,saves,powerPlaySaves,shortHandedSaves,evenSaves,shortHandedShots,evenShots,powerPlayShots,gamesStarted,shotsAgainst,goalsAgainst,powerPlaySavePercentage,shortHandedSavePercentage,evenStrengthSavePercentage
+0,20102011,CRAA Blue Bantam AA,HCBAA,128578,0.94,1.89,16,,,,,,,,,,,,,,,,,,,
+0,20112012,Calgary Royals U15 AAA,AEHL U15,64909,0.944,1.47,15,,,,,,,,,,,,,,,,,,,
+0,20122013,Notre Dame Argos Midget AAA,SMHL,43761,0.896,3.42,27,,,,,,,,,,,,,,,,,,,
+0,20132014,Canada Pacific U17,WHC-17,60681,0.929,2.4,5,,,,,,,,,,,,,,,,,,,
+0,20142015,Moose Jaw Warriors,WHL,7741,0.896,3.32,49,,,,,,,,,,,,,,,,,,,
+0,20142015,Canada U18,WJC-18,17193,0.898,3.61,5,,,,,,,,,,,,,,,,,,,
+0,20152016,Moose Jaw Warriors,WHL,7741,0.917,3.02,51,,,,,,,,,,,,,,,,,,,
+0,20162017,Moose Jaw Warriors,WHL,7741,0.917,2.79,51,,,,,,,,,,,,,,,,,,,
+0,20172018,Univ. of Alberta,USports,12772,0.911,2.12,15,,,,,,,,,,,,,,,,,,,
+0,20182019,Univ. of Alberta,USports,12772,0.926,1.46,19,,,,,,,,,,,,,,,,,,,
+0,20192020,Allen Americans,ECHL,45785,0.93,2.35,13,,,,,,,,,,,,,,,,,,,
+0,20192020,San Jose Barracuda,AHL,187427,0.911,2.87,13,,,,,,,,,,,,,,,,,,,
+0,20202021,Allen Americans,ECHL,45785,0.926,2.55,7,,,,,,,,,,,,,,,,,,,
+0,20202021,San Jose Barracuda,AHL,187427,0.914,2.59,5,,,,,,,,,,,,,,,,,,,
+0,20212022,San Jose Sharks,National Hockey League,1,0.901,3.34614,7,268:58,1.0,0.0,0.0,1.0,2.0,136.0,13.0,12.0,111.0,13.0,122.0,16.0,3.0,151.0,15.0,81.25,92.3076923076923,90.98360655737704
+0,20212022,San Jose Barracuda,AHL,187427,0.877,4.03,14,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,shots,powerPlayGoals,shotPct,gameWinningGoals,shortHandedGoals,timeOnIce,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Notre Dame Hounds Midget AAA,SMHL,48421,25,13,98,41,98,0,38,,,,,,,,,,,,,,,,
+0,20102011,Rimouski Océanic,QMJHL,8958,8,2,45,61,45,-8,10,,,,,,,,,,,,,,,,
+0,20112012,Rimouski,QMJHL,1,9,7,67,40,67,4,16,46.0,0.0,15.2,2.0,0.0,,,,,,,,,,,
+0,20112012,Rouyn-Noranda,QMJHL,2,7,3,69,27,69,-17,10,45.0,0.0,6.7,1.0,0.0,,,,,,,,,,,
+0,20122013,Rouyn-Noranda,QMJHL,1,14,10,164,65,164,-12,24,111.0,2.0,9.0,1.0,0.0,,,,,,,,,,,
+0,20132014,Rouyn-Noranda,QMJHL,1,15,20,148,68,148,-11,35,180.0,6.0,11.1,2.0,0.0,,,,,,,,,,,
+0,20142015,Washington Capitals,National Hockey League,1,1,1,23,13,23,4,2,16.0,0.0,6.25,0.0,0.0,98:04,35.0,0.0,00:01,98:03,50.0,0.0,0.0,00:00,0.0,150.0
+0,20142015,Hershey,AHL,2,4,4,121,45,121,-5,8,55.0,0.0,7.3,0.0,0.0,,,,,,,,,,,
+0,20152016,Hershey,AHL,1,9,7,120,59,120,2,16,85.0,0.0,8.2,0.0,0.0,,,,,,,,,,,
+0,20152016,Hershey Bears,AHL,997,9,7,120,59,120,2,16,,,,,,,,,,,,,,,,
+0,20162017,Washington Capitals,National Hockey League,1,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,06:08,1.0,0.0,00:00,06:08,0.0,0.0,0.0,00:00,0.0,8.0
+0,20162017,Hershey Bears,AHL,997,20,10,117,64,117,5,30,,,,,,,,,,,,,,,,
+0,20172018,Washington Capitals,National Hockey League,1,0,0,5,3,5,0,0,1.0,0.0,0.0,0.0,0.0,20:45,4.0,0.0,00:00,20:45,0.0,0.0,0.0,00:00,0.0,30.0
+0,20172018,Hershey Bears,AHL,997,9,17,79,69,79,-8,26,,,,,,,,,,,,,,,,
+0,20182019,Hershey Bears,AHL,997,13,15,118,74,118,-12,28,,,,,,,,,,,,,,,,
+0,20192020,Hershey Bears,AHL,997,19,10,83,59,83,14,29,,,,,,,,,,,,,,,,
+0,20202021,Colorado Avalanche,National Hockey League,1,3,0,40,12,40,1,3,6.0,0.0,0.0,0.0,0.0,78:50,28.0,0.0,00:00,78:27,0.0,0.0,0.0,00:23,2.0,117.0
+0,20202021,Colorado Eagles,AHL,8957,4,4,15,12,15,-1,8,,,,,,,,,,,,,,,,
+0,20212022,Arizona Coyotes,National Hockey League,1,1,2,106,39,106,1,3,36.0,0.0,5.6,0.0,0.0,369:37,139.0,0.0,03:40,363:34,50.0,0.0,0.0,02:23,10.0,548.0

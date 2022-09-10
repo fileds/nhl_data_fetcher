@@ -1,0 +1,25 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,plusMinus,points,timeOnIce,shots,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20122013,Kraj Vysocina U15,MMCR,259286,1,0,0,5,0,1.0,1,,,,,,,,,,,,,,,,
+0,20132014,HC Zdar nad Sazavou U16,Czech U16,144557,29,29,14,36,14,29.0,58,,,,,,,,,,,,,,,,
+0,20142015,HC Kometa Brno U18,Czech U18,40622,2,1,4,4,4,-1.0,3,,,,,,,,,,,,,,,,
+0,20142015,HC Kometa Brno U16,Czech U16,83447,12,8,4,9,4,17.0,20,,,,,,,,,,,,,,,,
+0,20142015,HC Zdar nad Sazavou U16,Czech U16,144557,47,24,10,25,10,50.0,71,,,,,,,,,,,,,,,,
+0,20152016,HC Kometa Brno U18,Czechia U18,42444,21,9,14,18,14,11.0,30,,,,,,,,,,,,,,,,
+0,20152016,Czechia U17,WHC-17,61320,1,4,4,5,4,,5,,,,,,,,,,,,,,,,
+0,20162017,HC Kometa Brno,Czechia,13876,8,7,6,41,6,-2.0,15,,,,,,,,,,,,,,,,
+0,20162017,Czechia U18,WJC-18,17013,3,0,4,5,4,-1.0,3,,,,,,,,,,,,,,,,
+0,20162017,Czechia U20,WJC-20,17046,2,1,2,5,2,2.0,3,,,,,,,,,,,,,,,,
+0,20162017,HC Kometa Brno U20,Czechia U20,35977,2,1,4,1,4,2.0,3,,,,,,,,,,,,,,,,
+0,20162017,Czechia U18,Hlinka Gretzky Cup,158320,4,2,2,5,2,4.0,6,,,,,,,,,,,,,,,,
+0,20172018,Carolina Hurricanes,National Hockey League,1,0,0,0,1,0,0.0,0,06:54,0.0,0.0,0.0,0.0,00:00,06:54,0.0,0.0,0.0,0.0,0.0,0.0,00:00,0.0,13.0
+0,20172018,HC Kometa Brno,Champions HL,12012,1,1,0,2,0,0.0,2,,,,,,,,,,,,,,,,
+0,20172018,HC Kometa Brno,Czechia,13876,8,9,6,24,6,0.0,17,,,,,,,,,,,,,,,,
+0,20172018,Czechia,WC,17015,2,3,0,7,0,2.0,5,,,,,,,,,,,,,,,,
+0,20172018,Czechia U20,WJC-20,17046,8,3,0,7,0,-5.0,11,,,,,,,,,,,,,,,,
+0,20172018,Czechia,EHT,68526,0,0,0,2,0,-3.0,0,,,,,,,,,,,,,,,,
+0,20182019,Carolina Hurricanes,National Hockey League,1,1,1,2,7,2,0.0,2,70:10,6.0,3.0,0.0,0.0,13:28,56:42,36.36,16.67,0.0,0.0,0.0,0.0,00:00,2.0,103.0
+0,20182019,Charlotte Checkers,AHL,2357,36,16,36,64,36,20.0,52,,,,,,,,,,,,,,,,
+0,20182019,Czechia U20,WJC-20,17046,3,1,18,5,18,-2.0,4,,,,,,,,,,,,,,,,
+0,20192020,Carolina Hurricanes,National Hockey League,1,20,16,20,64,20,-6.0,36,906:41,88.0,65.0,5.0,9.0,115:25,789:30,27.08,18.2,3.0,0.0,0.0,0.0,01:46,19.0,1183.0
+0,20202021,Carolina Hurricanes,National Hockey League,1,27,14,10,53,10,25.0,41,916:27,114.0,45.0,4.0,11.0,97:53,767:38,46.15,12.3,3.0,2.0,2.0,4.0,50:56,32.0,1114.0
+0,20212022,Carolina Hurricanes,National Hockey League,1,26,14,32,78,32,5.0,40,1262:40,159.0,55.0,2.0,4.0,128:16,1033:27,44.71,8.8,6.0,1.0,1.0,1.0,100:57,19.0,1583.0

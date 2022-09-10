@@ -1,0 +1,20 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,plusMinus,powerPlayGoals,gameWinningGoals,shortHandedGoals,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20092010,Hollidaysburg Area High,USHS-PA,217971,26,19,14.0,19,14,45,,,,,,,,,,,,,,,,,
+0,20102011,Hollidaysburg Area High,USHS-PA,217806,35,34,26.0,18,26,69,0.0,,,,,,,,,,,,,,,,
+0,20112012,Deerfield,High-MA,1,8,8,,25,,16,,,,,,,,,,,,,,,,,
+0,20122013,Deerfield,High-MA,1,15,9,,24,,24,,,,,,,,,,,,,,,,,
+0,20132014,Bos. Jr. Bruins,Minor-MA,1,9,2,2.0,11,2,11,,,,,,,,,,,,,,,,,
+0,20132014,Deerfield,High-MA,2,34,21,,25,,55,,,,,,,,,,,,,,,,,
+0,20142015,Brown U.,ECAC,1,8,4,16.0,31,16,12,,0.0,1.0,0.0,,,,,,,,,,,,,
+0,20152016,Brown U.,ECAC,1,6,4,4.0,31,4,10,-7.0,1.0,1.0,0.0,,,,,,,,,,,,,
+0,20152016,Brown Univ.,NCAA,13760,6,4,4.0,31,4,10,-7.0,,,,,,,,,,,,,,,,
+0,20162017,Brown Univ.,NCAA,13760,22,13,32.0,31,32,35,-2.0,,,,,,,,,,,,,,,,
+0,20172018,Wilkes-Barre/Scranton Penguins,AHL,1077,2,1,4.0,9,4,3,0.0,,,,,,,,,,,,,,,,
+0,20172018,Brown Univ.,NCAA,13760,14,8,34.0,31,34,22,-10.0,,,,,,,,,,,,,,,,
+0,20182019,Wilkes-Barre/Scranton Penguins,AHL,1077,36,13,94.0,70,94,49,1.0,,,,,,,,,,,,,,,,
+0,20192020,Pittsburgh Penguins,National Hockey League,1,7,6,23.0,50,23,13,5.0,0.0,1.0,0.0,480:49,56.0,95.0,0.0,01:17,448:51,49.58,10.7,0.0,0.0,30:41,17.0,734.0
+0,20192020,Wilkes-Barre/Scranton Penguins,AHL,1077,0,3,10.0,6,10,3,1.0,,,,,,,,,,,,,,,,
+0,20202021,Pittsburgh Penguins,National Hockey League,1,6,0,25.0,34,25,6,-6.0,0.0,0.0,0.0,332:23,33.0,89.0,0.0,00:44,326:31,52.38,0.0,0.0,0.0,05:08,11.0,511.0
+0,20212022,Pittsburgh Penguins,National Hockey League,1,2,0,16.0,10,16,2,0.0,0.0,0.0,0.0,87:05,9.0,34.0,0.0,00:09,77:17,35.14,0.0,0.0,0.0,09:39,2.0,129.0
+0,20212022,Chicago Blackhawks,National Hockey League,2,6,5,21.0,46,21,11,-16.0,0.0,1.0,0.0,672:54,71.0,103.0,0.0,02:19,572:38,42.04,7.0,0.0,0.0,97:57,24.0,924.0
+0,20212022,USA,WC,17215,2,1,6.0,10,6,3,1.0,,,,,,,,,,,,,,,,

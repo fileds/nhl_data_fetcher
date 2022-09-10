@@ -1,0 +1,21 @@
+,season,team,league,sequenceNumber,assists,goals,pim,games,penaltyMinutes,points,powerPlayGoals,gameWinningGoals,shortHandedGoals,plusMinus,timeOnIce,shots,hits,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,faceOffPct,shotPct,overTimeGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,shifts
+0,20132014,Yale Academy,CSSHL,1,15,1,8,17,8,16,,,,,,,,,,,,,,,,,
+0,20132014,Yale Academy,Other,2,20,5,4,12,4,25,,,,,,,,,,,,,,,,,
+0,20132014,Chilliwack,BCHL,3,0,0,0,1,0,0,0.0,0.0,0.0,,,,,,,,,,,,,,
+0,20142015,Chilliwack,BCHL,1,23,4,4,55,4,27,3.0,0.0,0.0,,,,,,,,,,,,,,
+0,20152016,Chilliwack,BCHL,1,28,12,16,50,16,40,3.0,1.0,0.0,,,,,,,,,,,,,,
+0,20152016,Chilliwack Chiefs,BCHL,13824,28,12,16,50,16,40,,,,2.0,,,,,,,,,,,,,
+0,20152016,Canada West U19,WJAC-19,87372,2,0,0,4,0,2,,,,,,,,,,,,,,,,,
+0,20162017,Grand Rapids Griffins,AHL,987,0,0,0,1,0,0,,,,1.0,,,,,,,,,,,,,
+0,20162017,St. Cloud State Univ.,NCAA,8290,11,1,14,36,14,12,,,,-9.0,,,,,,,,,,,,,
+0,20172018,Portland Winterhawks,WHL,8511,26,1,18,32,18,27,,,,20.0,,,,,,,,,,,,,
+0,20172018,Prince George Cougars,WHL,9621,26,13,14,37,14,39,,,,9.0,,,,,,,,,,,,,
+0,20182019,Detroit Red Wings,National Hockey League,1,9,7,16,52,16,16,4.0,1.0,0.0,-20.0,949:10,71.0,18.0,9.0,126:57,811:09,100.0,9.86,0.0,0.0,11:04,50.0,1219.0
+0,20182019,Grand Rapids Griffins,AHL,987,12,0,12,25,12,12,,,,0.0,,,,,,,,,,,,,
+0,20192020,Detroit Red Wings,National Hockey League,1,6,2,6,36,6,8,1.0,1.0,0.0,-26.0,691:58,51.0,15.0,5.0,95:51,589:35,0.0,3.9,1.0,0.0,06:32,35.0,797.0
+0,20192020,Grand Rapids Griffins,AHL,987,10,3,8,30,8,13,,,,-15.0,,,,,,,,,,,,,
+0,20202021,Detroit Red Wings,National Hockey League,1,2,1,4,16,4,3,0.0,0.0,0.0,-1.0,254:21,10.0,5.0,0.0,26:51,227:30,0.0,10.0,0.0,0.0,00:00,18.0,293.0
+0,20202021,Grand Rapids Griffins,AHL,987,7,3,6,13,6,10,,,,-5.0,,,,,,,,,,,,,
+0,20212022,Washington Capitals,National Hockey League,1,1,0,2,7,2,1,0.0,0.0,0.0,-4.0,95:05,3.0,3.0,0.0,04:50,90:15,0.0,0.0,0.0,0.0,00:00,9.0,117.0
+0,20212022,Seattle Kraken,National Hockey League,2,2,0,0,4,0,2,0.0,0.0,0.0,1.0,78:52,8.0,2.0,0.0,06:19,72:07,0.0,0.0,0.0,0.0,00:26,4.0,88.0
+0,20212022,Charlotte Checkers,AHL,2357,15,3,8,31,8,18,,,,8.0,,,,,,,,,,,,,
